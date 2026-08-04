@@ -1,9 +1,9 @@
 {
   "players": [
     {
-      "name": "DarkHawk",
-      "username": "RobotChicken",
-      "phone": "+2348057545152",
+      "name": "Fahd",
+      "username": "Mini",
+      "phone": "+2348140087648",
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -120,9 +120,9 @@
       "suspended": false
     },
     {
-      "name": "Fahd",
-      "username": "Mini",
-      "phone": "+2348140087648",
+      "name": "Angel",
+      "username": "Angel",
+      "phone": "+27833006494",
       "played": 1,
       "wins": 0,
       "draws": 0,
@@ -137,9 +137,9 @@
       "suspended": false
     },
     {
-      "name": "Angel",
-      "username": "Angel",
-      "phone": "+27833006494",
+      "name": "DarkHawk",
+      "username": "RobotChicken",
+      "phone": "+2348057545152",
       "played": 1,
       "wins": 0,
       "draws": 0,
@@ -233,9 +233,9 @@
     {
       "home": "Mini",
       "away": "RobotChicken",
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "result": "away",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
       "date": "2026-08-03"
     },
     {
@@ -255,6 +255,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-04T09:01:01.701Z",
+  "updatedAt": "2026-08-04T10:21:48.615Z",
   "matchesPlayed": 6
 }
