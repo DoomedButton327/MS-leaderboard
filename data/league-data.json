@@ -1,1 +1,260 @@
-
+{
+  "players": [
+    {
+      "name": "DarkHawk",
+      "username": "RobotChicken",
+      "phone": "+2348057545152",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "points": 1,
+      "gf": 1,
+      "ga": 0,
+      "form": [
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Emma 祝福された",
+      "username": "Emmanuel",
+      "phone": "+2348104879072",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "points": 1,
+      "gf": 1,
+      "ga": 0,
+      "form": [
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Bjorn",
+      "username": "BunnyBearZA",
+      "phone": "+27815794703",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "points": 1,
+      "gf": 1,
+      "ga": 0,
+      "form": [
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "BullDOZER",
+      "username": "BullDOZER",
+      "phone": "+27784483912",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "points": 1,
+      "gf": 1,
+      "ga": 0,
+      "form": [
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Brad",
+      "username": "Incredible_Brad",
+      "phone": "+27827436317",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "points": 1,
+      "gf": 1,
+      "ga": 0,
+      "form": [
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "XWRLD🕴🏼",
+      "username": "DNE",
+      "phone": "+27750656258",
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": [
+        "D"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Mihle",
+      "username": "Rabbit",
+      "phone": "+270719709662",
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": [
+        "D"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Fahd",
+      "username": "Mini",
+      "phone": "+2348140087648",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "points": 0,
+      "gf": 0,
+      "ga": 1,
+      "form": [
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Angel",
+      "username": "Angel",
+      "phone": "+27833006494",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "points": 0,
+      "gf": 0,
+      "ga": 1,
+      "form": [
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Lethabo",
+      "username": "YANITED",
+      "phone": "+27714588239",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "points": 0,
+      "gf": 0,
+      "ga": 1,
+      "form": [
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Kabo",
+      "username": "Kaboman",
+      "phone": "+27703896056",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "points": 0,
+      "gf": 0,
+      "ga": 1,
+      "form": [
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Tyron/Astral",
+      "username": "Astral_Reign",
+      "phone": "+27814301713",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "points": 0,
+      "gf": 0,
+      "ga": 1,
+      "form": [
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    }
+  ],
+  "results": [
+    {
+      "home": "Kaboman",
+      "away": "BullDOZER",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-03"
+    },
+    {
+      "home": "Rabbit",
+      "away": "DNE",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-08-03"
+    },
+    {
+      "home": "Emmanuel",
+      "away": "YANITED",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-03"
+    },
+    {
+      "home": "Mini",
+      "away": "RobotChicken",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-03"
+    },
+    {
+      "home": "Incredible_Brad",
+      "away": "Astral_Reign",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-03"
+    },
+    {
+      "home": "Angel",
+      "away": "BunnyBearZA",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-03"
+    }
+  ],
+  "updatedAt": "2026-08-04T09:01:01.701Z",
+  "matchesPlayed": 6
+}
