@@ -77,6 +77,25 @@
       "suspended": false
     },
     {
+      "name": "Brad",
+      "username": "Incredible_Brad",
+      "phone": "+27827436317",
+      "played": 3,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "points": 2,
+      "gf": 2,
+      "ga": 1,
+      "form": [
+        "W",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Mihle",
       "username": "Rabbit",
       "phone": "+270719709662",
@@ -91,24 +110,6 @@
         "D",
         "L",
         "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Brad",
-      "username": "Incredible_Brad",
-      "phone": "+27827436317",
-      "played": 2,
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "points": 1,
-      "gf": 1,
-      "ga": 1,
-      "form": [
-        "W",
-        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -193,15 +194,16 @@
       "name": "XWRLD🕴🏼",
       "username": "DNE",
       "phone": "+27750656258",
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 1,
-      "losses": 1,
+      "losses": 2,
       "points": 0,
       "gf": 0,
-      "ga": 1,
+      "ga": 2,
       "form": [
         "D",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -228,6 +230,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Incredible_Brad",
+      "away": "DNE",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-05"
+    },
     {
       "home": "Kaboman",
       "away": "Emmanuel",
@@ -365,6 +375,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-05T17:37:34.313Z",
-  "matchesPlayed": 17
+  "updatedAt": "2026-08-06T04:41:18.892Z",
+  "matchesPlayed": 18
 }
