@@ -4,16 +4,38 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 4,
-      "wins": 4,
+      "played": 5,
+      "wins": 5,
       "draws": 0,
       "losses": 0,
-      "points": 4,
-      "gf": 4,
+      "points": 5,
+      "gf": 5,
       "ga": 0,
       "form": [
         "W",
         "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Fahd",
+      "username": "Mini",
+      "phone": "+2348140087648",
+      "played": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "points": 4,
+      "gf": 4,
+      "ga": 1,
+      "form": [
+        "W",
+        "W",
+        "L",
         "W",
         "W"
       ],
@@ -24,29 +46,9 @@
       "name": "Emma 祝福された",
       "username": "Emmanuel",
       "phone": "+2348104879072",
-      "played": 4,
+      "played": 5,
       "wins": 3,
       "draws": 1,
-      "losses": 0,
-      "points": 3,
-      "gf": 3,
-      "ga": 0,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "D"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Fahd",
-      "username": "Mini",
-      "phone": "+2348140087648",
-      "played": 4,
-      "wins": 3,
-      "draws": 0,
       "losses": 1,
       "points": 3,
       "gf": 3,
@@ -54,8 +56,9 @@
       "form": [
         "W",
         "W",
-        "L",
-        "W"
+        "W",
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -64,78 +67,19 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 4,
-      "wins": 2,
+      "played": 5,
+      "wins": 3,
       "draws": 1,
       "losses": 1,
-      "points": 2,
-      "gf": 2,
+      "points": 3,
+      "gf": 3,
       "ga": 1,
       "form": [
         "W",
         "L",
         "W",
-        "D"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Lethabo",
-      "username": "YANITED",
-      "phone": "+27714588239",
-      "played": 4,
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "points": 2,
-      "gf": 2,
-      "ga": 2,
-      "form": [
-        "L",
-        "L",
-        "W",
+        "D",
         "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Kabo",
-      "username": "Kaboman",
-      "phone": "+27703896056",
-      "played": 4,
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "points": 2,
-      "gf": 2,
-      "ga": 2,
-      "form": [
-        "L",
-        "W",
-        "L",
-        "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Brad",
-      "username": "Incredible_Brad",
-      "phone": "+27827436317",
-      "played": 4,
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "points": 2,
-      "gf": 2,
-      "ga": 2,
-      "form": [
-        "W",
-        "L",
-        "W",
-        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -144,18 +88,19 @@
       "name": "Mihle",
       "username": "Rabbit",
       "phone": "+270719709662",
-      "played": 4,
-      "wins": 1,
+      "played": 5,
+      "wins": 2,
       "draws": 1,
       "losses": 2,
-      "points": 1,
-      "gf": 1,
+      "points": 2,
+      "gf": 2,
       "ga": 2,
       "form": [
         "D",
         "L",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -164,18 +109,19 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 4,
-      "wins": 1,
+      "played": 5,
+      "wins": 2,
       "draws": 0,
       "losses": 3,
-      "points": 1,
-      "gf": 1,
+      "points": 2,
+      "gf": 2,
       "ga": 3,
       "form": [
         "L",
         "W",
         "L",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -184,14 +130,78 @@
       "name": "DarkHawk",
       "username": "RobotChicken",
       "phone": "+2348057545152",
-      "played": 4,
-      "wins": 1,
+      "played": 5,
+      "wins": 2,
       "draws": 0,
       "losses": 3,
-      "points": 1,
-      "gf": 1,
+      "points": 2,
+      "gf": 2,
       "ga": 3,
       "form": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Lethabo",
+      "username": "YANITED",
+      "phone": "+27714588239",
+      "played": 5,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "points": 2,
+      "gf": 2,
+      "ga": 3,
+      "form": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Kabo",
+      "username": "Kaboman",
+      "phone": "+27703896056",
+      "played": 5,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "points": 2,
+      "gf": 2,
+      "ga": 3,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Brad",
+      "username": "Incredible_Brad",
+      "phone": "+27827436317",
+      "played": 5,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "points": 2,
+      "gf": 2,
+      "ga": 3,
+      "form": [
+        "W",
         "L",
         "W",
         "L",
@@ -204,18 +214,19 @@
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 4,
+      "played": 5,
       "wins": 1,
       "draws": 0,
-      "losses": 3,
+      "losses": 4,
       "points": 1,
       "gf": 1,
-      "ga": 3,
+      "ga": 4,
       "form": [
         "L",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -224,15 +235,16 @@
       "name": "XWRLD🕴🏼",
       "username": "DNE",
       "phone": "+27750656258",
-      "played": 4,
+      "played": 5,
       "wins": 0,
       "draws": 1,
-      "losses": 3,
+      "losses": 4,
       "points": 0,
       "gf": 0,
-      "ga": 3,
+      "ga": 4,
       "form": [
         "D",
+        "L",
         "L",
         "L",
         "L"
@@ -242,6 +254,54 @@
     }
   ],
   "results": [
+    {
+      "home": "BullDOZER",
+      "away": "DNE",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-07"
+    },
+    {
+      "home": "RobotChicken",
+      "away": "Incredible_Brad",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-07"
+    },
+    {
+      "home": "Mini",
+      "away": "YANITED",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-07"
+    },
+    {
+      "home": "Kaboman",
+      "away": "BunnyBearZA",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-07"
+    },
+    {
+      "home": "Rabbit",
+      "away": "Astral_Reign",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-07"
+    },
+    {
+      "home": "Angel",
+      "away": "Emmanuel",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-07"
+    },
     {
       "home": "BullDOZER",
       "away": "Emmanuel",
@@ -435,6 +495,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-07T12:13:08.434Z",
-  "matchesPlayed": 24
+  "updatedAt": "2026-08-08T08:39:57.585Z",
+  "matchesPlayed": 30
 }
