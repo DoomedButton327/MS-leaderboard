@@ -81,13 +81,13 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 9,
+      "played": 10,
       "wins": 5,
       "draws": 2,
-      "losses": 2,
+      "losses": 3,
       "points": 5,
       "gf": 5,
-      "ga": 2,
+      "ga": 3,
       "form": [
         "W",
         "L",
@@ -97,7 +97,34 @@
         "W",
         "L",
         "W",
-        "D"
+        "D",
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "DarkHawk",
+      "username": "RobotChicken",
+      "phone": "+2348057545152",
+      "played": 10,
+      "wins": 5,
+      "draws": 1,
+      "losses": 4,
+      "points": 5,
+      "gf": 6,
+      "ga": 5,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W",
+        "W",
+        "L",
+        "D",
+        "W",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -123,31 +150,6 @@
         "L",
         "W",
         "D"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "DarkHawk",
-      "username": "RobotChicken",
-      "phone": "+2348057545152",
-      "played": 9,
-      "wins": 4,
-      "draws": 1,
-      "losses": 4,
-      "points": 4,
-      "gf": 5,
-      "ga": 5,
-      "form": [
-        "L",
-        "W",
-        "L",
-        "L",
-        "W",
-        "W",
-        "L",
-        "D",
-        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -320,6 +322,14 @@
     }
   ],
   "results": [
+    {
+      "home": "RobotChicken",
+      "away": "BullDOZER",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-15"
+    },
     {
       "home": "Kaboman",
       "away": "BunnyBearZA",
@@ -809,6 +819,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-15T16:07:51.988Z",
-  "matchesPlayed": 61
+  "updatedAt": "2026-08-15T17:37:06.150Z",
+  "matchesPlayed": 62
 }
