@@ -31,11 +31,11 @@
       "username": "BullDOZER",
       "phone": "+27784483912",
       "played": 10,
-      "wins": 6,
-      "draws": 2,
+      "wins": 7,
+      "draws": 1,
       "losses": 2,
-      "points": 6,
-      "gf": 6,
+      "points": 7,
+      "gf": 7,
       "ga": 2,
       "form": [
         "W",
@@ -46,7 +46,33 @@
         "W",
         "L",
         "W",
-        "D",
+        "W",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Kabo",
+      "username": "Kaboman",
+      "phone": "+27703896056",
+      "played": 10,
+      "wins": 7,
+      "draws": 0,
+      "losses": 3,
+      "points": 7,
+      "gf": 7,
+      "ga": 3,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "W",
+        "W",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -74,31 +100,6 @@
         "D",
         "W",
         "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Kabo",
-      "username": "Kaboman",
-      "phone": "+27703896056",
-      "played": 9,
-      "wins": 6,
-      "draws": 0,
-      "losses": 3,
-      "points": 6,
-      "gf": 6,
-      "ga": 3,
-      "form": [
-        "L",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "W",
-        "W",
-        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -133,13 +134,13 @@
       "name": "Emma 祝福された",
       "username": "Emmanuel",
       "phone": "+2348104879072",
-      "played": 9,
+      "played": 10,
       "wins": 4,
-      "draws": 3,
-      "losses": 2,
+      "draws": 2,
+      "losses": 4,
       "points": 4,
       "gf": 4,
-      "ga": 2,
+      "ga": 4,
       "form": [
         "W",
         "W",
@@ -149,7 +150,8 @@
         "L",
         "L",
         "W",
-        "D"
+        "L",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -158,9 +160,9 @@
       "name": "Mihle",
       "username": "Rabbit",
       "phone": "+270719709662",
-      "played": 9,
+      "played": 10,
       "wins": 4,
-      "draws": 1,
+      "draws": 2,
       "losses": 4,
       "points": 4,
       "gf": 4,
@@ -174,7 +176,8 @@
         "W",
         "W",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -287,14 +290,15 @@
       "name": "Snap Hokage",
       "username": "LaMonK",
       "phone": "+27794291572",
-      "played": 1,
+      "played": 2,
       "wins": 0,
-      "draws": 1,
+      "draws": 2,
       "losses": 0,
       "points": 0,
       "gf": 0,
       "ga": 0,
       "form": [
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -326,6 +330,22 @@
     }
   ],
   "results": [
+    {
+      "home": "Emmanuel",
+      "away": "Kaboman",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-14"
+    },
+    {
+      "home": "LaMonK",
+      "away": "Rabbit",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-08-14"
+    },
     {
       "home": "YANITED",
       "away": "Mini",
@@ -362,8 +382,8 @@
       "home": "Emmanuel",
       "away": "BullDOZER",
       "homeGoals": 0,
-      "awayGoals": 0,
-      "result": "draw",
+      "awayGoals": 1,
+      "result": "away",
       "date": "2026-08-13"
     },
     {
@@ -791,6 +811,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-14T18:15:46.467Z",
-  "matchesPlayed": 58
+  "updatedAt": "2026-08-15T07:09:23.689Z",
+  "matchesPlayed": 60
 }
