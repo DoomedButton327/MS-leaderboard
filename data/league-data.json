@@ -186,24 +186,24 @@
       "name": "Mihle",
       "username": "Rabbit",
       "phone": "+270719709662",
-      "played": 10,
+      "played": 11,
       "wins": 4,
       "draws": 2,
-      "losses": 4,
+      "losses": 5,
       "points": 4,
       "gf": 4,
-      "ga": 4,
+      "ga": 5,
       "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W",
+        "W",
+        "L",
+        "L",
         "D",
-        "L",
-        "W",
-        "L",
-        "W",
-        "W",
-        "W",
-        "L",
-        "L",
-        "D"
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -212,23 +212,23 @@
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 10,
-      "wins": 3,
+      "played": 11,
+      "wins": 4,
       "draws": 0,
       "losses": 7,
-      "points": 3,
-      "gf": 3,
+      "points": 4,
+      "gf": 4,
       "ga": 7,
       "form": [
         "L",
         "L",
-        "L",
         "W",
         "L",
         "L",
         "W",
         "L",
         "L",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -330,6 +330,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Rabbit",
+      "away": "Astral_Reign",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-15"
+    },
     {
       "home": "Kaboman",
       "away": "BunnyBearZA",
@@ -827,6 +835,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-16T17:43:09.151Z",
-  "matchesPlayed": 62
+  "updatedAt": "2026-08-16T17:45:32.626Z",
+  "matchesPlayed": 63
 }
