@@ -27,6 +27,32 @@
       "suspended": false
     },
     {
+      "name": "Fahd",
+      "username": "Mini",
+      "phone": "+2348140087648",
+      "played": 11,
+      "wins": 7,
+      "draws": 1,
+      "losses": 3,
+      "points": 7,
+      "gf": 8,
+      "ga": 4,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "L",
+        "W",
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
@@ -72,32 +98,6 @@
         "W",
         "W",
         "W",
-        "W",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Fahd",
-      "username": "Mini",
-      "phone": "+2348140087648",
-      "played": 10,
-      "wins": 6,
-      "draws": 1,
-      "losses": 3,
-      "points": 6,
-      "gf": 7,
-      "ga": 4,
-      "form": [
-        "W",
-        "W",
-        "L",
-        "W",
-        "L",
-        "W",
-        "W",
-        "D",
         "W",
         "L"
       ],
@@ -264,20 +264,20 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 10,
+      "played": 11,
       "wins": 2,
       "draws": 0,
-      "losses": 8,
+      "losses": 9,
       "points": 2,
       "gf": 2,
-      "ga": 8,
+      "ga": 9,
       "form": [
-        "L",
         "W",
         "L",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -330,6 +330,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Angel",
+      "away": "Mini",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-15"
+    },
     {
       "home": "Rabbit",
       "away": "Astral_Reign",
@@ -835,6 +843,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-16T17:45:32.626Z",
-  "matchesPlayed": 63
+  "updatedAt": "2026-08-16T17:45:38.088Z",
+  "matchesPlayed": 64
 }
