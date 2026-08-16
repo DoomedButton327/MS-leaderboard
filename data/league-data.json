@@ -186,24 +186,50 @@
       "name": "Emma 祝福された",
       "username": "Emmanuel",
       "phone": "+2348104879072",
-      "played": 10,
+      "played": 11,
       "wins": 4,
       "draws": 2,
-      "losses": 4,
+      "losses": 5,
       "points": 4,
       "gf": 4,
-      "ga": 4,
+      "ga": 5,
       "form": [
         "W",
         "W",
-        "W",
         "D",
         "L",
         "D",
         "L",
         "W",
+        "L",
         "L",
         "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Brad",
+      "username": "Incredible_Brad",
+      "phone": "+27827436317",
+      "played": 11,
+      "wins": 3,
+      "draws": 2,
+      "losses": 6,
+      "points": 3,
+      "gf": 3,
+      "ga": 6,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "D",
+        "L",
+        "L",
+        "D",
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -229,32 +255,6 @@
         "L",
         "L",
         "W",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Brad",
-      "username": "Incredible_Brad",
-      "phone": "+27827436317",
-      "played": 10,
-      "wins": 2,
-      "draws": 2,
-      "losses": 6,
-      "points": 2,
-      "gf": 2,
-      "ga": 6,
-      "form": [
-        "W",
-        "L",
-        "W",
-        "L",
-        "L",
-        "D",
-        "L",
-        "L",
-        "D",
         "L"
       ],
       "postponements": 20,
@@ -330,6 +330,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Emmanuel",
+      "away": "Incredible_Brad",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-15"
+    },
     {
       "home": "Angel",
       "away": "Mini",
@@ -843,6 +851,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-16T17:47:33.708Z",
-  "matchesPlayed": 64
+  "updatedAt": "2026-08-16T17:49:22.671Z",
+  "matchesPlayed": 65
 }
