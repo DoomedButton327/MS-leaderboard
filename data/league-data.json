@@ -41,8 +41,8 @@
         "W",
         "L",
         "W",
-        "L",
         "W",
+        "L",
         "W",
         "D",
         "W",
@@ -93,13 +93,39 @@
         "W",
         "L",
         "W",
-        "W",
         "L",
         "W",
         "W",
         "W",
         "W",
+        "W",
         "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Mihle",
+      "username": "Rabbit",
+      "phone": "+270719709662",
+      "played": 11,
+      "wins": 5,
+      "draws": 2,
+      "losses": 4,
+      "points": 5,
+      "gf": 5,
+      "ga": 4,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W",
+        "W",
+        "L",
+        "L",
+        "D",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -172,37 +198,11 @@
         "W",
         "W",
         "D",
-        "D",
-        "L",
-        "L",
-        "W",
-        "L",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Mihle",
-      "username": "Rabbit",
-      "phone": "+270719709662",
-      "played": 11,
-      "wins": 4,
-      "draws": 2,
-      "losses": 5,
-      "points": 4,
-      "gf": 4,
-      "ga": 5,
-      "form": [
-        "L",
-        "W",
-        "L",
-        "W",
-        "W",
-        "W",
-        "L",
         "L",
         "D",
+        "L",
+        "W",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -213,12 +213,12 @@
       "username": "Astral_Reign",
       "phone": "+27814301713",
       "played": 11,
-      "wins": 4,
+      "wins": 3,
       "draws": 0,
-      "losses": 7,
-      "points": 4,
-      "gf": 4,
-      "ga": 7,
+      "losses": 8,
+      "points": 3,
+      "gf": 3,
+      "ga": 8,
       "form": [
         "L",
         "L",
@@ -229,7 +229,7 @@
         "L",
         "L",
         "W",
-        "W"
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -275,8 +275,8 @@
         "W",
         "L",
         "L",
-        "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -341,9 +341,9 @@
     {
       "home": "Rabbit",
       "away": "Astral_Reign",
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "result": "away",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
       "date": "2026-08-15"
     },
     {
@@ -843,6 +843,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-16T17:45:38.088Z",
+  "updatedAt": "2026-08-16T17:46:16.304Z",
   "matchesPlayed": 64
 }
