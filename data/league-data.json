@@ -5,11 +5,11 @@
       "username": "BunnyBearZA",
       "phone": "+27815794703",
       "played": 13,
-      "wins": 12,
-      "draws": 1,
+      "wins": 13,
+      "draws": 0,
       "losses": 0,
-      "points": 12,
-      "gf": 12,
+      "points": 13,
+      "gf": 13,
       "ga": 0,
       "form": [
         "W",
@@ -21,7 +21,7 @@
         "W",
         "W",
         "W",
-        "D"
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -84,11 +84,11 @@
       "phone": "+27703896056",
       "played": 13,
       "wins": 8,
-      "draws": 1,
-      "losses": 4,
+      "draws": 0,
+      "losses": 5,
       "points": 8,
       "gf": 8,
-      "ga": 4,
+      "ga": 5,
       "form": [
         "W",
         "L",
@@ -99,7 +99,7 @@
         "W",
         "L",
         "W",
-        "D"
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -352,9 +352,9 @@
     {
       "home": "BunnyBearZA",
       "away": "Kaboman",
-      "homeGoals": 0,
+      "homeGoals": 1,
       "awayGoals": 0,
-      "result": "draw",
+      "result": "home",
       "date": "2026-08-18"
     },
     {
@@ -958,6 +958,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-18T16:21:04.852Z",
+  "updatedAt": "2026-08-18T21:47:21.817Z",
   "matchesPlayed": 78
 }
