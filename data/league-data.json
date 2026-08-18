@@ -27,32 +27,6 @@
       "suspended": false
     },
     {
-      "name": "Fahd",
-      "username": "Mini",
-      "phone": "+2348140087648",
-      "played": 13,
-      "wins": 8,
-      "draws": 2,
-      "losses": 3,
-      "points": 8,
-      "gf": 9,
-      "ga": 4,
-      "form": [
-        "W",
-        "W",
-        "L",
-        "W",
-        "D",
-        "W",
-        "L",
-        "W",
-        "W",
-        "D"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
@@ -74,6 +48,32 @@
         "L",
         "W",
         "D"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Fahd",
+      "username": "Mini",
+      "phone": "+2348140087648",
+      "played": 13,
+      "wins": 8,
+      "draws": 1,
+      "losses": 4,
+      "points": 8,
+      "gf": 9,
+      "ga": 5,
+      "form": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -161,11 +161,11 @@
       "username": "YANITED",
       "phone": "+27714588239",
       "played": 13,
-      "wins": 5,
-      "draws": 2,
+      "wins": 6,
+      "draws": 1,
       "losses": 6,
-      "points": 5,
-      "gf": 5,
+      "points": 6,
+      "gf": 6,
       "ga": 6,
       "form": [
         "W",
@@ -177,7 +177,7 @@
         "W",
         "D",
         "L",
-        "D"
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -345,8 +345,8 @@
       "home": "Mini",
       "away": "YANITED",
       "homeGoals": 0,
-      "awayGoals": 0,
-      "result": "draw",
+      "awayGoals": 1,
+      "result": "away",
       "date": "2026-08-18"
     },
     {
@@ -958,6 +958,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-18T21:47:21.817Z",
+  "updatedAt": "2026-08-18T21:47:27.979Z",
   "matchesPlayed": 78
 }
