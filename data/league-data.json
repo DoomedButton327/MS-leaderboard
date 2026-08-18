@@ -108,15 +108,14 @@
       "name": "Mihle",
       "username": "Rabbit",
       "phone": "+270719709662",
-      "played": 12,
+      "played": 13,
       "wins": 6,
-      "draws": 2,
+      "draws": 3,
       "losses": 4,
       "points": 6,
       "gf": 6,
       "ga": 4,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -125,7 +124,8 @@
         "L",
         "D",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -212,15 +212,14 @@
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
-      "played": 12,
+      "played": 13,
       "wins": 3,
-      "draws": 3,
+      "draws": 4,
       "losses": 6,
       "points": 3,
       "gf": 3,
       "ga": 6,
       "form": [
-        "W",
         "L",
         "L",
         "D",
@@ -229,6 +228,7 @@
         "D",
         "L",
         "W",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -334,6 +334,14 @@
   ],
   "results": [
     {
+      "home": "Incredible_Brad",
+      "away": "Rabbit",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-08-17"
+    },
+    {
       "home": "Mini",
       "away": "YANITED",
       "homeGoals": 0,
@@ -950,6 +958,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-18T14:39:22.454Z",
-  "matchesPlayed": 77
+  "updatedAt": "2026-08-18T14:39:56.320Z",
+  "matchesPlayed": 78
 }
