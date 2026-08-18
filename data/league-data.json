@@ -82,15 +82,14 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 11,
-      "wins": 7,
+      "played": 12,
+      "wins": 8,
       "draws": 0,
       "losses": 4,
-      "points": 7,
-      "gf": 7,
+      "points": 8,
+      "gf": 8,
       "ga": 4,
       "form": [
-        "W",
         "L",
         "W",
         "L",
@@ -99,7 +98,8 @@
         "W",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -186,20 +186,20 @@
       "name": "Emma 祝福された",
       "username": "Emmanuel",
       "phone": "+2348104879072",
-      "played": 12,
+      "played": 13,
       "wins": 4,
       "draws": 2,
-      "losses": 6,
+      "losses": 7,
       "points": 4,
       "gf": 4,
-      "ga": 6,
+      "ga": 7,
       "form": [
-        "W",
         "D",
         "L",
         "D",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -335,6 +335,14 @@
   "results": [
     {
       "home": "Emmanuel",
+      "away": "Kaboman",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-17"
+    },
+    {
+      "home": "Emmanuel",
       "away": "Rabbit",
       "homeGoals": 0,
       "awayGoals": 1,
@@ -918,6 +926,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-18T14:25:38.669Z",
-  "matchesPlayed": 73
+  "updatedAt": "2026-08-18T14:25:45.711Z",
+  "matchesPlayed": 74
 }
