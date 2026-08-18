@@ -31,11 +31,11 @@
       "username": "BullDOZER",
       "phone": "+27784483912",
       "played": 13,
-      "wins": 8,
-      "draws": 2,
+      "wins": 9,
+      "draws": 1,
       "losses": 3,
-      "points": 8,
-      "gf": 8,
+      "points": 9,
+      "gf": 9,
       "ga": 3,
       "form": [
         "D",
@@ -47,7 +47,7 @@
         "W",
         "L",
         "W",
-        "D"
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -214,11 +214,11 @@
       "phone": "+27827436317",
       "played": 13,
       "wins": 3,
-      "draws": 4,
-      "losses": 6,
+      "draws": 3,
+      "losses": 7,
       "points": 3,
       "gf": 3,
-      "ga": 6,
+      "ga": 7,
       "form": [
         "L",
         "L",
@@ -229,7 +229,7 @@
         "L",
         "W",
         "D",
-        "D"
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -360,9 +360,9 @@
     {
       "home": "BullDOZER",
       "away": "Incredible_Brad",
-      "homeGoals": 0,
+      "homeGoals": 1,
       "awayGoals": 0,
-      "result": "draw",
+      "result": "home",
       "date": "2026-08-18"
     },
     {
@@ -958,6 +958,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-18T21:47:27.979Z",
+  "updatedAt": "2026-08-18T21:48:51.939Z",
   "matchesPlayed": 78
 }
