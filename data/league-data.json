@@ -131,32 +131,6 @@
       "suspended": false
     },
     {
-      "name": "Lethabo",
-      "username": "YANITED",
-      "phone": "+27714588239",
-      "played": 14,
-      "wins": 7,
-      "draws": 1,
-      "losses": 6,
-      "points": 7,
-      "gf": 7,
-      "ga": 6,
-      "form": [
-        "L",
-        "L",
-        "W",
-        "W",
-        "L",
-        "W",
-        "D",
-        "L",
-        "W",
-        "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "Mihle",
       "username": "Rabbit",
       "phone": "+270719709662",
@@ -183,6 +157,32 @@
       "suspended": false
     },
     {
+      "name": "Lethabo",
+      "username": "YANITED",
+      "phone": "+27714588239",
+      "played": 14,
+      "wins": 6,
+      "draws": 1,
+      "losses": 7,
+      "points": 6,
+      "gf": 6,
+      "ga": 7,
+      "form": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L",
+        "W",
+        "D",
+        "L",
+        "W",
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Emma 祝福された",
       "username": "Emmanuel",
       "phone": "+2348104879072",
@@ -204,6 +204,28 @@
         "L",
         "L",
         "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Snap Hokage",
+      "username": "LaMonK",
+      "phone": "+27794291572",
+      "played": 6,
+      "wins": 3,
+      "draws": 3,
+      "losses": 0,
+      "points": 3,
+      "gf": 3,
+      "ga": 0,
+      "form": [
+        "D",
+        "D",
+        "D",
+        "W",
+        "W",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -255,28 +277,6 @@
         "W",
         "L",
         "L",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Snap Hokage",
-      "username": "LaMonK",
-      "phone": "+27794291572",
-      "played": 6,
-      "wins": 2,
-      "draws": 3,
-      "losses": 1,
-      "points": 2,
-      "gf": 2,
-      "ga": 1,
-      "form": [
-        "D",
-        "D",
-        "D",
-        "W",
-        "W",
         "L"
       ],
       "postponements": 20,
@@ -353,9 +353,9 @@
     {
       "home": "YANITED",
       "away": "LaMonK",
-      "homeGoals": 1,
-      "awayGoals": 0,
-      "result": "home",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
       "date": "2026-08-19"
     },
     {
@@ -991,6 +991,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-19T20:31:23.435Z",
+  "updatedAt": "2026-08-19T20:33:31.574Z",
   "matchesPlayed": 82
 }
