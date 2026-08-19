@@ -30,15 +30,14 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 13,
-      "wins": 9,
+      "played": 14,
+      "wins": 10,
       "draws": 1,
       "losses": 3,
-      "points": 9,
-      "gf": 9,
+      "points": 10,
+      "gf": 10,
       "ga": 3,
       "form": [
-        "D",
         "W",
         "W",
         "L",
@@ -46,6 +45,7 @@
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W"
       ],
@@ -285,16 +285,16 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 13,
+      "played": 14,
       "wins": 2,
       "draws": 0,
-      "losses": 11,
+      "losses": 12,
       "points": 2,
       "gf": 2,
-      "ga": 11,
+      "ga": 12,
       "form": [
-        "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -334,6 +334,14 @@
   ],
   "results": [
     {
+      "home": "Angel",
+      "away": "BullDOZER",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-19"
+    },
+    {
       "home": "Incredible_Brad",
       "away": "Rabbit",
       "homeGoals": 0,
@@ -958,6 +966,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-18T23:03:58.555Z",
-  "matchesPlayed": 78
+  "updatedAt": "2026-08-19T10:32:12.358Z",
+  "matchesPlayed": 79
 }
