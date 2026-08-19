@@ -56,15 +56,14 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 13,
-      "wins": 8,
+      "played": 14,
+      "wins": 9,
       "draws": 1,
       "losses": 4,
-      "points": 8,
-      "gf": 9,
+      "points": 9,
+      "gf": 10,
       "ga": 5,
       "form": [
-        "W",
         "W",
         "L",
         "W",
@@ -73,7 +72,8 @@
         "L",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -82,15 +82,14 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 13,
+      "played": 14,
       "wins": 8,
       "draws": 0,
-      "losses": 5,
+      "losses": 6,
       "points": 8,
       "gf": 8,
-      "ga": 5,
+      "ga": 6,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -99,6 +98,7 @@
         "W",
         "L",
         "W",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -335,6 +335,14 @@
   ],
   "results": [
     {
+      "home": "Kaboman",
+      "away": "Mini",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-19"
+    },
+    {
       "home": "RobotChicken",
       "away": "BunnyBearZA",
       "homeGoals": 1,
@@ -983,6 +991,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-19T20:31:16.857Z",
-  "matchesPlayed": 81
+  "updatedAt": "2026-08-19T20:31:23.435Z",
+  "matchesPlayed": 82
 }
