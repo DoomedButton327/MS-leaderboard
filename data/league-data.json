@@ -30,21 +30,21 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 14,
-      "wins": 10,
+      "played": 15,
+      "wins": 11,
       "draws": 1,
       "losses": 3,
-      "points": 10,
-      "gf": 10,
+      "points": 11,
+      "gf": 11,
       "ga": 3,
       "form": [
         "W",
-        "W",
         "L",
         "W",
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W"
@@ -186,15 +186,14 @@
       "name": "Emma 祝福された",
       "username": "Emmanuel",
       "phone": "+2348104879072",
-      "played": 14,
+      "played": 15,
       "wins": 5,
       "draws": 2,
-      "losses": 7,
+      "losses": 8,
       "points": 5,
       "gf": 5,
-      "ga": 7,
+      "ga": 8,
       "form": [
-        "L",
         "D",
         "L",
         "W",
@@ -203,7 +202,8 @@
         "L",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -336,6 +336,14 @@
   ],
   "results": [
     {
+      "home": "BullDOZER",
+      "away": "Emmanuel",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-20"
+    },
+    {
       "home": "Incredible_Brad",
       "away": "BunnyBearZA",
       "homeGoals": 1,
@@ -1048,6 +1056,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-20T21:31:47.677Z",
-  "matchesPlayed": 89
+  "updatedAt": "2026-08-20T21:36:27.927Z",
+  "matchesPlayed": 90
 }
