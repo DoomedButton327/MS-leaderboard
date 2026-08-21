@@ -30,20 +30,20 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 15,
-      "wins": 11,
+      "played": 16,
+      "wins": 12,
       "draws": 1,
       "losses": 3,
-      "points": 11,
-      "gf": 11,
+      "points": 12,
+      "gf": 12,
       "ga": 3,
       "form": [
-        "W",
         "L",
         "W",
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -287,13 +287,13 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 15,
+      "played": 16,
       "wins": 3,
       "draws": 0,
-      "losses": 12,
+      "losses": 13,
       "points": 3,
       "gf": 3,
-      "ga": 12,
+      "ga": 13,
       "form": [
         "L",
         "L",
@@ -303,8 +303,8 @@
         "L",
         "L",
         "L",
-        "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -335,6 +335,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Angel",
+      "away": "BullDOZER",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-21"
+    },
     {
       "home": "Rabbit",
       "away": "Emmanuel",
@@ -1064,6 +1072,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-21T10:23:33.909Z",
-  "matchesPlayed": 91
+  "updatedAt": "2026-08-21T22:33:26.724Z",
+  "matchesPlayed": 92
 }
