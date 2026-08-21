@@ -230,7 +230,7 @@
         "L"
       ],
       "postponements": 20,
-      "suspended": false
+      "suspended": true
     },
     {
       "name": "Brad",
@@ -1105,6 +1105,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-21T22:38:48.585Z",
+  "updatedAt": "2026-08-21T22:52:06.781Z",
   "matchesPlayed": 96
 }
