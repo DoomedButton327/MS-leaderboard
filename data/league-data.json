@@ -160,15 +160,14 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 15,
+      "played": 16,
       "wins": 7,
       "draws": 1,
-      "losses": 7,
+      "losses": 8,
       "points": 7,
       "gf": 7,
-      "ga": 7,
+      "ga": 8,
       "form": [
-        "L",
         "W",
         "W",
         "L",
@@ -177,6 +176,31 @@
         "L",
         "W",
         "L",
+        "W",
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Snap Hokage",
+      "username": "LaMonK",
+      "phone": "+27794291572",
+      "played": 8,
+      "wins": 5,
+      "draws": 3,
+      "losses": 0,
+      "points": 5,
+      "gf": 5,
+      "ga": 0,
+      "form": [
+        "D",
+        "D",
+        "D",
+        "W",
+        "W",
+        "W",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -204,29 +228,6 @@
         "W",
         "L",
         "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Snap Hokage",
-      "username": "LaMonK",
-      "phone": "+27794291572",
-      "played": 7,
-      "wins": 4,
-      "draws": 3,
-      "losses": 0,
-      "points": 4,
-      "gf": 4,
-      "ga": 0,
-      "form": [
-        "D",
-        "D",
-        "D",
-        "W",
-        "W",
-        "W",
-        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -336,6 +337,14 @@
   ],
   "results": [
     {
+      "home": "YANITED",
+      "away": "LaMonK",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-21"
+    },
+    {
       "home": "Mini",
       "away": "Incredible_Brad",
       "homeGoals": 1,
@@ -1096,6 +1105,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-21T22:38:42.278Z",
-  "matchesPlayed": 95
+  "updatedAt": "2026-08-21T22:38:48.585Z",
+  "matchesPlayed": 96
 }
