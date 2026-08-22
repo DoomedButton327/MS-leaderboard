@@ -160,15 +160,14 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 16,
+      "played": 17,
       "wins": 7,
       "draws": 1,
-      "losses": 8,
+      "losses": 9,
       "points": 7,
       "gf": 7,
-      "ga": 8,
+      "ga": 9,
       "form": [
-        "W",
         "W",
         "L",
         "W",
@@ -177,6 +176,7 @@
         "W",
         "L",
         "W",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -288,12 +288,12 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 16,
-      "wins": 3,
+      "played": 17,
+      "wins": 4,
       "draws": 0,
       "losses": 13,
-      "points": 3,
-      "gf": 3,
+      "points": 4,
+      "gf": 4,
       "ga": 13,
       "form": [
         "L",
@@ -303,9 +303,9 @@
         "L",
         "L",
         "L",
-        "L",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
   "results": [
     {
       "home": "YANITED",
+      "away": "Angel",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-22"
+    },
+    {
+      "home": "YANITED",
       "away": "LaMonK",
       "homeGoals": 0,
       "awayGoals": 1,
@@ -1105,6 +1113,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-22T14:49:12.493Z",
-  "matchesPlayed": 96
+  "updatedAt": "2026-08-22T16:36:18.750Z",
+  "matchesPlayed": 97
 }
