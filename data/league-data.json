@@ -56,21 +56,21 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 16,
-      "wins": 11,
+      "played": 17,
+      "wins": 12,
       "draws": 1,
       "losses": 4,
-      "points": 11,
-      "gf": 12,
+      "points": 12,
+      "gf": 13,
       "ga": 5,
       "form": [
-        "W",
         "D",
         "W",
         "L",
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W"
@@ -289,15 +289,14 @@
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
-      "played": 17,
+      "played": 18,
       "wins": 4,
       "draws": 3,
-      "losses": 10,
+      "losses": 11,
       "points": 4,
       "gf": 4,
-      "ga": 10,
+      "ga": 11,
       "form": [
-        "L",
         "D",
         "L",
         "W",
@@ -305,6 +304,7 @@
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L"
       ],
@@ -338,6 +338,14 @@
   ],
   "results": [
     {
+      "home": "Mini",
+      "away": "Incredible_Brad",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-22"
+    },
+    {
       "home": "Kaboman",
       "away": "LaMonK",
       "homeGoals": 1,
@@ -1154,6 +1162,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-24T22:10:29.109Z",
-  "matchesPlayed": 102
+  "updatedAt": "2026-08-24T22:10:36.637Z",
+  "matchesPlayed": 103
 }
