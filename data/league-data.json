@@ -79,24 +79,24 @@
       "suspended": false
     },
     {
-      "name": "DarkHawk",
-      "username": "RobotChicken",
-      "phone": "+2348057545152",
+      "name": "Kabo",
+      "username": "Kaboman",
+      "phone": "+27703896056",
       "played": 17,
-      "wins": 9,
-      "draws": 1,
+      "wins": 10,
+      "draws": 0,
       "losses": 7,
-      "points": 9,
+      "points": 10,
       "gf": 10,
-      "ga": 8,
+      "ga": 7,
       "form": [
-        "D",
+        "W",
+        "W",
         "W",
         "L",
         "W",
         "L",
-        "W",
-        "W",
+        "L",
         "L",
         "W",
         "W"
@@ -105,27 +105,27 @@
       "suspended": false
     },
     {
-      "name": "Kabo",
-      "username": "Kaboman",
-      "phone": "+27703896056",
-      "played": 16,
+      "name": "DarkHawk",
+      "username": "RobotChicken",
+      "phone": "+2348057545152",
+      "played": 18,
       "wins": 9,
-      "draws": 0,
-      "losses": 7,
+      "draws": 1,
+      "losses": 8,
       "points": 9,
-      "gf": 9,
-      "ga": 7,
+      "gf": 10,
+      "ga": 9,
       "form": [
         "W",
+        "L",
         "W",
+        "L",
         "W",
         "W",
         "L",
         "W",
-        "L",
-        "L",
-        "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -337,6 +337,14 @@
   ],
   "results": [
     {
+      "home": "Kaboman",
+      "away": "RobotChicken",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-24"
+    },
+    {
       "home": "Angel",
       "away": "Incredible_Brad",
       "homeGoals": 1,
@@ -1137,6 +1145,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-24T22:01:40.301Z",
-  "matchesPlayed": 100
+  "updatedAt": "2026-08-24T22:01:50.552Z",
+  "matchesPlayed": 101
 }
