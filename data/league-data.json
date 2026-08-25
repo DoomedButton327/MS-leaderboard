@@ -27,6 +27,32 @@
       "suspended": false
     },
     {
+      "name": "Fahd",
+      "username": "Mini",
+      "phone": "+2348140087648",
+      "played": 18,
+      "wins": 13,
+      "draws": 1,
+      "losses": 4,
+      "points": 13,
+      "gf": 14,
+      "ga": 5,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
@@ -44,32 +70,6 @@
         "W",
         "L",
         "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Fahd",
-      "username": "Mini",
-      "phone": "+2348140087648",
-      "played": 17,
-      "wins": 12,
-      "draws": 1,
-      "losses": 4,
-      "points": 12,
-      "gf": 13,
-      "ga": 5,
-      "form": [
-        "D",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
         "W",
         "W",
         "W",
@@ -186,13 +186,13 @@
       "name": "Snap Hokage",
       "username": "LaMonK",
       "phone": "+27794291572",
-      "played": 9,
+      "played": 10,
       "wins": 5,
       "draws": 3,
-      "losses": 1,
+      "losses": 2,
       "points": 5,
       "gf": 5,
-      "ga": 1,
+      "ga": 2,
       "form": [
         "D",
         "D",
@@ -202,6 +202,7 @@
         "W",
         "W",
         "W",
+        "L",
         "L"
       ],
       "postponements": 19,
@@ -339,6 +340,14 @@
   "results": [
     {
       "home": "Mini",
+      "away": "LaMonK",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-24"
+    },
+    {
+      "home": "Mini",
       "away": "Incredible_Brad",
       "homeGoals": 1,
       "awayGoals": 0,
@@ -1162,6 +1171,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-24T23:12:08.892Z",
-  "matchesPlayed": 103
+  "updatedAt": "2026-08-25T23:11:41.342Z",
+  "matchesPlayed": 104
 }
