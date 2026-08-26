@@ -24,7 +24,7 @@
         "L"
       ],
       "postponements": 19,
-      "suspended": false
+      "suspended": true
     },
     {
       "name": "Fahd",
@@ -1171,6 +1171,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-25T23:11:49.912Z",
+  "updatedAt": "2026-08-26T08:33:37.605Z",
   "matchesPlayed": 104
 }
