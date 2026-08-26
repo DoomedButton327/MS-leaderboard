@@ -160,15 +160,14 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 19,
+      "played": 20,
       "wins": 8,
-      "draws": 2,
+      "draws": 3,
       "losses": 9,
       "points": 8,
       "gf": 8,
       "ga": 9,
       "form": [
-        "W",
         "D",
         "L",
         "W",
@@ -177,6 +176,7 @@
         "L",
         "L",
         "W",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -186,15 +186,14 @@
       "name": "Mihle",
       "username": "Rabbit",
       "phone": "+270719709662",
-      "played": 19,
+      "played": 20,
       "wins": 7,
-      "draws": 3,
+      "draws": 4,
       "losses": 9,
       "points": 7,
       "gf": 7,
       "ga": 9,
       "form": [
-        "D",
         "W",
         "D",
         "W",
@@ -203,7 +202,8 @@
         "W",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -340,6 +340,14 @@
   "results": [
     {
       "home": "YANITED",
+      "away": "Rabbit",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-08-25"
+    },
+    {
+      "home": "YANITED",
       "away": "BunnyBearZA",
       "homeGoals": 0,
       "awayGoals": 0,
@@ -1251,6 +1259,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-26T22:57:46.220Z",
-  "matchesPlayed": 114
+  "updatedAt": "2026-08-26T22:57:53.519Z",
+  "matchesPlayed": 115
 }
