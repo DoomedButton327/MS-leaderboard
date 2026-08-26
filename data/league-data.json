@@ -27,6 +27,32 @@
       "suspended": true
     },
     {
+      "name": "BullDOZER",
+      "username": "BullDOZER",
+      "phone": "+27784483912",
+      "played": 17,
+      "wins": 13,
+      "draws": 1,
+      "losses": 3,
+      "points": 13,
+      "gf": 13,
+      "ga": 3,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
@@ -40,32 +66,6 @@
       "form": [
         "W",
         "L",
-        "W",
-        "W",
-        "L",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "BullDOZER",
-      "username": "BullDOZER",
-      "phone": "+27784483912",
-      "played": 16,
-      "wins": 12,
-      "draws": 1,
-      "losses": 3,
-      "points": 12,
-      "gf": 12,
-      "ga": 3,
-      "form": [
-        "L",
-        "W",
         "W",
         "W",
         "L",
@@ -235,32 +235,6 @@
       "suspended": true
     },
     {
-      "name": "Tyron/Astral",
-      "username": "Astral_Reign",
-      "phone": "+27814301713",
-      "played": 17,
-      "wins": 5,
-      "draws": 0,
-      "losses": 12,
-      "points": 5,
-      "gf": 5,
-      "ga": 12,
-      "form": [
-        "L",
-        "L",
-        "W",
-        "L",
-        "L",
-        "L",
-        "W",
-        "L",
-        "L",
-        "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
@@ -282,6 +256,32 @@
         "L",
         "W",
         "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Tyron/Astral",
+      "username": "Astral_Reign",
+      "phone": "+27814301713",
+      "played": 18,
+      "wins": 5,
+      "draws": 0,
+      "losses": 13,
+      "points": 5,
+      "gf": 5,
+      "ga": 13,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L",
+        "W",
+        "L",
+        "L",
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Astral_Reign",
+      "away": "BullDOZER",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-25"
+    },
     {
       "home": "LaMonK",
       "away": "Kaboman",
@@ -1187,6 +1195,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-26T17:00:58.186Z",
-  "matchesPlayed": 106
+  "updatedAt": "2026-08-26T17:01:06.857Z",
+  "matchesPlayed": 107
 }
