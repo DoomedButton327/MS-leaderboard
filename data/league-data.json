@@ -56,15 +56,14 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 18,
+      "played": 19,
       "wins": 13,
       "draws": 1,
-      "losses": 4,
+      "losses": 5,
       "points": 13,
       "gf": 14,
-      "ga": 5,
+      "ga": 6,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -73,6 +72,33 @@
         "W",
         "W",
         "W",
+        "W",
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "DarkHawk",
+      "username": "RobotChicken",
+      "phone": "+2348057545152",
+      "played": 19,
+      "wins": 10,
+      "draws": 1,
+      "losses": 8,
+      "points": 10,
+      "gf": 11,
+      "ga": 9,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
         "W"
       ],
       "postponements": 20,
@@ -99,32 +125,6 @@
         "L",
         "W",
         "L",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "DarkHawk",
-      "username": "RobotChicken",
-      "phone": "+2348057545152",
-      "played": 18,
-      "wins": 9,
-      "draws": 1,
-      "losses": 8,
-      "points": 9,
-      "gf": 10,
-      "ga": 9,
-      "form": [
-        "W",
-        "L",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "W",
-        "W",
         "L"
       ],
       "postponements": 20,
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "RobotChicken",
+      "away": "Mini",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-25"
+    },
     {
       "home": "BunnyBearZA",
       "away": "Angel",
@@ -1203,6 +1211,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-26T17:01:15.714Z",
-  "matchesPlayed": 108
+  "updatedAt": "2026-08-26T17:01:24.846Z",
+  "matchesPlayed": 109
 }
