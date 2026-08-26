@@ -4,9 +4,9 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 17,
+      "played": 18,
       "wins": 14,
-      "draws": 0,
+      "draws": 1,
       "losses": 3,
       "points": 14,
       "gf": 14,
@@ -17,11 +17,11 @@
         "W",
         "W",
         "W",
+        "L",
+        "L",
+        "L",
         "W",
-        "L",
-        "L",
-        "L",
-        "W"
+        "D"
       ],
       "postponements": 19,
       "suspended": true
@@ -30,15 +30,14 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 17,
+      "played": 18,
       "wins": 13,
-      "draws": 1,
+      "draws": 2,
       "losses": 3,
       "points": 13,
       "gf": 13,
       "ga": 3,
       "form": [
-        "W",
         "W",
         "W",
         "L",
@@ -47,7 +46,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "BunnyBearZA",
+      "away": "BullDOZER",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-08-22"
+    },
+    {
       "home": "Rabbit",
       "away": "Astral_Reign",
       "homeGoals": 0,
@@ -1235,6 +1243,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-26T22:54:15.026Z",
-  "matchesPlayed": 112
+  "updatedAt": "2026-08-26T22:57:38.413Z",
+  "matchesPlayed": 113
 }
