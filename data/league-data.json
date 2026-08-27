@@ -82,15 +82,14 @@
       "name": "DarkHawk",
       "username": "RobotChicken",
       "phone": "+2348057545152",
-      "played": 20,
-      "wins": 10,
+      "played": 21,
+      "wins": 11,
       "draws": 1,
       "losses": 9,
-      "points": 10,
-      "gf": 11,
+      "points": 11,
+      "gf": 12,
       "ga": 10,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -99,7 +98,8 @@
         "W",
         "L",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -160,15 +160,14 @@
       "name": "Snap Hokage",
       "username": "LaMonK",
       "phone": "+27794291572",
-      "played": 12,
+      "played": 13,
       "wins": 8,
       "draws": 3,
-      "losses": 1,
+      "losses": 2,
       "points": 8,
       "gf": 8,
-      "ga": 1,
+      "ga": 2,
       "form": [
-        "D",
         "W",
         "W",
         "W",
@@ -177,7 +176,8 @@
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "LaMonK",
+      "away": "RobotChicken",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-27"
+    },
+    {
       "home": "Kaboman",
       "away": "Mini",
       "homeGoals": 0,
@@ -1283,6 +1291,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-27T21:57:56.246Z",
-  "matchesPlayed": 118
+  "updatedAt": "2026-08-27T21:59:09.139Z",
+  "matchesPlayed": 119
 }
