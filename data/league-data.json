@@ -56,15 +56,14 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 18,
+      "played": 19,
       "wins": 13,
       "draws": 2,
-      "losses": 3,
+      "losses": 4,
       "points": 13,
       "gf": 13,
-      "ga": 3,
+      "ga": 4,
       "form": [
-        "W",
         "W",
         "L",
         "W",
@@ -73,7 +72,8 @@
         "W",
         "W",
         "W",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -235,6 +235,32 @@
       "suspended": false
     },
     {
+      "name": "Angel",
+      "username": "Angel",
+      "phone": "+27833006494",
+      "played": 21,
+      "wins": 6,
+      "draws": 0,
+      "losses": 15,
+      "points": 6,
+      "gf": 6,
+      "ga": 15,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Emma 祝福された",
       "username": "Emmanuel",
       "phone": "+2348104879072",
@@ -287,32 +313,6 @@
       "suspended": false
     },
     {
-      "name": "Angel",
-      "username": "Angel",
-      "phone": "+27833006494",
-      "played": 20,
-      "wins": 5,
-      "draws": 0,
-      "losses": 15,
-      "points": 5,
-      "gf": 5,
-      "ga": 15,
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "XWRLD🕴🏼",
       "username": "DNE",
       "phone": "+27750656258",
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "BullDOZER",
+      "away": "Angel",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-27"
+    },
+    {
       "home": "LaMonK",
       "away": "RobotChicken",
       "homeGoals": 0,
@@ -1291,6 +1299,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-27T21:59:09.139Z",
-  "matchesPlayed": 119
+  "updatedAt": "2026-08-27T22:00:06.437Z",
+  "matchesPlayed": 120
 }
