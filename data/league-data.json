@@ -27,6 +27,32 @@
       "suspended": true
     },
     {
+      "name": "Fahd",
+      "username": "Mini",
+      "phone": "+2348140087648",
+      "played": 21,
+      "wins": 14,
+      "draws": 2,
+      "losses": 5,
+      "points": 14,
+      "gf": 15,
+      "ga": 6,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "L",
+        "D",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
@@ -47,32 +73,6 @@
         "W",
         "W",
         "W",
-        "D"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Fahd",
-      "username": "Mini",
-      "phone": "+2348140087648",
-      "played": 20,
-      "wins": 13,
-      "draws": 2,
-      "losses": 5,
-      "points": 13,
-      "gf": 14,
-      "ga": 6,
-      "form": [
-        "W",
-        "W",
-        "L",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "L",
         "D"
       ],
       "postponements": 20,
@@ -108,15 +108,14 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 20,
+      "played": 21,
       "wins": 10,
       "draws": 0,
-      "losses": 10,
+      "losses": 11,
       "points": 10,
       "gf": 10,
-      "ga": 10,
+      "ga": 11,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -124,6 +123,7 @@
         "W",
         "L",
         "W",
+        "L",
         "L",
         "L"
       ],
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Kaboman",
+      "away": "Mini",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-27"
+    },
     {
       "home": "YANITED",
       "away": "Astral_Reign",
@@ -1275,6 +1283,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-27T21:57:08.032Z",
-  "matchesPlayed": 117
+  "updatedAt": "2026-08-27T21:57:56.246Z",
+  "matchesPlayed": 118
 }
