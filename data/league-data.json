@@ -209,6 +209,32 @@
       "suspended": false
     },
     {
+      "name": "Tyron/Astral",
+      "username": "Astral_Reign",
+      "phone": "+27814301713",
+      "played": 21,
+      "wins": 7,
+      "draws": 0,
+      "losses": 14,
+      "points": 7,
+      "gf": 7,
+      "ga": 14,
+      "form": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "L",
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
@@ -235,53 +261,27 @@
       "suspended": false
     },
     {
-      "name": "Tyron/Astral",
-      "username": "Astral_Reign",
-      "phone": "+27814301713",
-      "played": 20,
-      "wins": 6,
-      "draws": 0,
-      "losses": 14,
-      "points": 6,
-      "gf": 6,
-      "ga": 14,
-      "form": [
-        "L",
-        "L",
-        "L",
-        "W",
-        "L",
-        "L",
-        "W",
-        "L",
-        "W",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 21,
+      "played": 22,
       "wins": 6,
       "draws": 0,
-      "losses": 15,
+      "losses": 16,
       "points": 6,
       "gf": 6,
-      "ga": 15,
+      "ga": 16,
       "form": [
         "L",
         "L",
-        "L",
         "W",
         "L",
         "W",
         "W",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Angel",
+      "away": "Astral_Reign",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-08-28"
+    },
     {
       "home": "BullDOZER",
       "away": "RobotChicken",
@@ -1315,6 +1323,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-28T22:20:38.058Z",
-  "matchesPlayed": 122
+  "updatedAt": "2026-08-28T22:20:46.517Z",
+  "matchesPlayed": 123
 }
