@@ -27,6 +27,32 @@
       "suspended": true
     },
     {
+      "name": "BullDOZER",
+      "username": "BullDOZER",
+      "phone": "+27784483912",
+      "played": 20,
+      "wins": 14,
+      "draws": 2,
+      "losses": 4,
+      "points": 14,
+      "gf": 14,
+      "ga": 4,
+      "form": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "D",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
@@ -53,44 +79,17 @@
       "suspended": false
     },
     {
-      "name": "BullDOZER",
-      "username": "BullDOZER",
-      "phone": "+27784483912",
-      "played": 19,
-      "wins": 13,
-      "draws": 2,
-      "losses": 4,
-      "points": 13,
-      "gf": 13,
-      "ga": 4,
-      "form": [
-        "W",
-        "L",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "D",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "DarkHawk",
       "username": "RobotChicken",
       "phone": "+2348057545152",
-      "played": 21,
+      "played": 22,
       "wins": 11,
       "draws": 1,
-      "losses": 9,
+      "losses": 10,
       "points": 11,
       "gf": 12,
-      "ga": 10,
+      "ga": 11,
       "form": [
-        "L",
         "W",
         "W",
         "L",
@@ -99,7 +98,8 @@
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "BullDOZER",
+      "away": "RobotChicken",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-28"
+    },
+    {
       "home": "Incredible_Brad",
       "away": "Rabbit",
       "homeGoals": 1,
@@ -1307,6 +1315,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-27T23:12:07.753Z",
-  "matchesPlayed": 121
+  "updatedAt": "2026-08-28T22:20:38.058Z",
+  "matchesPlayed": 122
 }
