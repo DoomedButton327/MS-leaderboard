@@ -160,26 +160,52 @@
       "name": "Snap Hokage",
       "username": "LaMonK",
       "phone": "+27794291572",
-      "played": 14,
+      "played": 15,
       "wins": 8,
       "draws": 3,
-      "losses": 3,
+      "losses": 4,
       "points": 8,
       "gf": 8,
-      "ga": 3,
+      "ga": 4,
       "form": [
         "W",
         "W",
         "W",
         "W",
-        "W",
         "L",
         "W",
         "W",
+        "L",
         "L",
         "L"
       ],
       "postponements": 19,
+      "suspended": false
+    },
+    {
+      "name": "Mihle",
+      "username": "Rabbit",
+      "phone": "+270719709662",
+      "played": 22,
+      "wins": 8,
+      "draws": 4,
+      "losses": 10,
+      "points": 8,
+      "gf": 8,
+      "ga": 10,
+      "form": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L",
+        "L",
+        "L",
+        "D",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
       "suspended": false
     },
     {
@@ -204,32 +230,6 @@
         "L",
         "W",
         "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Mihle",
-      "username": "Rabbit",
-      "phone": "+270719709662",
-      "played": 21,
-      "wins": 7,
-      "draws": 4,
-      "losses": 10,
-      "points": 7,
-      "gf": 7,
-      "ga": 10,
-      "form": [
-        "D",
-        "W",
-        "L",
-        "L",
-        "W",
-        "L",
-        "L",
-        "L",
-        "D",
-        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Rabbit",
+      "away": "LaMonK",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-08-28"
+    },
+    {
       "home": "LaMonK",
       "away": "Angel",
       "homeGoals": 0,
@@ -1371,6 +1379,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-30T20:07:08.072Z",
-  "matchesPlayed": 129
+  "updatedAt": "2026-08-30T20:07:58.167Z",
+  "matchesPlayed": 130
 }
