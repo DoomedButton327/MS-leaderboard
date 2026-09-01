@@ -108,15 +108,14 @@
       "name": "DarkHawk",
       "username": "RobotChicken",
       "phone": "+2348057545152",
-      "played": 24,
-      "wins": 11,
+      "played": 25,
+      "wins": 12,
       "draws": 1,
       "losses": 12,
-      "points": 11,
-      "gf": 12,
+      "points": 12,
+      "gf": 13,
       "ga": 13,
       "form": [
-        "L",
         "W",
         "W",
         "L",
@@ -125,7 +124,8 @@
         "W",
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -160,15 +160,14 @@
       "name": "Mihle",
       "username": "Rabbit",
       "phone": "+270719709662",
-      "played": 24,
+      "played": 25,
       "wins": 9,
       "draws": 4,
-      "losses": 11,
+      "losses": 12,
       "points": 9,
       "gf": 9,
-      "ga": 11,
+      "ga": 12,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -177,6 +176,7 @@
         "L",
         "W",
         "W",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Rabbit",
+      "away": "RobotChicken",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-01"
+    },
+    {
       "home": "Kaboman",
       "away": "Incredible_Brad",
       "homeGoals": 0,
@@ -1459,6 +1467,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-01T22:15:43.354Z",
-  "matchesPlayed": 140
+  "updatedAt": "2026-09-01T22:17:23.459Z",
+  "matchesPlayed": 141
 }
