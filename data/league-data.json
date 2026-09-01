@@ -183,44 +183,17 @@
       "suspended": false
     },
     {
-      "name": "Snap Hokage",
-      "username": "LaMonK",
-      "phone": "+27794291572",
-      "played": 16,
-      "wins": 8,
-      "draws": 4,
-      "losses": 4,
-      "points": 8,
-      "gf": 8,
-      "ga": 4,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "L",
-        "L",
-        "D"
-      ],
-      "postponements": 19,
-      "suspended": false
-    },
-    {
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 23,
-      "wins": 8,
+      "played": 24,
+      "wins": 9,
       "draws": 0,
       "losses": 15,
-      "points": 8,
-      "gf": 8,
+      "points": 9,
+      "gf": 9,
       "ga": 15,
       "form": [
-        "W",
         "L",
         "L",
         "W",
@@ -229,9 +202,36 @@
         "L",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Snap Hokage",
+      "username": "LaMonK",
+      "phone": "+27794291572",
+      "played": 17,
+      "wins": 8,
+      "draws": 4,
+      "losses": 5,
+      "points": 8,
+      "gf": 8,
+      "ga": 5,
+      "form": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "L",
+        "L",
+        "D",
+        "L"
+      ],
+      "postponements": 19,
       "suspended": false
     },
     {
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Astral_Reign",
+      "away": "LaMonK",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-01"
+    },
     {
       "home": "Incredible_Brad",
       "away": "LaMonK",
@@ -1435,6 +1443,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-01T22:10:02.432Z",
-  "matchesPlayed": 137
+  "updatedAt": "2026-09-01T22:12:07.458Z",
+  "matchesPlayed": 138
 }
