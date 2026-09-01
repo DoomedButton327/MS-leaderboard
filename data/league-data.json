@@ -1,6 +1,32 @@
 {
   "players": [
     {
+      "name": "Fahd",
+      "username": "Mini",
+      "phone": "+2348140087648",
+      "played": 25,
+      "wins": 17,
+      "draws": 2,
+      "losses": 6,
+      "points": 17,
+      "gf": 18,
+      "ga": 7,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "D",
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
@@ -21,32 +47,6 @@
         "W",
         "W",
         "L",
-        "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Fahd",
-      "username": "Mini",
-      "phone": "+2348140087648",
-      "played": 24,
-      "wins": 16,
-      "draws": 2,
-      "losses": 6,
-      "points": 16,
-      "gf": 17,
-      "ga": 7,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "L",
-        "D",
-        "W",
-        "L",
-        "W",
         "W"
       ],
       "postponements": 20,
@@ -238,15 +238,14 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 24,
+      "played": 25,
       "wins": 8,
       "draws": 0,
-      "losses": 16,
+      "losses": 17,
       "points": 8,
       "gf": 8,
-      "ga": 16,
+      "ga": 17,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -255,7 +254,8 @@
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Mini",
+      "away": "Angel",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-01"
+    },
+    {
       "home": "Astral_Reign",
       "away": "LaMonK",
       "homeGoals": 1,
@@ -1443,6 +1451,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-01T22:12:07.458Z",
-  "matchesPlayed": 138
+  "updatedAt": "2026-09-01T22:12:51.267Z",
+  "matchesPlayed": 139
 }
