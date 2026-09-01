@@ -30,15 +30,14 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 21,
+      "played": 22,
       "wins": 15,
       "draws": 2,
-      "losses": 4,
+      "losses": 5,
       "points": 15,
       "gf": 15,
-      "ga": 4,
+      "ga": 5,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -47,7 +46,8 @@
         "D",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -82,15 +82,14 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 24,
-      "wins": 11,
+      "played": 25,
+      "wins": 12,
       "draws": 3,
       "losses": 10,
-      "points": 11,
-      "gf": 11,
+      "points": 12,
+      "gf": 12,
       "ga": 10,
       "form": [
-        "W",
         "L",
         "L",
         "W",
@@ -99,6 +98,7 @@
         "W",
         "W",
         "L",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "YANITED",
+      "away": "BullDOZER",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-01"
+    },
+    {
       "home": "Astral_Reign",
       "away": "YANITED",
       "homeGoals": 0,
@@ -1411,6 +1419,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-08-31T23:01:30.881Z",
-  "matchesPlayed": 134
+  "updatedAt": "2026-09-01T22:07:37.073Z",
+  "matchesPlayed": 135
 }
