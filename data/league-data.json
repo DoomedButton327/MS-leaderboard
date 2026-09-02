@@ -108,16 +108,15 @@
       "name": "DarkHawk",
       "username": "RobotChicken",
       "phone": "+2348057545152",
-      "played": 25,
+      "played": 26,
       "wins": 12,
       "draws": 1,
-      "losses": 12,
+      "losses": 13,
       "points": 12,
       "gf": 13,
-      "ga": 13,
+      "ga": 14,
       "form": [
         "W",
-        "W",
         "L",
         "W",
         "L",
@@ -125,7 +124,8 @@
         "L",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -152,6 +152,32 @@
         "L",
         "L",
         "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Tyron/Astral",
+      "username": "Astral_Reign",
+      "phone": "+27814301713",
+      "played": 25,
+      "wins": 10,
+      "draws": 0,
+      "losses": 15,
+      "points": 10,
+      "gf": 10,
+      "ga": 15,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -204,32 +230,6 @@
         "W",
         "L",
         "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Tyron/Astral",
-      "username": "Astral_Reign",
-      "phone": "+27814301713",
-      "played": 24,
-      "wins": 9,
-      "draws": 0,
-      "losses": 15,
-      "points": 9,
-      "gf": 9,
-      "ga": 15,
-      "form": [
-        "L",
-        "L",
-        "W",
-        "L",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Astral_Reign",
+      "away": "RobotChicken",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-02"
+    },
+    {
       "home": "Kaboman",
       "away": "LaMonK",
       "homeGoals": 0,
@@ -1483,6 +1491,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-02T23:02:17.489Z",
-  "matchesPlayed": 143
+  "updatedAt": "2026-09-02T23:02:27.736Z",
+  "matchesPlayed": 144
 }
