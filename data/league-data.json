@@ -134,26 +134,52 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 25,
+      "played": 26,
       "wins": 11,
       "draws": 0,
-      "losses": 14,
+      "losses": 15,
       "points": 11,
       "gf": 11,
-      "ga": 14,
+      "ga": 15,
       "form": [
-        "W",
         "L",
         "W",
         "L",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L"
       ],
       "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Snap Hokage",
+      "username": "LaMonK",
+      "phone": "+27794291572",
+      "played": 18,
+      "wins": 9,
+      "draws": 4,
+      "losses": 5,
+      "points": 9,
+      "gf": 9,
+      "ga": 5,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "L",
+        "L",
+        "D",
+        "L",
+        "W"
+      ],
+      "postponements": 19,
       "suspended": false
     },
     {
@@ -206,32 +232,6 @@
         "W"
       ],
       "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Snap Hokage",
-      "username": "LaMonK",
-      "phone": "+27794291572",
-      "played": 17,
-      "wins": 8,
-      "draws": 4,
-      "losses": 5,
-      "points": 8,
-      "gf": 8,
-      "ga": 5,
-      "form": [
-        "W",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "L",
-        "L",
-        "D",
-        "L"
-      ],
-      "postponements": 19,
       "suspended": false
     },
     {
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Kaboman",
+      "away": "LaMonK",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-02"
+    },
     {
       "home": "Angel",
       "away": "YANITED",
@@ -1475,6 +1483,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-02T23:02:07.811Z",
-  "matchesPlayed": 142
+  "updatedAt": "2026-09-02T23:02:17.489Z",
+  "matchesPlayed": 143
 }
