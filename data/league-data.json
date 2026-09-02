@@ -82,22 +82,22 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 25,
-      "wins": 12,
+      "played": 26,
+      "wins": 13,
       "draws": 3,
       "losses": 10,
-      "points": 12,
-      "gf": 12,
+      "points": 13,
+      "gf": 13,
       "ga": 10,
       "form": [
         "L",
-        "L",
         "W",
         "D",
         "D",
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W"
       ],
@@ -238,15 +238,14 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 25,
+      "played": 26,
       "wins": 8,
       "draws": 0,
-      "losses": 17,
+      "losses": 18,
       "points": 8,
       "gf": 8,
-      "ga": 17,
+      "ga": 18,
       "form": [
-        "L",
         "W",
         "W",
         "L",
@@ -255,6 +254,7 @@
         "L",
         "W",
         "W",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Angel",
+      "away": "YANITED",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-02"
+    },
+    {
       "home": "Rabbit",
       "away": "RobotChicken",
       "homeGoals": 0,
@@ -1467,6 +1475,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-01T23:01:59.993Z",
-  "matchesPlayed": 141
+  "updatedAt": "2026-09-02T23:02:07.811Z",
+  "matchesPlayed": 142
 }
