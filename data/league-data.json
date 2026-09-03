@@ -4,21 +4,21 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 25,
-      "wins": 17,
+      "played": 26,
+      "wins": 18,
       "draws": 2,
       "losses": 6,
-      "points": 17,
-      "gf": 18,
+      "points": 18,
+      "gf": 19,
       "ga": 7,
       "form": [
-        "W",
         "W",
         "W",
         "L",
         "D",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W"
@@ -186,15 +186,14 @@
       "name": "Snap Hokage",
       "username": "LaMonK",
       "phone": "+27794291572",
-      "played": 18,
+      "played": 19,
       "wins": 9,
       "draws": 4,
-      "losses": 5,
+      "losses": 6,
       "points": 9,
       "gf": 9,
-      "ga": 5,
+      "ga": 6,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -203,7 +202,8 @@
         "L",
         "D",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Mini",
+      "away": "LaMonK",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-03"
+    },
+    {
       "home": "Astral_Reign",
       "away": "RobotChicken",
       "homeGoals": 1,
@@ -1491,6 +1499,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-02T23:02:40.765Z",
-  "matchesPlayed": 144
+  "updatedAt": "2026-09-03T20:29:11.591Z",
+  "matchesPlayed": 145
 }
