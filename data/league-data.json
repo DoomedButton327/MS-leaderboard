@@ -108,24 +108,50 @@
       "name": "DarkHawk",
       "username": "RobotChicken",
       "phone": "+2348057545152",
-      "played": 26,
+      "played": 27,
       "wins": 12,
       "draws": 1,
-      "losses": 13,
+      "losses": 14,
       "points": 12,
       "gf": 13,
-      "ga": 14,
+      "ga": 15,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L",
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Tyron/Astral",
+      "username": "Astral_Reign",
+      "phone": "+27814301713",
+      "played": 26,
+      "wins": 11,
+      "draws": 0,
+      "losses": 15,
+      "points": 11,
+      "gf": 11,
+      "ga": 15,
       "form": [
         "W",
         "L",
         "W",
         "L",
         "W",
-        "L",
-        "L",
+        "W",
         "L",
         "W",
-        "L"
+        "W",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -152,32 +178,6 @@
         "L",
         "L",
         "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Tyron/Astral",
-      "username": "Astral_Reign",
-      "phone": "+27814301713",
-      "played": 25,
-      "wins": 10,
-      "draws": 0,
-      "losses": 15,
-      "points": 10,
-      "gf": 10,
-      "ga": 15,
-      "form": [
-        "L",
-        "W",
-        "L",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "W",
-        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "RobotChicken",
+      "away": "Astral_Reign",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-03"
+    },
+    {
       "home": "BullDOZER",
       "away": "Incredible_Brad",
       "homeGoals": 1,
@@ -1523,6 +1531,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-03T20:35:01.589Z",
-  "matchesPlayed": 148
+  "updatedAt": "2026-09-03T21:00:00.409Z",
+  "matchesPlayed": 149
 }
