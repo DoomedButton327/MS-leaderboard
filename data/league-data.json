@@ -4,20 +4,20 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 26,
-      "wins": 18,
+      "played": 27,
+      "wins": 19,
       "draws": 2,
       "losses": 6,
-      "points": 18,
-      "gf": 19,
+      "points": 19,
+      "gf": 20,
       "ga": 7,
       "form": [
-        "W",
         "W",
         "L",
         "D",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -212,15 +212,14 @@
       "name": "Mihle",
       "username": "Rabbit",
       "phone": "+270719709662",
-      "played": 25,
+      "played": 26,
       "wins": 9,
       "draws": 4,
-      "losses": 12,
+      "losses": 13,
       "points": 9,
       "gf": 9,
-      "ga": 12,
+      "ga": 13,
       "form": [
-        "W",
         "L",
         "L",
         "L",
@@ -228,6 +227,7 @@
         "L",
         "W",
         "W",
+        "L",
         "L",
         "L"
       ],
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Mini",
+      "away": "Rabbit",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-02"
+    },
+    {
       "home": "Incredible_Brad",
       "away": "Kaboman",
       "homeGoals": 1,
@@ -1507,6 +1515,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-03T20:30:47.881Z",
-  "matchesPlayed": 146
+  "updatedAt": "2026-09-03T20:34:01.040Z",
+  "matchesPlayed": 147
 }
