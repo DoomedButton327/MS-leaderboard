@@ -30,15 +30,14 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 24,
+      "played": 25,
       "wins": 17,
       "draws": 2,
-      "losses": 5,
+      "losses": 6,
       "points": 17,
       "gf": 17,
-      "ga": 5,
+      "ga": 6,
       "form": [
-        "W",
         "W",
         "D",
         "W",
@@ -47,7 +46,8 @@
         "W",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -209,6 +209,32 @@
       "suspended": false
     },
     {
+      "name": "Angel",
+      "username": "Angel",
+      "phone": "+27833006494",
+      "played": 27,
+      "wins": 10,
+      "draws": 0,
+      "losses": 17,
+      "points": 10,
+      "gf": 10,
+      "ga": 17,
+      "form": [
+        "W",
+        "L",
+        "L",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Mihle",
       "username": "Rabbit",
       "phone": "+270719709662",
@@ -230,32 +256,6 @@
         "L",
         "L",
         "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Angel",
-      "username": "Angel",
-      "phone": "+27833006494",
-      "played": 26,
-      "wins": 9,
-      "draws": 0,
-      "losses": 17,
-      "points": 9,
-      "gf": 9,
-      "ga": 17,
-      "form": [
-        "W",
-        "W",
-        "L",
-        "L",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Angel",
+      "away": "BullDOZER",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-04"
+    },
     {
       "home": "YANITED",
       "away": "LaMonK",
@@ -1539,6 +1547,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-04T23:12:02.316Z",
-  "matchesPlayed": 150
+  "updatedAt": "2026-09-04T23:12:13.465Z",
+  "matchesPlayed": 151
 }
