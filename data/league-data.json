@@ -82,15 +82,14 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 26,
+      "played": 27,
       "wins": 12,
       "draws": 3,
-      "losses": 11,
+      "losses": 12,
       "points": 12,
       "gf": 12,
-      "ga": 11,
+      "ga": 12,
       "form": [
-        "L",
         "D",
         "D",
         "W",
@@ -99,6 +98,7 @@
         "L",
         "W",
         "W",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -186,15 +186,14 @@
       "name": "Snap Hokage",
       "username": "LaMonK",
       "phone": "+27794291572",
-      "played": 19,
-      "wins": 9,
+      "played": 20,
+      "wins": 10,
       "draws": 4,
       "losses": 6,
-      "points": 9,
-      "gf": 9,
+      "points": 10,
+      "gf": 10,
       "ga": 6,
       "form": [
-        "L",
         "W",
         "W",
         "L",
@@ -203,7 +202,8 @@
         "D",
         "L",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "YANITED",
+      "away": "LaMonK",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-04"
+    },
+    {
       "home": "RobotChicken",
       "away": "Astral_Reign",
       "homeGoals": 0,
@@ -1531,6 +1539,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-03T23:12:10.025Z",
-  "matchesPlayed": 149
+  "updatedAt": "2026-09-04T23:12:02.316Z",
+  "matchesPlayed": 150
 }
