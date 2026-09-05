@@ -134,21 +134,21 @@
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 26,
-      "wins": 11,
+      "played": 27,
+      "wins": 12,
       "draws": 0,
       "losses": 15,
-      "points": 11,
-      "gf": 11,
+      "points": 12,
+      "gf": 12,
       "ga": 15,
       "form": [
-        "W",
         "L",
         "W",
         "L",
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W"
@@ -238,21 +238,21 @@
       "name": "Mihle",
       "username": "Rabbit",
       "phone": "+270719709662",
-      "played": 26,
+      "played": 27,
       "wins": 9,
       "draws": 4,
-      "losses": 13,
+      "losses": 14,
       "points": 9,
       "gf": 9,
-      "ga": 13,
+      "ga": 14,
       "form": [
-        "L",
         "L",
         "D",
         "L",
         "L",
         "W",
         "W",
+        "L",
         "L",
         "L",
         "L"
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Rabbit",
+      "away": "Astral_Reign",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-04"
+    },
+    {
       "home": "Angel",
       "away": "YANITED",
       "homeGoals": 1,
@@ -1571,6 +1579,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-05T05:52:52.924Z",
-  "matchesPlayed": 154
+  "updatedAt": "2026-09-05T05:54:12.840Z",
+  "matchesPlayed": 155
 }
