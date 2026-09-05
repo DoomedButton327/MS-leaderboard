@@ -160,21 +160,21 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 28,
-      "wins": 11,
+      "played": 29,
+      "wins": 12,
       "draws": 0,
       "losses": 17,
-      "points": 11,
-      "gf": 11,
+      "points": 12,
+      "gf": 12,
       "ga": 17,
       "form": [
         "L",
-        "L",
         "W",
         "L",
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W"
@@ -212,15 +212,14 @@
       "name": "Snap Hokage",
       "username": "LaMonK",
       "phone": "+27794291572",
-      "played": 20,
+      "played": 21,
       "wins": 10,
       "draws": 4,
-      "losses": 6,
+      "losses": 7,
       "points": 10,
       "gf": 10,
-      "ga": 6,
+      "ga": 7,
       "form": [
-        "W",
         "W",
         "L",
         "L",
@@ -229,7 +228,8 @@
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Angel",
+      "away": "LaMonK",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-05"
+    },
+    {
       "home": "Rabbit",
       "away": "Mini",
       "homeGoals": 0,
@@ -1595,6 +1603,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-05T21:50:21.628Z",
-  "matchesPlayed": 157
+  "updatedAt": "2026-09-05T21:54:16.202Z",
+  "matchesPlayed": 158
 }
