@@ -4,18 +4,18 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 28,
-      "wins": 20,
+      "played": 29,
+      "wins": 21,
       "draws": 2,
       "losses": 6,
-      "points": 20,
-      "gf": 21,
+      "points": 21,
+      "gf": 22,
       "ga": 7,
       "form": [
-        "L",
         "D",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -235,32 +235,6 @@
       "suspended": false
     },
     {
-      "name": "Mihle",
-      "username": "Rabbit",
-      "phone": "+270719709662",
-      "played": 27,
-      "wins": 9,
-      "draws": 4,
-      "losses": 14,
-      "points": 9,
-      "gf": 9,
-      "ga": 14,
-      "form": [
-        "L",
-        "D",
-        "L",
-        "L",
-        "W",
-        "W",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
@@ -284,6 +258,32 @@
         "W"
       ],
       "postponements": 19,
+      "suspended": false
+    },
+    {
+      "name": "Mihle",
+      "username": "Rabbit",
+      "phone": "+270719709662",
+      "played": 28,
+      "wins": 9,
+      "draws": 4,
+      "losses": 15,
+      "points": 9,
+      "gf": 9,
+      "ga": 15,
+      "form": [
+        "D",
+        "L",
+        "L",
+        "W",
+        "W",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "postponements": 20,
       "suspended": false
     },
     {
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Rabbit",
+      "away": "Mini",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-05"
+    },
     {
       "home": "Kaboman",
       "away": "RobotChicken",
@@ -1587,6 +1595,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-05T21:50:12.503Z",
-  "matchesPlayed": 156
+  "updatedAt": "2026-09-05T21:50:21.628Z",
+  "matchesPlayed": 157
 }
