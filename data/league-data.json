@@ -79,6 +79,32 @@
       "suspended": true
     },
     {
+      "name": "Lethabo",
+      "username": "YANITED",
+      "phone": "+27714588239",
+      "played": 29,
+      "wins": 13,
+      "draws": 3,
+      "losses": 13,
+      "points": 13,
+      "gf": 13,
+      "ga": 13,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "DarkHawk",
       "username": "RobotChicken",
       "phone": "+2348057545152",
@@ -100,32 +126,6 @@
         "L",
         "L",
         "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Lethabo",
-      "username": "YANITED",
-      "phone": "+27714588239",
-      "played": 28,
-      "wins": 12,
-      "draws": 3,
-      "losses": 13,
-      "points": 12,
-      "gf": 12,
-      "ga": 13,
-      "form": [
-        "D",
-        "W",
-        "W",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "L",
-        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -264,15 +264,14 @@
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
-      "played": 27,
+      "played": 28,
       "wins": 9,
       "draws": 4,
-      "losses": 14,
+      "losses": 15,
       "points": 9,
       "gf": 9,
-      "ga": 14,
+      "ga": 15,
       "form": [
-        "L",
         "W",
         "W",
         "L",
@@ -281,7 +280,8 @@
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Incredible_Brad",
+      "away": "YANITED",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-05"
+    },
+    {
       "home": "BullDOZER",
       "away": "Rabbit",
       "homeGoals": 0,
@@ -1611,6 +1619,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-05T23:12:12.962Z",
-  "matchesPlayed": 159
+  "updatedAt": "2026-09-06T11:14:17.711Z",
+  "matchesPlayed": 160
 }
