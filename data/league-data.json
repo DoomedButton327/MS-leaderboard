@@ -4,17 +4,17 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 29,
-      "wins": 21,
+      "played": 30,
+      "wins": 22,
       "draws": 2,
       "losses": 6,
-      "points": 21,
-      "gf": 22,
+      "points": 22,
+      "gf": 23,
       "ga": 7,
       "form": [
-        "D",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -160,15 +160,14 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 29,
+      "played": 30,
       "wins": 12,
       "draws": 0,
-      "losses": 17,
+      "losses": 18,
       "points": 12,
       "gf": 12,
-      "ga": 17,
+      "ga": 18,
       "form": [
-        "L",
         "W",
         "L",
         "W",
@@ -177,7 +176,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Mini",
+      "away": "Angel",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-07"
+    },
     {
       "home": "Astral_Reign",
       "away": "Incredible_Brad",
@@ -1635,6 +1643,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-07T21:27:35.635Z",
-  "matchesPlayed": 162
+  "updatedAt": "2026-09-07T21:29:50.477Z",
+  "matchesPlayed": 163
 }
