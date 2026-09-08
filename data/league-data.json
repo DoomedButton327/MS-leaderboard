@@ -160,15 +160,14 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 30,
-      "wins": 12,
+      "played": 31,
+      "wins": 13,
       "draws": 0,
       "losses": 18,
-      "points": 12,
-      "gf": 12,
+      "points": 13,
+      "gf": 13,
       "ga": 18,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -177,7 +176,8 @@
         "W",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -264,15 +264,14 @@
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
-      "played": 29,
+      "played": 30,
       "wins": 10,
       "draws": 4,
-      "losses": 15,
+      "losses": 16,
       "points": 10,
       "gf": 10,
-      "ga": 15,
+      "ga": 16,
       "form": [
-        "W",
         "L",
         "L",
         "D",
@@ -281,7 +280,8 @@
         "W",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Incredible_Brad",
+      "away": "Angel",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-08"
+    },
+    {
       "home": "YANITED",
       "away": "BullDOZER",
       "homeGoals": 0,
@@ -1651,6 +1659,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-07T23:08:37.175Z",
-  "matchesPlayed": 164
+  "updatedAt": "2026-09-08T23:08:41.075Z",
+  "matchesPlayed": 165
 }
