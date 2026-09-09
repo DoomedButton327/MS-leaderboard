@@ -209,52 +209,52 @@
       "suspended": false
     },
     {
-      "name": "Snap Hokage",
-      "username": "LaMonK",
-      "phone": "+27794291572",
-      "played": 23,
-      "wins": 10,
+      "name": "Brad",
+      "username": "Incredible_Brad",
+      "phone": "+27827436317",
+      "played": 31,
+      "wins": 11,
       "draws": 4,
-      "losses": 9,
-      "points": 10,
-      "gf": 10,
-      "ga": 9,
+      "losses": 16,
+      "points": 11,
+      "gf": 11,
+      "ga": 16,
       "form": [
         "L",
-        "L",
         "D",
+        "W",
         "L",
+        "W",
         "W",
         "L",
         "W",
         "L",
-        "L",
-        "L"
+        "W"
       ],
       "postponements": 19,
       "suspended": false
     },
     {
-      "name": "Brad",
-      "username": "Incredible_Brad",
-      "phone": "+27827436317",
-      "played": 30,
+      "name": "Snap Hokage",
+      "username": "LaMonK",
+      "phone": "+27794291572",
+      "played": 24,
       "wins": 10,
       "draws": 4,
-      "losses": 16,
+      "losses": 10,
       "points": 10,
       "gf": 10,
-      "ga": 16,
+      "ga": 10,
       "form": [
         "L",
-        "L",
         "D",
+        "L",
         "W",
         "L",
         "W",
-        "W",
         "L",
-        "W",
+        "L",
+        "L",
         "L"
       ],
       "postponements": 19,
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Incredible_Brad",
+      "away": "LaMonK",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-09"
+    },
+    {
       "home": "LaMonK",
       "away": "YANITED",
       "homeGoals": 0,
@@ -1723,6 +1731,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-09T21:34:11.679Z",
-  "matchesPlayed": 173
+  "updatedAt": "2026-09-09T21:34:17.530Z",
+  "matchesPlayed": 174
 }
