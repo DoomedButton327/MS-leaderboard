@@ -79,6 +79,32 @@
       "suspended": true
     },
     {
+      "name": "Tyron/Astral",
+      "username": "Astral_Reign",
+      "phone": "+27814301713",
+      "played": 31,
+      "wins": 14,
+      "draws": 0,
+      "losses": 17,
+      "points": 14,
+      "gf": 14,
+      "ga": 17,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
@@ -131,32 +157,6 @@
       "suspended": false
     },
     {
-      "name": "Tyron/Astral",
-      "username": "Astral_Reign",
-      "phone": "+27814301713",
-      "played": 30,
-      "wins": 13,
-      "draws": 0,
-      "losses": 17,
-      "points": 13,
-      "gf": 13,
-      "ga": 17,
-      "form": [
-        "W",
-        "W",
-        "L",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "L",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
@@ -186,17 +186,17 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 29,
+      "played": 30,
       "wins": 11,
       "draws": 0,
-      "losses": 18,
+      "losses": 19,
       "points": 11,
       "gf": 11,
-      "ga": 18,
+      "ga": 19,
       "form": [
         "L",
-        "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Kaboman",
+      "away": "Astral_Reign",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-08"
+    },
     {
       "home": "Mini",
       "away": "Astral_Reign",
@@ -1667,6 +1675,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-09T21:27:12.355Z",
-  "matchesPlayed": 166
+  "updatedAt": "2026-09-09T21:27:18.964Z",
+  "matchesPlayed": 167
 }
