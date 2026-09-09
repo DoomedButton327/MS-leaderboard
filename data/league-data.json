@@ -30,15 +30,14 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 28,
-      "wins": 18,
+      "played": 29,
+      "wins": 19,
       "draws": 2,
       "losses": 8,
-      "points": 18,
-      "gf": 18,
+      "points": 19,
+      "gf": 19,
       "ga": 8,
       "form": [
-        "L",
         "W",
         "W",
         "W",
@@ -47,6 +46,7 @@
         "L",
         "L",
         "L",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -134,15 +134,14 @@
       "name": "DarkHawk",
       "username": "RobotChicken",
       "phone": "+2348057545152",
-      "played": 29,
+      "played": 30,
       "wins": 13,
       "draws": 1,
-      "losses": 15,
+      "losses": 16,
       "points": 13,
       "gf": 14,
-      "ga": 16,
+      "ga": 17,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -151,7 +150,8 @@
         "L",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "BullDOZER",
+      "away": "RobotChicken",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-08"
+    },
+    {
       "home": "YANITED",
       "away": "Angel",
       "homeGoals": 1,
@@ -1683,6 +1691,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-09T21:31:21.089Z",
-  "matchesPlayed": 168
+  "updatedAt": "2026-09-09T21:31:29.992Z",
+  "matchesPlayed": 169
 }
