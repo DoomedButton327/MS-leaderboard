@@ -186,15 +186,14 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 30,
-      "wins": 11,
+      "played": 31,
+      "wins": 12,
       "draws": 0,
       "losses": 19,
-      "points": 11,
-      "gf": 11,
+      "points": 12,
+      "gf": 12,
       "ga": 19,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -203,7 +202,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -212,15 +212,14 @@
       "name": "Snap Hokage",
       "username": "LaMonK",
       "phone": "+27794291572",
-      "played": 21,
+      "played": 22,
       "wins": 10,
       "draws": 4,
-      "losses": 7,
+      "losses": 8,
       "points": 10,
       "gf": 10,
-      "ga": 7,
+      "ga": 8,
       "form": [
-        "W",
         "L",
         "L",
         "L",
@@ -229,6 +228,7 @@
         "W",
         "L",
         "W",
+        "L",
         "L"
       ],
       "postponements": 19,
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "LaMonK",
+      "away": "Kaboman",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-07"
+    },
+    {
       "home": "Rabbit",
       "away": "Mini",
       "homeGoals": 0,
@@ -1707,6 +1715,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-09T21:32:00.979Z",
-  "matchesPlayed": 171
+  "updatedAt": "2026-09-09T21:34:05.818Z",
+  "matchesPlayed": 172
 }
