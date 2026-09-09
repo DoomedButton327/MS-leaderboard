@@ -4,15 +4,15 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 31,
-      "wins": 23,
+      "played": 32,
+      "wins": 24,
       "draws": 2,
       "losses": 6,
-      "points": 23,
-      "gf": 24,
+      "points": 24,
+      "gf": 25,
       "ga": 7,
       "form": [
-        "L",
+        "W",
         "W",
         "W",
         "W",
@@ -235,32 +235,6 @@
       "suspended": false
     },
     {
-      "name": "Mihle",
-      "username": "Rabbit",
-      "phone": "+270719709662",
-      "played": 30,
-      "wins": 10,
-      "draws": 4,
-      "losses": 16,
-      "points": 10,
-      "gf": 10,
-      "ga": 16,
-      "form": [
-        "L",
-        "W",
-        "W",
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
-        "W",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
@@ -284,6 +258,32 @@
         "L"
       ],
       "postponements": 19,
+      "suspended": false
+    },
+    {
+      "name": "Mihle",
+      "username": "Rabbit",
+      "phone": "+270719709662",
+      "played": 31,
+      "wins": 10,
+      "draws": 4,
+      "losses": 17,
+      "points": 10,
+      "gf": 10,
+      "ga": 17,
+      "form": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "postponements": 20,
       "suspended": false
     },
     {
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Rabbit",
+      "away": "Mini",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-08"
+    },
+    {
       "home": "RobotChicken",
       "away": "Rabbit",
       "homeGoals": 1,
@@ -1699,6 +1707,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-09T21:31:55.514Z",
-  "matchesPlayed": 170
+  "updatedAt": "2026-09-09T21:32:00.979Z",
+  "matchesPlayed": 171
 }
