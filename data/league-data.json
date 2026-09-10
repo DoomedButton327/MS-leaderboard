@@ -30,16 +30,15 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 30,
-      "wins": 19,
+      "played": 31,
+      "wins": 20,
       "draws": 2,
       "losses": 9,
-      "points": 19,
-      "gf": 19,
+      "points": 20,
+      "gf": 20,
       "ga": 9,
       "form": [
         "W",
-        "W",
         "L",
         "W",
         "L",
@@ -47,7 +46,8 @@
         "L",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -134,15 +134,14 @@
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 31,
+      "played": 32,
       "wins": 14,
       "draws": 0,
-      "losses": 17,
+      "losses": 18,
       "points": 14,
       "gf": 14,
-      "ga": 17,
+      "ga": 18,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -151,7 +150,8 @@
         "W",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Astral_Reign",
+      "away": "BullDOZER",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-10"
+    },
+    {
       "home": "LaMonK",
       "away": "Mini",
       "homeGoals": 0,
@@ -1779,6 +1787,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-10T18:52:20.685Z",
-  "matchesPlayed": 180
+  "updatedAt": "2026-09-10T22:15:49.286Z",
+  "matchesPlayed": 181
 }
