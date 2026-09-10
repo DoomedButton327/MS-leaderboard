@@ -53,6 +53,32 @@
       "suspended": false
     },
     {
+      "name": "Lethabo",
+      "username": "YANITED",
+      "phone": "+27714588239",
+      "played": 33,
+      "wins": 16,
+      "draws": 3,
+      "losses": 14,
+      "points": 16,
+      "gf": 16,
+      "ga": 14,
+      "form": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L",
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "DarkHawk",
       "username": "RobotChicken",
       "phone": "+2348057545152",
@@ -72,32 +98,6 @@
         "W",
         "L",
         "W",
-        "W",
-        "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Lethabo",
-      "username": "YANITED",
-      "phone": "+27714588239",
-      "played": 32,
-      "wins": 15,
-      "draws": 3,
-      "losses": 14,
-      "points": 15,
-      "gf": 15,
-      "ga": 14,
-      "form": [
-        "L",
-        "W",
-        "W",
-        "L",
-        "L",
-        "L",
-        "W",
-        "L",
         "W",
         "W"
       ],
@@ -209,32 +209,6 @@
       "suspended": false
     },
     {
-      "name": "Brad",
-      "username": "Incredible_Brad",
-      "phone": "+27827436317",
-      "played": 31,
-      "wins": 11,
-      "draws": 4,
-      "losses": 16,
-      "points": 11,
-      "gf": 11,
-      "ga": 16,
-      "form": [
-        "L",
-        "D",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "W",
-        "L",
-        "W"
-      ],
-      "postponements": 19,
-      "suspended": false
-    },
-    {
       "name": "Mihle",
       "username": "Rabbit",
       "phone": "+270719709662",
@@ -258,6 +232,32 @@
         "W"
       ],
       "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Brad",
+      "username": "Incredible_Brad",
+      "phone": "+27827436317",
+      "played": 32,
+      "wins": 11,
+      "draws": 4,
+      "losses": 17,
+      "points": 11,
+      "gf": 11,
+      "ga": 17,
+      "form": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "postponements": 19,
       "suspended": false
     },
     {
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "YANITED",
+      "away": "Incredible_Brad",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-10"
+    },
     {
       "home": "Kaboman",
       "away": "RobotChicken",
@@ -1755,6 +1763,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-10T17:05:04.823Z",
-  "matchesPlayed": 177
+  "updatedAt": "2026-09-10T17:05:13.890Z",
+  "matchesPlayed": 178
 }
