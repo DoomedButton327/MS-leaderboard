@@ -258,7 +258,7 @@
         "L"
       ],
       "postponements": 20,
-      "suspended": false
+      "suspended": true
     },
     {
       "name": "Snap Hokage",
@@ -1779,6 +1779,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-10T17:09:53.947Z",
+  "updatedAt": "2026-09-10T17:10:26.248Z",
   "matchesPlayed": 180
 }
