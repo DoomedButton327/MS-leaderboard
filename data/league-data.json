@@ -128,7 +128,7 @@
         "D"
       ],
       "postponements": 19,
-      "suspended": true
+      "suspended": false
     },
     {
       "name": "Tyron/Astral",
@@ -1747,6 +1747,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-09T23:08:54.433Z",
+  "updatedAt": "2026-09-10T17:01:24.355Z",
   "matchesPlayed": 176
 }
