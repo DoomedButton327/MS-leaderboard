@@ -105,6 +105,32 @@
       "suspended": false
     },
     {
+      "name": "Angel",
+      "username": "Angel",
+      "phone": "+27833006494",
+      "played": 34,
+      "wins": 15,
+      "draws": 0,
+      "losses": 19,
+      "points": 15,
+      "gf": 15,
+      "ga": 19,
+      "form": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W",
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
@@ -157,32 +183,6 @@
       "suspended": false
     },
     {
-      "name": "Angel",
-      "username": "Angel",
-      "phone": "+27833006494",
-      "played": 33,
-      "wins": 14,
-      "draws": 0,
-      "losses": 19,
-      "points": 14,
-      "gf": 14,
-      "ga": 19,
-      "form": [
-        "W",
-        "L",
-        "W",
-        "W",
-        "W",
-        "W",
-        "L",
-        "W",
-        "L",
-        "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
@@ -206,32 +206,6 @@
         "L"
       ],
       "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Brad",
-      "username": "Incredible_Brad",
-      "phone": "+27827436317",
-      "played": 32,
-      "wins": 11,
-      "draws": 4,
-      "losses": 17,
-      "points": 11,
-      "gf": 11,
-      "ga": 17,
-      "form": [
-        "D",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "W",
-        "L",
-        "W",
-        "L"
-      ],
-      "postponements": 19,
       "suspended": false
     },
     {
@@ -259,6 +233,32 @@
       ],
       "postponements": 20,
       "suspended": true
+    },
+    {
+      "name": "Brad",
+      "username": "Incredible_Brad",
+      "phone": "+27827436317",
+      "played": 33,
+      "wins": 11,
+      "draws": 4,
+      "losses": 18,
+      "points": 11,
+      "gf": 11,
+      "ga": 18,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "W",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "postponements": 19,
+      "suspended": false
     },
     {
       "name": "Snap Hokage",
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Incredible_Brad",
+      "away": "Angel",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-11"
+    },
     {
       "home": "RobotChicken",
       "away": "YANITED",
@@ -1795,6 +1803,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-11T11:08:38.479Z",
-  "matchesPlayed": 182
+  "updatedAt": "2026-09-11T11:13:11.342Z",
+  "matchesPlayed": 183
 }
