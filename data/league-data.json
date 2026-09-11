@@ -56,21 +56,21 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 33,
-      "wins": 16,
+      "played": 34,
+      "wins": 17,
       "draws": 3,
       "losses": 14,
-      "points": 16,
-      "gf": 16,
+      "points": 17,
+      "gf": 17,
       "ga": 14,
       "form": [
         "W",
-        "W",
         "L",
         "L",
         "L",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W"
@@ -82,15 +82,14 @@
       "name": "DarkHawk",
       "username": "RobotChicken",
       "phone": "+2348057545152",
-      "played": 33,
+      "played": 34,
       "wins": 16,
       "draws": 1,
-      "losses": 16,
+      "losses": 17,
       "points": 16,
       "gf": 17,
-      "ga": 17,
+      "ga": 18,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -99,7 +98,8 @@
         "L",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "RobotChicken",
+      "away": "YANITED",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-11"
+    },
+    {
       "home": "Astral_Reign",
       "away": "BullDOZER",
       "homeGoals": 0,
@@ -1787,6 +1795,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-10T23:07:52.432Z",
-  "matchesPlayed": 181
+  "updatedAt": "2026-09-11T11:08:38.479Z",
+  "matchesPlayed": 182
 }
