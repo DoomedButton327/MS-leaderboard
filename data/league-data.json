@@ -30,15 +30,14 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 31,
+      "played": 32,
       "wins": 20,
       "draws": 2,
-      "losses": 9,
+      "losses": 10,
       "points": 20,
       "gf": 20,
-      "ga": 9,
+      "ga": 10,
       "form": [
-        "W",
         "L",
         "W",
         "L",
@@ -47,7 +46,8 @@
         "W",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -105,6 +105,32 @@
       "suspended": true
     },
     {
+      "name": "Bjorn",
+      "username": "BunnyBearZA",
+      "phone": "+27815794703",
+      "played": 21,
+      "wins": 15,
+      "draws": 3,
+      "losses": 3,
+      "points": 15,
+      "gf": 15,
+      "ga": 3,
+      "form": [
+        "W",
+        "W",
+        "L",
+        "L",
+        "L",
+        "D",
+        "D",
+        "W",
+        "D",
+        "W"
+      ],
+      "postponements": 19,
+      "suspended": false
+    },
+    {
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
@@ -128,32 +154,6 @@
         "W"
       ],
       "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Bjorn",
-      "username": "BunnyBearZA",
-      "phone": "+27815794703",
-      "played": 20,
-      "wins": 14,
-      "draws": 3,
-      "losses": 3,
-      "points": 14,
-      "gf": 14,
-      "ga": 3,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "L",
-        "L",
-        "L",
-        "D",
-        "D",
-        "W",
-        "D"
-      ],
-      "postponements": 19,
       "suspended": false
     },
     {
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "BullDOZER",
+      "away": "BunnyBearZA",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-11"
+    },
+    {
       "home": "Kaboman",
       "away": "Astral_Reign",
       "homeGoals": 0,
@@ -1811,6 +1819,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-11T23:10:18.644Z",
-  "matchesPlayed": 184
+  "updatedAt": "2026-09-11T23:11:10.968Z",
+  "matchesPlayed": 185
 }
