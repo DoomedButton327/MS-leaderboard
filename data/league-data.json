@@ -105,6 +105,32 @@
       "suspended": false
     },
     {
+      "name": "Tyron/Astral",
+      "username": "Astral_Reign",
+      "phone": "+27814301713",
+      "played": 33,
+      "wins": 15,
+      "draws": 0,
+      "losses": 18,
+      "points": 15,
+      "gf": 15,
+      "ga": 18,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
@@ -128,32 +154,6 @@
         "D"
       ],
       "postponements": 19,
-      "suspended": false
-    },
-    {
-      "name": "Tyron/Astral",
-      "username": "Astral_Reign",
-      "phone": "+27814301713",
-      "played": 32,
-      "wins": 14,
-      "draws": 0,
-      "losses": 18,
-      "points": 14,
-      "gf": 14,
-      "ga": 18,
-      "form": [
-        "L",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "L",
-        "W",
-        "L",
-        "L"
-      ],
-      "postponements": 20,
       "suspended": false
     },
     {
@@ -212,21 +212,21 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 33,
+      "played": 34,
       "wins": 12,
       "draws": 0,
-      "losses": 21,
+      "losses": 22,
       "points": 12,
       "gf": 12,
-      "ga": 21,
+      "ga": 22,
       "form": [
         "L",
         "L",
         "L",
         "L",
         "L",
-        "L",
         "W",
+        "L",
         "L",
         "L",
         "L"
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Kaboman",
+      "away": "Astral_Reign",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-11"
+    },
+    {
       "home": "Incredible_Brad",
       "away": "Angel",
       "homeGoals": 1,
@@ -1803,6 +1811,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-11T17:07:39.636Z",
-  "matchesPlayed": 183
+  "updatedAt": "2026-09-11T19:09:30.943Z",
+  "matchesPlayed": 184
 }
