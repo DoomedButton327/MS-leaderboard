@@ -4,12 +4,12 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 34,
-      "wins": 26,
+      "played": 35,
+      "wins": 27,
       "draws": 2,
       "losses": 6,
-      "points": 26,
-      "gf": 27,
+      "points": 27,
+      "gf": 28,
       "ga": 7,
       "form": [
         "W",
@@ -264,19 +264,19 @@
       "name": "Snap Hokage",
       "username": "LaMonK",
       "phone": "+27794291572",
-      "played": 25,
+      "played": 26,
       "wins": 10,
       "draws": 4,
-      "losses": 11,
+      "losses": 12,
       "points": 10,
       "gf": 10,
-      "ga": 11,
+      "ga": 12,
       "form": [
-        "D",
         "L",
         "W",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -340,6 +340,14 @@
   "results": [
     {
       "home": "Mini",
+      "away": "LaMonK",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-11"
+    },
+    {
+      "home": "Mini",
       "away": "Angel",
       "homeGoals": 1,
       "awayGoals": 0,
@@ -1843,6 +1851,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-14T17:17:16.122Z",
-  "matchesPlayed": 188
+  "updatedAt": "2026-09-14T23:03:11.958Z",
+  "matchesPlayed": 189
 }
