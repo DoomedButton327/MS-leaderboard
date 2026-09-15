@@ -79,6 +79,32 @@
       "suspended": false
     },
     {
+      "name": "Bjorn",
+      "username": "BunnyBearZA",
+      "phone": "+27815794703",
+      "played": 22,
+      "wins": 16,
+      "draws": 3,
+      "losses": 3,
+      "points": 16,
+      "gf": 16,
+      "ga": 3,
+      "form": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "D",
+        "D",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "postponements": 19,
+      "suspended": false
+    },
+    {
       "name": "DarkHawk",
       "username": "RobotChicken",
       "phone": "+2348057545152",
@@ -131,51 +157,25 @@
       "suspended": false
     },
     {
-      "name": "Bjorn",
-      "username": "BunnyBearZA",
-      "phone": "+27815794703",
-      "played": 21,
-      "wins": 15,
-      "draws": 3,
-      "losses": 3,
-      "points": 15,
-      "gf": 15,
-      "ga": 3,
-      "form": [
-        "W",
-        "W",
-        "L",
-        "L",
-        "L",
-        "D",
-        "D",
-        "W",
-        "D",
-        "W"
-      ],
-      "postponements": 19,
-      "suspended": false
-    },
-    {
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 35,
+      "played": 36,
       "wins": 14,
       "draws": 0,
-      "losses": 21,
+      "losses": 22,
       "points": 14,
       "gf": 14,
-      "ga": 21,
+      "ga": 22,
       "form": [
         "W",
         "W",
         "W",
-        "W",
         "L",
         "W",
         "L",
         "W",
+        "L",
         "L",
         "L"
       ],
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "BunnyBearZA",
+      "away": "Angel",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-15"
+    },
+    {
       "home": "YANITED",
       "away": "Astral_Reign",
       "homeGoals": 1,
@@ -1875,6 +1883,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-15T10:50:07.824Z",
-  "matchesPlayed": 192
+  "updatedAt": "2026-09-15T10:50:29.242Z",
+  "matchesPlayed": 193
 }
