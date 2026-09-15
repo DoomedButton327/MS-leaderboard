@@ -56,20 +56,20 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 34,
-      "wins": 17,
+      "played": 35,
+      "wins": 18,
       "draws": 3,
       "losses": 14,
-      "points": 17,
-      "gf": 17,
+      "points": 18,
+      "gf": 18,
       "ga": 14,
       "form": [
-        "W",
         "L",
         "L",
         "L",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -264,18 +264,18 @@
       "name": "Snap Hokage",
       "username": "LaMonK",
       "phone": "+27794291572",
-      "played": 26,
+      "played": 27,
       "wins": 10,
       "draws": 4,
-      "losses": 12,
+      "losses": 13,
       "points": 10,
       "gf": 10,
-      "ga": 12,
+      "ga": 13,
       "form": [
-        "L",
         "W",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "YANITED",
+      "away": "LaMonK",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-14"
+    },
+    {
       "home": "Mini",
       "away": "LaMonK",
       "homeGoals": 1,
@@ -1851,6 +1859,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-15T10:22:15.101Z",
-  "matchesPlayed": 189
+  "updatedAt": "2026-09-15T10:23:11.150Z",
+  "matchesPlayed": 190
 }
