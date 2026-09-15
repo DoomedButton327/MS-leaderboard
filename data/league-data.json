@@ -183,6 +183,32 @@
       "suspended": false
     },
     {
+      "name": "Kabo",
+      "username": "Kaboman",
+      "phone": "+27703896056",
+      "played": 36,
+      "wins": 13,
+      "draws": 0,
+      "losses": 23,
+      "points": 13,
+      "gf": 13,
+      "ga": 23,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
@@ -206,32 +232,6 @@
         "L"
       ],
       "postponements": 19,
-      "suspended": false
-    },
-    {
-      "name": "Kabo",
-      "username": "Kaboman",
-      "phone": "+27703896056",
-      "played": 35,
-      "wins": 12,
-      "draws": 0,
-      "losses": 23,
-      "points": 12,
-      "gf": 12,
-      "ga": 23,
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "W",
-        "L",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "postponements": 20,
       "suspended": false
     },
     {
@@ -264,17 +264,17 @@
       "name": "Snap Hokage",
       "username": "LaMonK",
       "phone": "+27794291572",
-      "played": 27,
+      "played": 28,
       "wins": 10,
       "draws": 4,
-      "losses": 13,
+      "losses": 14,
       "points": 10,
       "gf": 10,
-      "ga": 13,
+      "ga": 14,
       "form": [
-        "W",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Kaboman",
+      "away": "LaMonK",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-15"
+    },
+    {
       "home": "YANITED",
       "away": "LaMonK",
       "homeGoals": 1,
@@ -1859,6 +1867,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-15T10:23:11.150Z",
-  "matchesPlayed": 190
+  "updatedAt": "2026-09-15T10:23:17.228Z",
+  "matchesPlayed": 191
 }
