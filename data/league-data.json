@@ -284,7 +284,7 @@
         "L"
       ],
       "postponements": 19,
-      "suspended": false
+      "suspended": true
     },
     {
       "name": "Emma 祝福された",
@@ -1851,6 +1851,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-14T23:03:26.067Z",
+  "updatedAt": "2026-09-15T10:22:15.101Z",
   "matchesPlayed": 189
 }
