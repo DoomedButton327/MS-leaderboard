@@ -56,16 +56,15 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 24,
+      "played": 25,
       "wins": 18,
       "draws": 3,
-      "losses": 3,
+      "losses": 4,
       "points": 21,
       "gf": 21,
-      "ga": 3,
+      "ga": 4,
       "form": [
         "L",
-        "L",
         "D",
         "D",
         "W",
@@ -73,7 +72,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -82,18 +82,18 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 36,
-      "wins": 19,
+      "played": 37,
+      "wins": 20,
       "draws": 3,
       "losses": 14,
-      "points": 19,
-      "gf": 19,
+      "points": 20,
+      "gf": 20,
       "ga": 14,
       "form": [
         "L",
-        "L",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "YANITED",
+      "away": "BunnyBearZA",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-16"
+    },
     {
       "home": "Mini",
       "away": "BullDOZER",
@@ -1923,6 +1931,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-16T22:17:46.445Z",
-  "matchesPlayed": 198
+  "updatedAt": "2026-09-16T22:22:20.772Z",
+  "matchesPlayed": 199
 }
