@@ -4,12 +4,12 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 36,
-      "wins": 28,
+      "played": 37,
+      "wins": 29,
       "draws": 2,
       "losses": 6,
-      "points": 28,
-      "gf": 29,
+      "points": 29,
+      "gf": 30,
       "ga": 7,
       "form": [
         "W",
@@ -30,24 +30,24 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 34,
+      "played": 35,
       "wins": 22,
       "draws": 2,
-      "losses": 10,
+      "losses": 11,
       "points": 22,
       "gf": 22,
-      "ga": 10,
+      "ga": 11,
       "form": [
         "L",
         "L",
-        "L",
         "W",
         "W",
         "L",
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Mini",
+      "away": "BullDOZER",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-15"
+    },
     {
       "home": "Mini",
       "away": "Angel",
@@ -1915,6 +1923,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-16T22:17:19.223Z",
-  "matchesPlayed": 197
+  "updatedAt": "2026-09-16T22:17:46.445Z",
+  "matchesPlayed": 198
 }
