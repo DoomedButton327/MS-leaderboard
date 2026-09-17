@@ -183,55 +183,55 @@
       "suspended": false
     },
     {
-      "name": "Kabo",
-      "username": "Kaboman",
-      "phone": "+27703896056",
-      "played": 37,
+      "name": "Brad",
+      "username": "Incredible_Brad",
+      "phone": "+27827436317",
+      "played": 38,
       "wins": 13,
-      "draws": 0,
-      "losses": 24,
+      "draws": 4,
+      "losses": 21,
       "points": 13,
       "gf": 13,
       "ga": 24,
       "form": [
+        "W",
         "L",
+        "W",
         "L",
         "W",
         "L",
         "L",
         "L",
         "L",
-        "L",
-        "W",
-        "L"
+        "W"
       ],
-      "postponements": 20,
+      "postponements": 18,
       "suspended": false
     },
     {
-      "name": "Brad",
-      "username": "Incredible_Brad",
-      "phone": "+27827436317",
-      "played": 37,
-      "wins": 12,
-      "draws": 4,
-      "losses": 21,
-      "points": 12,
-      "gf": 12,
-      "ga": 24,
+      "name": "Kabo",
+      "username": "Kaboman",
+      "phone": "+27703896056",
+      "played": 38,
+      "wins": 13,
+      "draws": 0,
+      "losses": 25,
+      "points": 13,
+      "gf": 13,
+      "ga": 25,
       "form": [
         "L",
         "W",
         "L",
-        "W",
+        "L",
+        "L",
+        "L",
         "L",
         "W",
-        "L",
-        "L",
         "L",
         "L"
       ],
-      "postponements": 18,
+      "postponements": 20,
       "suspended": false
     },
     {
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Kaboman",
+      "away": "Incredible_Brad",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-17"
+    },
     {
       "home": "Astral_Reign",
       "away": "BunnyBearZA",
@@ -1979,6 +1987,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-17T22:22:57.436Z",
-  "matchesPlayed": 205
+  "updatedAt": "2026-09-17T23:13:32.061Z",
+  "matchesPlayed": 206
 }
