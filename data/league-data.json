@@ -56,23 +56,23 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 25,
+      "played": 26,
       "wins": 18,
       "draws": 3,
-      "losses": 4,
+      "losses": 5,
       "points": 21,
       "gf": 21,
-      "ga": 4,
+      "ga": 5,
       "form": [
+        "D",
+        "D",
+        "W",
+        "D",
+        "W",
+        "W",
+        "W",
+        "W",
         "L",
-        "D",
-        "D",
-        "W",
-        "D",
-        "W",
-        "W",
-        "W",
-        "W",
         "L"
       ],
       "postponements": 17,
@@ -160,15 +160,14 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 38,
-      "wins": 15,
+      "played": 39,
+      "wins": 16,
       "draws": 0,
       "losses": 23,
-      "points": 15,
-      "gf": 15,
+      "points": 16,
+      "gf": 16,
       "ga": 23,
       "form": [
-        "W",
         "L",
         "W",
         "L",
@@ -177,6 +176,7 @@
         "L",
         "L",
         "L",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "BunnyBearZA",
+      "away": "Angel",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-15"
+    },
     {
       "home": "Angel",
       "away": "YANITED",
@@ -1955,6 +1963,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-17T15:28:10.556Z",
-  "matchesPlayed": 202
+  "updatedAt": "2026-09-17T15:29:14.883Z",
+  "matchesPlayed": 203
 }
