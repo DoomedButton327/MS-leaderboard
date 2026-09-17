@@ -82,15 +82,14 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 37,
+      "played": 38,
       "wins": 20,
       "draws": 3,
-      "losses": 14,
+      "losses": 15,
       "points": 20,
       "gf": 20,
-      "ga": 14,
+      "ga": 15,
       "form": [
-        "L",
         "W",
         "L",
         "W",
@@ -99,7 +98,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -160,16 +160,15 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 37,
-      "wins": 14,
+      "played": 38,
+      "wins": 15,
       "draws": 0,
       "losses": 23,
-      "points": 14,
-      "gf": 14,
+      "points": 15,
+      "gf": 15,
       "ga": 23,
       "form": [
         "W",
-        "W",
         "L",
         "W",
         "L",
@@ -177,7 +176,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Angel",
+      "away": "YANITED",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-17"
+    },
     {
       "home": "Astral_Reign",
       "away": "Incredible_Brad",
@@ -1947,6 +1955,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-17T15:24:37.795Z",
-  "matchesPlayed": 201
+  "updatedAt": "2026-09-17T15:25:48.502Z",
+  "matchesPlayed": 202
 }
