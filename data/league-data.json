@@ -4,13 +4,13 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 38,
+      "played": 39,
       "wins": 30,
       "draws": 2,
-      "losses": 6,
+      "losses": 7,
       "points": 30,
       "gf": 31,
-      "ga": 7,
+      "ga": 8,
       "form": [
         "W",
         "W",
@@ -21,7 +21,7 @@
         "W",
         "W",
         "W",
-        "W"
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -183,6 +183,32 @@
       "suspended": true
     },
     {
+      "name": "Kabo",
+      "username": "Kaboman",
+      "phone": "+27703896056",
+      "played": 39,
+      "wins": 14,
+      "draws": 0,
+      "losses": 25,
+      "points": 14,
+      "gf": 14,
+      "ga": 25,
+      "form": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
@@ -206,32 +232,6 @@
         "W"
       ],
       "postponements": 17,
-      "suspended": false
-    },
-    {
-      "name": "Kabo",
-      "username": "Kaboman",
-      "phone": "+27703896056",
-      "played": 38,
-      "wins": 13,
-      "draws": 0,
-      "losses": 25,
-      "points": 13,
-      "gf": 13,
-      "ga": 25,
-      "form": [
-        "L",
-        "W",
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
-        "W",
-        "L",
-        "L"
-      ],
-      "postponements": 20,
       "suspended": false
     },
     {
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Mini",
+      "away": "Kaboman",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-18"
+    },
     {
       "home": "Angel",
       "away": "YANITED",
@@ -1995,6 +2003,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-18T10:41:08.669Z",
-  "matchesPlayed": 207
+  "updatedAt": "2026-09-18T23:13:20.685Z",
+  "matchesPlayed": 208
 }
