@@ -30,23 +30,23 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 30,
-      "wins": 20,
+      "played": 31,
+      "wins": 21,
       "draws": 3,
       "losses": 7,
-      "points": 23,
-      "gf": 23,
+      "points": 24,
+      "gf": 24,
       "ga": 7,
       "form": [
         "W",
         "W",
         "W",
-        "W",
         "L",
         "L",
         "L",
         "W",
         "L",
+        "W",
         "W"
       ],
       "postponements": 16,
@@ -212,15 +212,14 @@
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
-      "played": 40,
+      "played": 41,
       "wins": 14,
       "draws": 4,
-      "losses": 22,
+      "losses": 23,
       "points": 14,
       "gf": 14,
-      "ga": 25,
+      "ga": 26,
       "form": [
-        "W",
         "L",
         "W",
         "L",
@@ -229,7 +228,8 @@
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 17,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "BunnyBearZA",
+      "away": "Incredible_Brad",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-19"
+    },
     {
       "home": "BullDOZER",
       "away": "BunnyBearZA",
@@ -2043,6 +2051,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-19T21:53:30.931Z",
-  "matchesPlayed": 213
+  "updatedAt": "2026-09-19T23:13:24.259Z",
+  "matchesPlayed": 214
 }
