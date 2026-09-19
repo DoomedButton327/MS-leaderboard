@@ -4,13 +4,13 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 39,
+      "played": 40,
       "wins": 30,
       "draws": 2,
-      "losses": 7,
+      "losses": 8,
       "points": 30,
       "gf": 31,
-      "ga": 8,
+      "ga": 9,
       "form": [
         "W",
         "W",
@@ -20,7 +20,7 @@
         "W",
         "W",
         "W",
-        "W",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -82,15 +82,14 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 39,
-      "wins": 20,
+      "played": 40,
+      "wins": 21,
       "draws": 3,
       "losses": 16,
-      "points": 20,
-      "gf": 20,
+      "points": 21,
+      "gf": 21,
       "ga": 16,
       "form": [
-        "L",
         "W",
         "W",
         "W",
@@ -99,7 +98,8 @@
         "W",
         "W",
         "L",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "YANITED",
+      "away": "Mini",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-19"
+    },
     {
       "home": "Angel",
       "away": "Astral_Reign",
@@ -2019,6 +2027,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-19T20:00:13.530Z",
-  "matchesPlayed": 210
+  "updatedAt": "2026-09-19T20:00:23.942Z",
+  "matchesPlayed": 211
 }
