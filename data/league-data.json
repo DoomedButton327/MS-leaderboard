@@ -27,55 +27,55 @@
       "suspended": false
     },
     {
-      "name": "BullDOZER",
-      "username": "BullDOZER",
-      "phone": "+27784483912",
-      "played": 36,
-      "wins": 23,
-      "draws": 2,
-      "losses": 11,
-      "points": 23,
-      "gf": 23,
-      "ga": 11,
-      "form": [
-        "L",
-        "W",
-        "W",
-        "L",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 28,
-      "wins": 19,
+      "played": 30,
+      "wins": 20,
       "draws": 3,
-      "losses": 6,
-      "points": 22,
-      "gf": 22,
-      "ga": 6,
+      "losses": 7,
+      "points": 23,
+      "gf": 23,
+      "ga": 7,
       "form": [
         "W",
-        "D",
-        "W",
         "W",
         "W",
         "W",
         "L",
         "L",
+        "L",
+        "W",
         "L",
         "W"
       ],
       "postponements": 16,
+      "suspended": false
+    },
+    {
+      "name": "BullDOZER",
+      "username": "BullDOZER",
+      "phone": "+27784483912",
+      "played": 37,
+      "wins": 23,
+      "draws": 2,
+      "losses": 12,
+      "points": 23,
+      "gf": 23,
+      "ga": 12,
+      "form": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "W",
+        "L"
+      ],
+      "postponements": 20,
       "suspended": false
     },
     {
@@ -212,15 +212,14 @@
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
-      "played": 39,
-      "wins": 13,
+      "played": 40,
+      "wins": 14,
       "draws": 4,
       "losses": 22,
-      "points": 13,
-      "gf": 13,
+      "points": 14,
+      "gf": 14,
       "ga": 25,
       "form": [
-        "L",
         "W",
         "L",
         "W",
@@ -229,7 +228,8 @@
         "L",
         "L",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 17,
       "suspended": false
@@ -338,6 +338,22 @@
     }
   ],
   "results": [
+    {
+      "home": "BullDOZER",
+      "away": "BunnyBearZA",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-18"
+    },
+    {
+      "home": "BunnyBearZA",
+      "away": "Incredible_Brad",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-15"
+    },
     {
       "home": "YANITED",
       "away": "Mini",
@@ -2027,6 +2043,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-19T20:00:23.942Z",
-  "matchesPlayed": 211
+  "updatedAt": "2026-09-19T21:53:20.737Z",
+  "matchesPlayed": 213
 }
