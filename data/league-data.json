@@ -134,20 +134,20 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 41,
-      "wins": 18,
+      "played": 42,
+      "wins": 19,
       "draws": 0,
       "losses": 23,
-      "points": 18,
-      "gf": 18,
+      "points": 19,
+      "gf": 19,
       "ga": 23,
       "form": [
-        "L",
         "W",
         "L",
         "L",
         "L",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -183,32 +183,6 @@
       "suspended": true
     },
     {
-      "name": "Kabo",
-      "username": "Kaboman",
-      "phone": "+27703896056",
-      "played": 40,
-      "wins": 14,
-      "draws": 0,
-      "losses": 26,
-      "points": 14,
-      "gf": 14,
-      "ga": 26,
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
-        "W",
-        "L",
-        "L",
-        "W",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
@@ -232,6 +206,32 @@
         "L"
       ],
       "postponements": 17,
+      "suspended": false
+    },
+    {
+      "name": "Kabo",
+      "username": "Kaboman",
+      "phone": "+27703896056",
+      "played": 41,
+      "wins": 14,
+      "draws": 0,
+      "losses": 27,
+      "points": 14,
+      "gf": 14,
+      "ga": 27,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W",
+        "L",
+        "L",
+        "W",
+        "L",
+        "L"
+      ],
+      "postponements": 20,
       "suspended": false
     },
     {
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Angel",
+      "away": "Kaboman",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-21"
+    },
     {
       "home": "Astral_Reign",
       "away": "BullDOZER",
@@ -2067,6 +2075,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-21T12:17:34.996Z",
-  "matchesPlayed": 216
+  "updatedAt": "2026-09-21T12:17:44.063Z",
+  "matchesPlayed": 217
 }
