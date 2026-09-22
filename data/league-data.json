@@ -82,12 +82,12 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 41,
-      "wins": 22,
+      "played": 42,
+      "wins": 23,
       "draws": 3,
       "losses": 16,
-      "points": 22,
-      "gf": 22,
+      "points": 23,
+      "gf": 23,
       "ga": 16,
       "form": [
         "W",
@@ -95,9 +95,9 @@
         "W",
         "W",
         "W",
+        "L",
+        "L",
         "W",
-        "L",
-        "L",
         "W",
         "W"
       ],
@@ -134,15 +134,14 @@
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 41,
+      "played": 42,
       "wins": 19,
       "draws": 0,
-      "losses": 22,
+      "losses": 23,
       "points": 19,
       "gf": 19,
-      "ga": 22,
+      "ga": 23,
       "form": [
-        "L",
         "W",
         "W",
         "L",
@@ -151,7 +150,8 @@
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Astral_Reign",
+      "away": "YANITED",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-22"
+    },
     {
       "home": "Incredible_Brad",
       "away": "BunnyBearZA",
@@ -2115,6 +2123,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-22T23:00:56.217Z",
-  "matchesPlayed": 222
+  "updatedAt": "2026-09-22T23:17:53.007Z",
+  "matchesPlayed": 223
 }
