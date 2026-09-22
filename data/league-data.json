@@ -75,7 +75,7 @@
         "W",
         "L"
       ],
-      "postponements": 20,
+      "postponements": 19,
       "suspended": false
     },
     {
@@ -2091,6 +2091,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-22T11:09:35.130Z",
+  "updatedAt": "2026-09-22T11:10:56.450Z",
   "matchesPlayed": 219
 }
