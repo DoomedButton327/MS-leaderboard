@@ -56,15 +56,14 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 40,
-      "wins": 24,
+      "played": 41,
+      "wins": 25,
       "draws": 2,
       "losses": 14,
-      "points": 24,
-      "gf": 24,
+      "points": 25,
+      "gf": 25,
       "ga": 14,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -73,7 +72,8 @@
         "L",
         "W",
         "L",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -108,24 +108,24 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 43,
+      "played": 44,
       "wins": 20,
       "draws": 0,
-      "losses": 23,
+      "losses": 24,
       "points": 20,
       "gf": 20,
-      "ga": 23,
+      "ga": 24,
       "form": [
         "L",
         "L",
         "L",
-        "L",
         "W",
         "W",
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Angel",
+      "away": "BullDOZER",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-23"
+    },
     {
       "home": "YANITED",
       "away": "Kaboman",
@@ -2131,6 +2139,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-23T10:53:43.159Z",
-  "matchesPlayed": 224
+  "updatedAt": "2026-09-23T23:05:38.890Z",
+  "matchesPlayed": 225
 }
