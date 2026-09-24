@@ -4,24 +4,24 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 42,
+      "played": 43,
       "wins": 31,
       "draws": 2,
-      "losses": 9,
+      "losses": 10,
       "points": 31,
       "gf": 32,
-      "ga": 10,
+      "ga": 11,
       "form": [
         "W",
         "W",
         "W",
         "W",
         "W",
+        "L",
+        "L",
+        "L",
         "W",
-        "L",
-        "L",
-        "L",
-        "W"
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -30,19 +30,19 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 34,
-      "wins": 24,
+      "played": 35,
+      "wins": 25,
       "draws": 3,
       "losses": 7,
-      "points": 27,
-      "gf": 27,
+      "points": 28,
+      "gf": 28,
       "ga": 7,
       "form": [
         "L",
         "L",
-        "L",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Mini",
+      "away": "BunnyBearZA",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-22"
+    },
     {
       "home": "Astral_Reign",
       "away": "BunnyBearZA",
@@ -2155,6 +2163,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-24T01:20:56.704Z",
-  "matchesPlayed": 227
+  "updatedAt": "2026-09-24T01:21:08.742Z",
+  "matchesPlayed": 228
 }
