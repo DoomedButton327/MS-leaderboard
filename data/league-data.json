@@ -4,22 +4,22 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 44,
+      "played": 45,
       "wins": 31,
       "draws": 2,
-      "losses": 11,
+      "losses": 12,
       "points": 31,
       "gf": 32,
-      "ga": 12,
+      "ga": 13,
       "form": [
         "W",
         "W",
         "W",
-        "W",
         "L",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L"
       ],
@@ -30,15 +30,14 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 36,
-      "wins": 25,
+      "played": 37,
+      "wins": 26,
       "draws": 3,
       "losses": 8,
-      "points": 28,
-      "gf": 28,
+      "points": 29,
+      "gf": 29,
       "ga": 8,
       "form": [
-        "L",
         "W",
         "L",
         "W",
@@ -47,7 +46,8 @@
         "W",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 9,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Mini",
+      "away": "BunnyBearZA",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-23"
+    },
     {
       "home": "YANITED",
       "away": "BunnyBearZA",
@@ -2195,6 +2203,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-26T20:06:52.786Z",
-  "matchesPlayed": 232
+  "updatedAt": "2026-09-26T23:05:41.847Z",
+  "matchesPlayed": 233
 }
