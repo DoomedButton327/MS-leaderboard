@@ -82,20 +82,20 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 43,
-      "wins": 24,
+      "played": 44,
+      "wins": 25,
       "draws": 3,
       "losses": 16,
-      "points": 24,
-      "gf": 24,
+      "points": 25,
+      "gf": 25,
       "ga": 16,
       "form": [
         "W",
         "W",
         "W",
+        "L",
+        "L",
         "W",
-        "L",
-        "L",
         "W",
         "W",
         "W",
@@ -186,24 +186,24 @@
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
-      "played": 44,
+      "played": 45,
       "wins": 15,
       "draws": 4,
-      "losses": 25,
+      "losses": 26,
       "points": 15,
       "gf": 15,
-      "ga": 28,
+      "ga": 29,
       "form": [
         "L",
         "L",
-        "L",
         "W",
         "L",
         "W",
         "L",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 17,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "YANITED",
+      "away": "Incredible_Brad",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-25"
+    },
     {
       "home": "Mini",
       "away": "Astral_Reign",
@@ -2179,6 +2187,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-26T20:05:32.024Z",
-  "matchesPlayed": 230
+  "updatedAt": "2026-09-26T20:05:51.280Z",
+  "matchesPlayed": 231
 }
