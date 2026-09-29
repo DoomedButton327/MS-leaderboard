@@ -4,24 +4,24 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 45,
-      "wins": 31,
+      "played": 46,
+      "wins": 32,
       "draws": 2,
       "losses": 12,
-      "points": 31,
-      "gf": 32,
+      "points": 32,
+      "gf": 33,
       "ga": 13,
       "form": [
         "W",
         "W",
-        "W",
         "L",
         "L",
         "L",
         "W",
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -108,16 +108,15 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 45,
+      "played": 46,
       "wins": 21,
       "draws": 0,
-      "losses": 24,
+      "losses": 25,
       "points": 21,
       "gf": 21,
-      "ga": 24,
+      "ga": 25,
       "form": [
         "L",
-        "L",
         "W",
         "W",
         "W",
@@ -125,7 +124,8 @@
         "W",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Mini",
+      "away": "Angel",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-28"
+    },
     {
       "home": "YANITED",
       "away": "Kaboman",
@@ -2227,6 +2235,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-29T06:54:15.507Z",
-  "matchesPlayed": 236
+  "updatedAt": "2026-09-29T19:02:29.592Z",
+  "matchesPlayed": 237
 }
