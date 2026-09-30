@@ -56,17 +56,17 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 46,
-      "wins": 27,
+      "played": 47,
+      "wins": 28,
       "draws": 3,
       "losses": 16,
-      "points": 27,
-      "gf": 27,
+      "points": 28,
+      "gf": 28,
       "ga": 16,
       "form": [
+        "L",
+        "L",
         "W",
-        "L",
-        "L",
         "W",
         "W",
         "W",
@@ -212,18 +212,18 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 45,
+      "played": 46,
       "wins": 14,
       "draws": 0,
-      "losses": 31,
+      "losses": 32,
       "points": 14,
       "gf": 14,
-      "ga": 31,
+      "ga": 32,
       "form": [
-        "W",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "YANITED",
+      "away": "Kaboman",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-30"
+    },
     {
       "home": "Incredible_Brad",
       "away": "Astral_Reign",
@@ -2251,6 +2259,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-09-30T16:59:24.219Z",
-  "matchesPlayed": 239
+  "updatedAt": "2026-09-30T16:59:34.296Z",
+  "matchesPlayed": 240
 }
