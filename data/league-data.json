@@ -4,26 +4,52 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 48,
+      "played": 49,
       "wins": 33,
       "draws": 2,
-      "losses": 13,
+      "losses": 14,
       "points": 33,
       "gf": 34,
-      "ga": 14,
+      "ga": 15,
       "form": [
         "L",
         "L",
-        "L",
         "W",
         "L",
         "L",
         "L",
         "W",
         "W",
+        "L",
         "L"
       ],
       "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Bjorn",
+      "username": "BunnyBearZA",
+      "phone": "+27815794703",
+      "played": 40,
+      "wins": 27,
+      "draws": 3,
+      "losses": 10,
+      "points": 30,
+      "gf": 30,
+      "ga": 10,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "postponements": 9,
       "suspended": false
     },
     {
@@ -50,32 +76,6 @@
         "W"
       ],
       "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Bjorn",
-      "username": "BunnyBearZA",
-      "phone": "+27815794703",
-      "played": 39,
-      "wins": 26,
-      "draws": 3,
-      "losses": 10,
-      "points": 29,
-      "gf": 29,
-      "ga": 10,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "L",
-        "W",
-        "L",
-        "L"
-      ],
-      "postponements": 9,
       "suspended": false
     },
     {
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Mini",
+      "away": "BunnyBearZA",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-09-30"
+    },
     {
       "home": "BullDOZER",
       "away": "Astral_Reign",
@@ -2307,6 +2315,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-01T23:05:52.613Z",
-  "matchesPlayed": 246
+  "updatedAt": "2026-10-01T23:43:54.076Z",
+  "matchesPlayed": 247
 }
