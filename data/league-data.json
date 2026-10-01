@@ -82,15 +82,14 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 43,
-      "wins": 26,
+      "played": 44,
+      "wins": 27,
       "draws": 2,
       "losses": 15,
-      "points": 26,
-      "gf": 26,
+      "points": 27,
+      "gf": 27,
       "ga": 15,
       "form": [
-        "L",
         "W",
         "W",
         "L",
@@ -99,7 +98,8 @@
         "L",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -212,17 +212,17 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 46,
+      "played": 47,
       "wins": 14,
       "draws": 0,
-      "losses": 32,
+      "losses": 33,
       "points": 14,
       "gf": 14,
-      "ga": 32,
+      "ga": 33,
       "form": [
         "L",
-        "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "BullDOZER",
+      "away": "Kaboman",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-29"
+    },
     {
       "home": "YANITED",
       "away": "BunnyBearZA",
@@ -2283,6 +2291,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-01T06:46:35.697Z",
-  "matchesPlayed": 243
+  "updatedAt": "2026-10-01T23:05:30.958Z",
+  "matchesPlayed": 244
 }
