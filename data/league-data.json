@@ -8,7 +8,7 @@
       "wins": 33,
       "draws": 2,
       "losses": 14,
-      "points": 33,
+      "points": 101,
       "gf": 34,
       "ga": 15,
       "form": [
@@ -27,32 +27,6 @@
       "suspended": false
     },
     {
-      "name": "Bjorn",
-      "username": "BunnyBearZA",
-      "phone": "+27815794703",
-      "played": 40,
-      "wins": 27,
-      "draws": 3,
-      "losses": 10,
-      "points": 30,
-      "gf": 30,
-      "ga": 10,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "L",
-        "W",
-        "L",
-        "L",
-        "W"
-      ],
-      "postponements": 9,
-      "suspended": false
-    },
-    {
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
@@ -60,7 +34,7 @@
       "wins": 30,
       "draws": 3,
       "losses": 16,
-      "points": 30,
+      "points": 93,
       "gf": 30,
       "ga": 16,
       "form": [
@@ -86,7 +60,7 @@
       "wins": 28,
       "draws": 2,
       "losses": 15,
-      "points": 28,
+      "points": 86,
       "gf": 28,
       "ga": 15,
       "form": [
@@ -97,11 +71,37 @@
         "L",
         "W",
         "W",
-        "L",
         "W",
+        "L",
         "W"
       ],
       "postponements": 19,
+      "suspended": false
+    },
+    {
+      "name": "Bjorn",
+      "username": "BunnyBearZA",
+      "phone": "+27815794703",
+      "played": 40,
+      "wins": 27,
+      "draws": 3,
+      "losses": 10,
+      "points": 84,
+      "gf": 30,
+      "ga": 10,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "L",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "postponements": 9,
       "suspended": false
     },
     {
@@ -112,7 +112,7 @@
       "wins": 22,
       "draws": 0,
       "losses": 26,
-      "points": 22,
+      "points": 66,
       "gf": 22,
       "ga": 26,
       "form": [
@@ -138,7 +138,7 @@
       "wins": 20,
       "draws": 0,
       "losses": 29,
-      "points": 20,
+      "points": 60,
       "gf": 20,
       "ga": 29,
       "form": [
@@ -164,7 +164,7 @@
       "wins": 18,
       "draws": 4,
       "losses": 26,
-      "points": 18,
+      "points": 58,
       "gf": 18,
       "ga": 29,
       "form": [
@@ -190,7 +190,7 @@
       "wins": 16,
       "draws": 1,
       "losses": 17,
-      "points": 16,
+      "points": 49,
       "gf": 17,
       "ga": 18,
       "form": [
@@ -216,7 +216,7 @@
       "wins": 14,
       "draws": 0,
       "losses": 33,
-      "points": 14,
+      "points": 42,
       "gf": 14,
       "ga": 33,
       "form": [
@@ -242,7 +242,7 @@
       "wins": 11,
       "draws": 4,
       "losses": 18,
-      "points": 11,
+      "points": 37,
       "gf": 11,
       "ga": 18,
       "form": [
@@ -268,7 +268,7 @@
       "wins": 10,
       "draws": 4,
       "losses": 14,
-      "points": 10,
+      "points": 34,
       "gf": 10,
       "ga": 14,
       "form": [
@@ -294,7 +294,7 @@
       "wins": 5,
       "draws": 2,
       "losses": 9,
-      "points": 5,
+      "points": 17,
       "gf": 5,
       "ga": 9,
       "form": [
@@ -320,7 +320,7 @@
       "wins": 0,
       "draws": 1,
       "losses": 7,
-      "points": 0,
+      "points": 1,
       "gf": 0,
       "ga": 7,
       "form": [
@@ -2315,6 +2315,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-03T23:05:20.181Z",
+  "updatedAt": "2026-10-04T19:15:47.376Z",
   "matchesPlayed": 247
 }
