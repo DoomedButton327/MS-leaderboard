@@ -4,16 +4,15 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 49,
-      "wins": 33,
+      "played": 50,
+      "wins": 34,
       "draws": 2,
       "losses": 14,
-      "points": 101,
-      "gf": 34,
+      "points": 104,
+      "gf": 38,
       "ga": 15,
       "form": [
         "L",
-        "L",
         "W",
         "L",
         "L",
@@ -21,7 +20,34 @@
         "W",
         "W",
         "L",
-        "L"
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Lethabo",
+      "username": "YANITED",
+      "phone": "+27714588239",
+      "played": 51,
+      "wins": 32,
+      "draws": 3,
+      "losses": 16,
+      "points": 99,
+      "gf": 37,
+      "ga": 16,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -50,32 +76,6 @@
         "W"
       ],
       "postponements": 19,
-      "suspended": false
-    },
-    {
-      "name": "Lethabo",
-      "username": "YANITED",
-      "phone": "+27714588239",
-      "played": 50,
-      "wins": 31,
-      "draws": 3,
-      "losses": 16,
-      "points": 96,
-      "gf": 33,
-      "ga": 16,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ],
-      "postponements": 20,
       "suspended": false
     },
     {
@@ -108,22 +108,22 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 50,
+      "played": 51,
       "wins": 22,
       "draws": 0,
-      "losses": 28,
+      "losses": 29,
       "points": 66,
       "gf": 22,
-      "ga": 30,
+      "ga": 34,
       "form": [
         "W",
         "W",
-        "W",
         "L",
         "W",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L"
       ],
@@ -134,15 +134,14 @@
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 50,
+      "played": 51,
       "wins": 21,
       "draws": 0,
-      "losses": 29,
+      "losses": 30,
       "points": 63,
       "gf": 21,
-      "ga": 29,
+      "ga": 33,
       "form": [
-        "W",
         "L",
         "L",
         "L",
@@ -151,7 +150,8 @@
         "L",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 17,
       "suspended": false
@@ -212,13 +212,13 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 49,
-      "wins": 15,
+      "played": 51,
+      "wins": 16,
       "draws": 0,
-      "losses": 34,
-      "points": 45,
-      "gf": 18,
-      "ga": 37,
+      "losses": 35,
+      "points": 48,
+      "gf": 22,
+      "ga": 41,
       "form": [
         "L",
         "L",
@@ -227,9 +227,9 @@
         "L",
         "L",
         "L",
-        "L",
-        "L",
-        "W"
+        "W",
+        "W",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -338,6 +338,30 @@
     }
   ],
   "results": [
+    {
+      "home": "Mini",
+      "away": "Kaboman",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-10-03"
+    },
+    {
+      "home": "Astral_Reign",
+      "away": "Kaboman",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "result": "away",
+      "date": "2026-10-05"
+    },
+    {
+      "home": "Angel",
+      "away": "YANITED",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "result": "away",
+      "date": "2026-10-05"
+    },
     {
       "home": "BullDOZER",
       "away": "BunnyBearZA",
@@ -2387,6 +2411,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-05T16:40:15.493Z",
-  "matchesPlayed": 256
+  "updatedAt": "2026-10-05T16:44:58.650Z",
+  "matchesPlayed": 259
 }
