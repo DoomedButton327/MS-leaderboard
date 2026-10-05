@@ -4,24 +4,24 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 50,
-      "wins": 34,
+      "played": 49,
+      "wins": 33,
       "draws": 2,
       "losses": 14,
-      "points": 104,
-      "gf": 38,
+      "points": 101,
+      "gf": 34,
       "ga": 15,
       "form": [
         "L",
-        "W",
-        "L",
-        "L",
         "L",
         "W",
+        "L",
+        "L",
+        "L",
+        "W",
         "W",
         "L",
-        "L",
-        "W"
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -212,13 +212,13 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 51,
+      "played": 50,
       "wins": 16,
       "draws": 0,
-      "losses": 35,
+      "losses": 34,
       "points": 48,
       "gf": 22,
-      "ga": 41,
+      "ga": 37,
       "form": [
         "L",
         "L",
@@ -227,9 +227,9 @@
         "L",
         "L",
         "L",
+        "L",
         "W",
-        "W",
-        "L"
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -339,14 +339,6 @@
   ],
   "results": [
     {
-      "home": "Mini",
-      "away": "Kaboman",
-      "homeGoals": 4,
-      "awayGoals": 0,
-      "result": "home",
-      "date": "2026-10-03"
-    },
-    {
       "home": "Astral_Reign",
       "away": "Kaboman",
       "homeGoals": 0,
@@ -2411,6 +2403,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-05T16:33:23.344Z",
-  "matchesPlayed": 259
+  "updatedAt": "2026-10-05T16:38:50.807Z",
+  "matchesPlayed": 258
 }
