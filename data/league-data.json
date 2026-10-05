@@ -114,7 +114,7 @@
       "losses": 27,
       "points": 66,
       "gf": 22,
-      "ga": 30,
+      "ga": 29,
       "form": [
         "W",
         "W",
@@ -139,7 +139,7 @@
       "draws": 4,
       "losses": 26,
       "points": 61,
-      "gf": 22,
+      "gf": 21,
       "ga": 29,
       "form": [
         "L",
@@ -342,7 +342,7 @@
       "home": "Angel",
       "away": "Incredible_Brad",
       "homeGoals": 0,
-      "awayGoals": 4,
+      "awayGoals": 3,
       "result": "away",
       "date": "2026-10-05"
     },
@@ -2323,6 +2323,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-05T08:48:54.572Z",
+  "updatedAt": "2026-10-05T08:49:44.551Z",
   "matchesPlayed": 248
 }
