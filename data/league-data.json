@@ -134,15 +134,14 @@
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 50,
+      "played": 51,
       "wins": 21,
       "draws": 0,
-      "losses": 29,
+      "losses": 30,
       "points": 63,
       "gf": 21,
-      "ga": 29,
+      "ga": 33,
       "form": [
-        "W",
         "L",
         "L",
         "L",
@@ -151,7 +150,8 @@
         "L",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 17,
       "suspended": false
@@ -212,12 +212,12 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 49,
-      "wins": 15,
+      "played": 50,
+      "wins": 16,
       "draws": 0,
       "losses": 34,
-      "points": 45,
-      "gf": 18,
+      "points": 48,
+      "gf": 22,
       "ga": 37,
       "form": [
         "L",
@@ -228,7 +228,7 @@
         "L",
         "L",
         "L",
-        "L",
+        "W",
         "W"
       ],
       "postponements": 19,
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Astral_Reign",
+      "away": "Kaboman",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "result": "away",
+      "date": "2026-10-05"
+    },
+    {
       "home": "Angel",
       "away": "YANITED",
       "homeGoals": 0,
@@ -2395,6 +2403,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-05T16:17:28.675Z",
-  "matchesPlayed": 257
+  "updatedAt": "2026-10-05T16:17:44.378Z",
+  "matchesPlayed": 258
 }
