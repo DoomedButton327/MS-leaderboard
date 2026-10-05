@@ -82,24 +82,24 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 40,
+      "played": 41,
       "wins": 27,
       "draws": 3,
-      "losses": 10,
+      "losses": 11,
       "points": 84,
       "gf": 30,
-      "ga": 10,
+      "ga": 14,
       "form": [
         "W",
         "W",
         "W",
         "W",
-        "W",
         "L",
         "W",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 9,
       "suspended": false
@@ -212,15 +212,14 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 47,
-      "wins": 14,
+      "played": 48,
+      "wins": 15,
       "draws": 0,
       "losses": 33,
-      "points": 42,
-      "gf": 14,
+      "points": 45,
+      "gf": 18,
       "ga": 33,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -229,7 +228,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "BunnyBearZA",
+      "away": "Kaboman",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "result": "away",
+      "date": "2026-10-01"
+    },
     {
       "home": "Astral_Reign",
       "away": "Angel",
@@ -2331,6 +2339,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-05T08:50:10.139Z",
-  "matchesPlayed": 249
+  "updatedAt": "2026-10-05T08:54:41.862Z",
+  "matchesPlayed": 250
 }
