@@ -82,15 +82,14 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 44,
-      "wins": 27,
+      "played": 45,
+      "wins": 28,
       "draws": 3,
       "losses": 14,
-      "points": 84,
-      "gf": 30,
+      "points": 87,
+      "gf": 34,
       "ga": 24,
       "form": [
-        "W",
         "L",
         "W",
         "L",
@@ -99,7 +98,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 9,
       "suspended": false
@@ -212,24 +212,24 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 48,
+      "played": 49,
       "wins": 15,
       "draws": 0,
-      "losses": 33,
+      "losses": 34,
       "points": 45,
       "gf": 18,
-      "ga": 33,
+      "ga": 37,
       "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
         "W",
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
-        "W"
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Kaboman",
+      "away": "BunnyBearZA",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "result": "away",
+      "date": "2026-09-22"
+    },
     {
       "home": "BunnyBearZA",
       "away": "Mini",
@@ -2363,6 +2371,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-05T09:13:19.693Z",
-  "matchesPlayed": 253
+  "updatedAt": "2026-10-05T09:13:43.665Z",
+  "matchesPlayed": 254
 }
