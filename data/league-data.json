@@ -27,6 +27,32 @@
       "suspended": false
     },
     {
+      "name": "BullDOZER",
+      "username": "BullDOZER",
+      "phone": "+27784483912",
+      "played": 49,
+      "wins": 32,
+      "draws": 2,
+      "losses": 15,
+      "points": 98,
+      "gf": 44,
+      "ga": 15,
+      "form": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "L",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 19,
+      "suspended": false
+    },
+    {
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
@@ -53,51 +79,25 @@
       "suspended": false
     },
     {
-      "name": "BullDOZER",
-      "username": "BullDOZER",
-      "phone": "+27784483912",
-      "played": 48,
-      "wins": 31,
-      "draws": 2,
-      "losses": 15,
-      "points": 95,
-      "gf": 40,
-      "ga": 15,
-      "form": [
-        "L",
-        "L",
-        "W",
-        "W",
-        "W",
-        "L",
-        "W",
-        "W",
-        "W",
-        "W"
-      ],
-      "postponements": 19,
-      "suspended": false
-    },
-    {
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 47,
+      "played": 48,
       "wins": 28,
       "draws": 3,
-      "losses": 16,
+      "losses": 17,
       "points": 87,
       "gf": 34,
-      "ga": 32,
+      "ga": 36,
       "form": [
         "L",
-        "L",
         "W",
         "L",
         "L",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L"
       ],
@@ -355,6 +355,14 @@
       "date": "2026-09-22"
     },
     {
+      "home": "BullDOZER",
+      "away": "BunnyBearZA",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-22"
+    },
+    {
       "home": "Kaboman",
       "away": "BunnyBearZA",
       "homeGoals": 0,
@@ -2387,6 +2395,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-05T09:14:09.995Z",
-  "matchesPlayed": 256
+  "updatedAt": "2026-10-05T09:14:17.188Z",
+  "matchesPlayed": 257
 }
