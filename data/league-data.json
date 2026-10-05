@@ -108,26 +108,52 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 49,
+      "played": 50,
       "wins": 22,
       "draws": 0,
-      "losses": 27,
+      "losses": 28,
       "points": 66,
       "gf": 22,
-      "ga": 29,
+      "ga": 30,
       "form": [
         "W",
         "W",
         "W",
-        "W",
         "L",
         "W",
         "L",
         "L",
         "W",
+        "L",
         "L"
       ],
       "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Tyron/Astral",
+      "username": "Astral_Reign",
+      "phone": "+27814301713",
+      "played": 50,
+      "wins": 21,
+      "draws": 0,
+      "losses": 29,
+      "points": 63,
+      "gf": 21,
+      "ga": 29,
+      "form": [
+        "W",
+        "L",
+        "L",
+        "L",
+        "W",
+        "L",
+        "L",
+        "L",
+        "L",
+        "W"
+      ],
+      "postponements": 18,
       "suspended": false
     },
     {
@@ -154,32 +180,6 @@
         "W"
       ],
       "postponements": 16,
-      "suspended": false
-    },
-    {
-      "name": "Tyron/Astral",
-      "username": "Astral_Reign",
-      "phone": "+27814301713",
-      "played": 49,
-      "wins": 20,
-      "draws": 0,
-      "losses": 29,
-      "points": 60,
-      "gf": 20,
-      "ga": 29,
-      "form": [
-        "L",
-        "W",
-        "L",
-        "L",
-        "L",
-        "W",
-        "L",
-        "L",
-        "L",
-        "L"
-      ],
-      "postponements": 18,
       "suspended": false
     },
     {
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Astral_Reign",
+      "away": "Angel",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-10-03"
+    },
     {
       "home": "Angel",
       "away": "Incredible_Brad",
@@ -2323,6 +2331,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-05T08:49:44.551Z",
-  "matchesPlayed": 248
+  "updatedAt": "2026-10-05T08:50:10.139Z",
+  "matchesPlayed": 249
 }
