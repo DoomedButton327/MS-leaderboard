@@ -56,15 +56,14 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 46,
-      "wins": 29,
+      "played": 47,
+      "wins": 30,
       "draws": 2,
       "losses": 15,
-      "points": 89,
-      "gf": 32,
+      "points": 92,
+      "gf": 36,
       "ga": 15,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -72,6 +71,7 @@
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W"
       ],
@@ -82,15 +82,14 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 45,
+      "played": 46,
       "wins": 28,
       "draws": 3,
-      "losses": 14,
+      "losses": 15,
       "points": 87,
       "gf": 34,
-      "ga": 24,
+      "ga": 28,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -99,7 +98,8 @@
         "L",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 9,
       "suspended": false
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "BullDOZER",
+      "away": "BunnyBearZA",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-09-22"
+    },
+    {
       "home": "Kaboman",
       "away": "BunnyBearZA",
       "homeGoals": 0,
@@ -2371,6 +2379,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-05T09:13:43.665Z",
-  "matchesPlayed": 254
+  "updatedAt": "2026-10-05T09:13:50.043Z",
+  "matchesPlayed": 255
 }
