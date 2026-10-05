@@ -4,24 +4,24 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 50,
-      "wins": 34,
+      "played": 49,
+      "wins": 33,
       "draws": 2,
       "losses": 14,
-      "points": 104,
-      "gf": 37,
+      "points": 101,
+      "gf": 34,
       "ga": 15,
       "form": [
         "L",
-        "W",
-        "L",
-        "L",
         "L",
         "W",
+        "L",
+        "L",
+        "L",
+        "W",
         "W",
         "L",
-        "L",
-        "W"
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -42,11 +42,11 @@
         "W",
         "W",
         "W",
+        "W",
+        "W",
+        "W",
+        "W",
         "L",
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ],
       "postponements": 19,
@@ -82,22 +82,22 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 48,
+      "played": 47,
       "wins": 28,
       "draws": 3,
-      "losses": 17,
+      "losses": 16,
       "points": 87,
       "gf": 34,
-      "ga": 36,
+      "ga": 33,
       "form": [
         "L",
-        "W",
-        "L",
-        "L",
         "L",
         "L",
         "W",
         "L",
+        "L",
+        "L",
+        "W",
         "L",
         "L"
       ],
@@ -228,8 +228,8 @@
         "L",
         "L",
         "L",
-        "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -372,14 +372,6 @@
     },
     {
       "home": "BunnyBearZA",
-      "away": "Mini",
-      "homeGoals": 0,
-      "awayGoals": 3,
-      "result": "away",
-      "date": "2026-10-05"
-    },
-    {
-      "home": "BunnyBearZA",
       "away": "YANITED",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -2395,6 +2387,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-05T09:14:17.188Z",
-  "matchesPlayed": 257
+  "updatedAt": "2026-10-05T09:27:48.229Z",
+  "matchesPlayed": 256
 }
