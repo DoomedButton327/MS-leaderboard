@@ -108,26 +108,52 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 48,
+      "played": 49,
       "wins": 22,
       "draws": 0,
-      "losses": 26,
+      "losses": 27,
       "points": 66,
       "gf": 22,
-      "ga": 26,
+      "ga": 30,
       "form": [
         "W",
         "W",
         "W",
         "W",
-        "W",
         "L",
         "W",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Brad",
+      "username": "Incredible_Brad",
+      "phone": "+27827436317",
+      "played": 49,
+      "wins": 19,
+      "draws": 4,
+      "losses": 26,
+      "points": 61,
+      "gf": 22,
+      "ga": 29,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W",
+        "L",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 16,
       "suspended": false
     },
     {
@@ -154,32 +180,6 @@
         "L"
       ],
       "postponements": 18,
-      "suspended": false
-    },
-    {
-      "name": "Brad",
-      "username": "Incredible_Brad",
-      "phone": "+27827436317",
-      "played": 48,
-      "wins": 18,
-      "draws": 4,
-      "losses": 26,
-      "points": 58,
-      "gf": 18,
-      "ga": 29,
-      "form": [
-        "W",
-        "L",
-        "L",
-        "L",
-        "L",
-        "W",
-        "L",
-        "W",
-        "W",
-        "W"
-      ],
-      "postponements": 16,
       "suspended": false
     },
     {
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Angel",
+      "away": "Incredible_Brad",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "result": "away",
+      "date": "2026-10-05"
+    },
     {
       "home": "Mini",
       "away": "BunnyBearZA",
@@ -2315,6 +2323,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-05T07:28:20.635Z",
-  "matchesPlayed": 247
+  "updatedAt": "2026-10-05T08:48:54.572Z",
+  "matchesPlayed": 248
 }
