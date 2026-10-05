@@ -4,15 +4,14 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 50,
-      "wins": 34,
+      "played": 51,
+      "wins": 35,
       "draws": 2,
       "losses": 14,
-      "points": 104,
-      "gf": 38,
+      "points": 107,
+      "gf": 39,
       "ga": 15,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -21,6 +20,7 @@
         "W",
         "L",
         "L",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -56,15 +56,14 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 49,
+      "played": 50,
       "wins": 32,
-      "draws": 2,
+      "draws": 3,
       "losses": 15,
       "points": 98,
       "gf": 44,
       "ga": 15,
       "form": [
-        "L",
         "W",
         "W",
         "W",
@@ -73,7 +72,8 @@
         "W",
         "W",
         "L",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -82,22 +82,22 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 47,
+      "played": 48,
       "wins": 28,
       "draws": 3,
-      "losses": 16,
+      "losses": 17,
       "points": 87,
       "gf": 34,
-      "ga": 33,
+      "ga": 34,
       "form": [
         "L",
         "L",
-        "L",
         "W",
         "L",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L"
       ],
@@ -160,9 +160,9 @@
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
-      "played": 49,
+      "played": 50,
       "wins": 19,
-      "draws": 4,
+      "draws": 5,
       "losses": 26,
       "points": 61,
       "gf": 21,
@@ -171,13 +171,13 @@
         "L",
         "L",
         "L",
-        "L",
         "W",
         "L",
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 16,
       "suspended": false
@@ -339,6 +339,22 @@
   ],
   "results": [
     {
+      "home": "BunnyBearZA",
+      "away": "Mini",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-10-05"
+    },
+    {
+      "home": "Incredible_Brad",
+      "away": "BullDOZER",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-10-03"
+    },
+    {
       "home": "Mini",
       "away": "Kaboman",
       "homeGoals": 4,
@@ -2411,6 +2427,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-05T16:45:05.572Z",
-  "matchesPlayed": 259
+  "updatedAt": "2026-10-05T23:06:35.548Z",
+  "matchesPlayed": 261
 }
