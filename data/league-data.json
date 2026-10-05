@@ -27,32 +27,6 @@
       "suspended": false
     },
     {
-      "name": "Lethabo",
-      "username": "YANITED",
-      "phone": "+27714588239",
-      "played": 51,
-      "wins": 32,
-      "draws": 3,
-      "losses": 16,
-      "points": 99,
-      "gf": 37,
-      "ga": 16,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
@@ -76,6 +50,32 @@
         "W"
       ],
       "postponements": 19,
+      "suspended": false
+    },
+    {
+      "name": "Lethabo",
+      "username": "YANITED",
+      "phone": "+27714588239",
+      "played": 50,
+      "wins": 31,
+      "draws": 3,
+      "losses": 16,
+      "points": 96,
+      "gf": 33,
+      "ga": 16,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 20,
       "suspended": false
     },
     {
@@ -108,22 +108,22 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 51,
+      "played": 50,
       "wins": 22,
       "draws": 0,
-      "losses": 29,
+      "losses": 28,
       "points": 66,
       "gf": 22,
-      "ga": 34,
+      "ga": 30,
       "form": [
         "W",
         "W",
+        "W",
         "L",
         "W",
         "L",
         "L",
         "W",
-        "L",
         "L",
         "L"
       ],
@@ -339,14 +339,6 @@
   ],
   "results": [
     {
-      "home": "Angel",
-      "away": "YANITED",
-      "homeGoals": 0,
-      "awayGoals": 4,
-      "result": "away",
-      "date": "2026-10-05"
-    },
-    {
       "home": "BullDOZER",
       "away": "BunnyBearZA",
       "homeGoals": 4,
@@ -2395,6 +2387,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-05T16:39:04.175Z",
-  "matchesPlayed": 257
+  "updatedAt": "2026-10-05T16:40:15.493Z",
+  "matchesPlayed": 256
 }
