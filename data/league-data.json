@@ -4,15 +4,14 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 51,
-      "wins": 35,
+      "played": 52,
+      "wins": 36,
       "draws": 2,
       "losses": 14,
-      "points": 107,
-      "gf": 39,
+      "points": 110,
+      "gf": 40,
       "ga": 15,
       "form": [
-        "W",
         "L",
         "L",
         "L",
@@ -20,6 +19,7 @@
         "W",
         "L",
         "L",
+        "W",
         "W",
         "W"
       ],
@@ -108,21 +108,21 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 51,
+      "played": 52,
       "wins": 22,
       "draws": 0,
-      "losses": 29,
+      "losses": 30,
       "points": 66,
       "gf": 22,
-      "ga": 34,
+      "ga": 35,
       "form": [
         "W",
-        "W",
         "L",
         "W",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L"
@@ -339,6 +339,14 @@
   ],
   "results": [
     {
+      "home": "Mini",
+      "away": "Angel",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-10-06"
+    },
+    {
       "home": "BunnyBearZA",
       "away": "Mini",
       "homeGoals": 0,
@@ -2427,6 +2435,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-06T12:02:50.101Z",
-  "matchesPlayed": 261
+  "updatedAt": "2026-10-06T23:06:54.536Z",
+  "matchesPlayed": 262
 }
