@@ -232,7 +232,7 @@
         "L"
       ],
       "postponements": 19,
-      "suspended": false
+      "suspended": true
     },
     {
       "name": "Mihle",
@@ -2435,6 +2435,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-06T23:07:04.849Z",
+  "updatedAt": "2026-10-06T23:07:45.727Z",
   "matchesPlayed": 262
 }
