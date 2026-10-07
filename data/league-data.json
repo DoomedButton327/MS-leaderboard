@@ -108,20 +108,20 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 52,
+      "played": 53,
       "wins": 22,
       "draws": 0,
-      "losses": 30,
+      "losses": 31,
       "points": 66,
       "gf": 22,
-      "ga": 35,
+      "ga": 39,
       "form": [
-        "W",
         "L",
         "W",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -186,15 +186,14 @@
       "name": "DarkHawk",
       "username": "RobotChicken",
       "phone": "+2348057545152",
-      "played": 34,
-      "wins": 16,
+      "played": 35,
+      "wins": 17,
       "draws": 1,
       "losses": 17,
-      "points": 49,
-      "gf": 17,
+      "points": 52,
+      "gf": 21,
       "ga": 18,
       "form": [
-        "W",
         "L",
         "L",
         "L",
@@ -203,7 +202,8 @@
         "L",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Angel",
+      "away": "RobotChicken",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "result": "away",
+      "date": "2026-10-07"
+    },
     {
       "home": "Mini",
       "away": "Angel",
@@ -2435,6 +2443,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-07T10:19:35.132Z",
-  "matchesPlayed": 262
+  "updatedAt": "2026-10-07T10:23:17.720Z",
+  "matchesPlayed": 263
 }
