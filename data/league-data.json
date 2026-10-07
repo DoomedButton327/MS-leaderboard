@@ -1,18 +1,44 @@
 {
   "players": [
     {
+      "name": "Lethabo",
+      "username": "YANITED",
+      "phone": "+27714588239",
+      "played": 52,
+      "wins": 41,
+      "draws": 1,
+      "losses": 10,
+      "points": 124,
+      "gf": 38,
+      "ga": 16,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
       "played": 52,
-      "wins": 36,
+      "wins": 39,
       "draws": 2,
-      "losses": 14,
-      "points": 110,
+      "losses": 11,
+      "points": 119,
       "gf": 40,
       "ga": 15,
       "form": [
-        "L",
+        "W",
         "L",
         "L",
         "W",
@@ -31,15 +57,15 @@
       "username": "BullDOZER",
       "phone": "+27784483912",
       "played": 51,
-      "wins": 33,
-      "draws": 3,
-      "losses": 15,
-      "points": 101,
+      "wins": 35,
+      "draws": 2,
+      "losses": 14,
+      "points": 107,
       "gf": 45,
       "ga": 15,
       "form": [
         "W",
-        "W",
+        "L",
         "W",
         "W",
         "W",
@@ -47,32 +73,6 @@
         "L",
         "W",
         "D",
-        "W"
-      ],
-      "postponements": 19,
-      "suspended": false
-    },
-    {
-      "name": "Lethabo",
-      "username": "YANITED",
-      "phone": "+27714588239",
-      "played": 51,
-      "wins": 32,
-      "draws": 3,
-      "losses": 16,
-      "points": 99,
-      "gf": 37,
-      "ga": 16,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ],
       "postponements": 20,
@@ -83,46 +83,20 @@
       "username": "BunnyBearZA",
       "phone": "+27815794703",
       "played": 48,
-      "wins": 28,
+      "wins": 29,
       "draws": 3,
-      "losses": 17,
-      "points": 87,
-      "gf": 34,
-      "ga": 34,
+      "losses": 16,
+      "points": 90,
+      "gf": 33,
+      "ga": 35,
       "form": [
-        "L",
-        "L",
+        "W",
         "W",
         "L",
         "L",
         "L",
         "W",
-        "L",
-        "L",
-        "L"
-      ],
-      "postponements": 9,
-      "suspended": false
-    },
-    {
-      "name": "Angel",
-      "username": "Angel",
-      "phone": "+27833006494",
-      "played": 53,
-      "wins": 22,
-      "draws": 0,
-      "losses": 31,
-      "points": 66,
-      "gf": 22,
-      "ga": 39,
-      "form": [
-        "L",
         "W",
-        "L",
-        "L",
-        "W",
-        "L",
-        "L",
         "L",
         "L",
         "L"
@@ -134,26 +108,26 @@
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 51,
-      "wins": 21,
+      "played": 53,
+      "wins": 26,
       "draws": 0,
-      "losses": 30,
-      "points": 63,
-      "gf": 21,
-      "ga": 33,
+      "losses": 27,
+      "points": 78,
+      "gf": 22,
+      "ga": 34,
       "form": [
-        "L",
-        "L",
         "L",
         "W",
         "L",
         "L",
         "L",
         "L",
+        "W",
+        "W",
         "W",
         "L"
       ],
-      "postponements": 17,
+      "postponements": 20,
       "suspended": false
     },
     {
@@ -161,10 +135,10 @@
       "username": "Incredible_Brad",
       "phone": "+27827436317",
       "played": 50,
-      "wins": 19,
-      "draws": 5,
-      "losses": 26,
-      "points": 61,
+      "wins": 25,
+      "draws": 1,
+      "losses": 24,
+      "points": 76,
       "gf": 21,
       "ga": 29,
       "form": [
@@ -176,10 +150,36 @@
         "W",
         "W",
         "W",
-        "W",
-        "D"
+        "D",
+        "W"
       ],
-      "postponements": 16,
+      "postponements": 20,
+      "suspended": false
+    },
+    {
+      "name": "Angel",
+      "username": "Angel",
+      "phone": "+27833006494",
+      "played": 53,
+      "wins": 25,
+      "draws": 0,
+      "losses": 28,
+      "points": 75,
+      "gf": 22,
+      "ga": 36,
+      "form": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "W",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "postponements": 20,
       "suspended": false
     },
     {
@@ -187,11 +187,11 @@
       "username": "RobotChicken",
       "phone": "+2348057545152",
       "played": 35,
-      "wins": 17,
+      "wins": 21,
       "draws": 1,
-      "losses": 17,
-      "points": 52,
-      "gf": 21,
+      "losses": 13,
+      "points": 64,
+      "gf": 18,
       "ga": 18,
       "form": [
         "L",
@@ -212,68 +212,16 @@
       "name": "Kabo",
       "username": "Kaboman",
       "phone": "+27703896056",
-      "played": 52,
-      "wins": 16,
+      "played": 51,
+      "wins": 9,
       "draws": 0,
-      "losses": 36,
-      "points": 48,
+      "losses": 42,
+      "points": 27,
       "gf": 22,
-      "ga": 42,
+      "ga": 41,
       "form": [
         "L",
         "L",
-        "L",
-        "L",
-        "L",
-        "L",
-        "W",
-        "W",
-        "L",
-        "L"
-      ],
-      "postponements": 19,
-      "suspended": true
-    },
-    {
-      "name": "Mihle",
-      "username": "Rabbit",
-      "phone": "+270719709662",
-      "played": 33,
-      "wins": 11,
-      "draws": 4,
-      "losses": 18,
-      "points": 37,
-      "gf": 11,
-      "ga": 18,
-      "form": [
-        "L",
-        "L",
-        "L",
-        "W",
-        "L",
-        "L",
-        "L",
-        "L",
-        "W",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": true
-    },
-    {
-      "name": "Snap Hokage",
-      "username": "LaMonK",
-      "phone": "+27794291572",
-      "played": 28,
-      "wins": 10,
-      "draws": 4,
-      "losses": 14,
-      "points": 34,
-      "gf": 10,
-      "ga": 14,
-      "form": [
-        "L",
-        "W",
         "L",
         "L",
         "L",
@@ -292,22 +240,22 @@
       "phone": "+2348104879072",
       "played": 16,
       "wins": 5,
-      "draws": 2,
-      "losses": 9,
-      "points": 17,
+      "draws": 0,
+      "losses": 11,
+      "points": 15,
       "gf": 5,
       "ga": 9,
       "form": [
         "L",
-        "W",
-        "L",
-        "L",
-        "L",
         "L",
         "L",
         "W",
         "L",
-        "L"
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": true
@@ -317,14 +265,40 @@
       "username": "DNE",
       "phone": "+27750656258",
       "played": 8,
-      "wins": 0,
-      "draws": 1,
-      "losses": 7,
-      "points": 1,
+      "wins": 3,
+      "draws": 0,
+      "losses": 5,
+      "points": 9,
       "gf": 0,
-      "ga": 7,
+      "ga": 8,
       "form": [
-        "D",
+        "W",
+        "L",
+        "L",
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": true
+    },
+    {
+      "name": "Mihle",
+      "username": "Rabbit",
+      "phone": "+270719709662",
+      "played": 33,
+      "wins": 2,
+      "draws": 0,
+      "losses": 31,
+      "points": 6,
+      "gf": 12,
+      "ga": 18,
+      "form": [
+        "L",
+        "L",
+        "L",
         "L",
         "L",
         "L",
@@ -335,26 +309,68 @@
       ],
       "postponements": 20,
       "suspended": true
+    },
+    {
+      "name": "Snap Hokage",
+      "username": "LaMonK",
+      "phone": "+27794291572",
+      "played": 28,
+      "wins": 0,
+      "draws": 0,
+      "losses": 28,
+      "points": 0,
+      "gf": 10,
+      "ga": 14,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ],
+      "postponements": 19,
+      "suspended": true
     }
   ],
   "results": [
     {
-      "home": "Kaboman",
-      "away": "BullDOZER",
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "result": "away",
-      "date": "2026-10-06"
+      "home": "YANITED",
+      "away": "Astral_Reign",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-10-07"
     },
     {
       "home": "Angel",
       "away": "RobotChicken",
       "homeGoals": 0,
-      "awayGoals": 4,
+      "awayGoals": 1,
       "result": "away",
       "date": "2026-10-07"
     },
     {
+      "home": "Kaboman",
+      "away": "BullDOZER",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-10-06"
+    },
+    {
+      "home": "Astral_Reign",
+      "away": "BunnyBearZA",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-10-06"
+    },
+    {
       "home": "Mini",
       "away": "Angel",
       "homeGoals": 1,
@@ -391,7 +407,7 @@
       "away": "Kaboman",
       "homeGoals": 0,
       "awayGoals": 4,
-      "result": "away",
+      "result": "home",
       "date": "2026-10-05"
     },
     {
@@ -455,7 +471,7 @@
       "away": "Kaboman",
       "homeGoals": 0,
       "awayGoals": 4,
-      "result": "away",
+      "result": "home",
       "date": "2026-10-01"
     },
     {
@@ -791,7 +807,7 @@
       "away": "Kaboman",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-09-18"
     },
     {
@@ -1047,7 +1063,7 @@
       "away": "Rabbit",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-09-09"
     },
     {
@@ -1183,7 +1199,7 @@
       "away": "Rabbit",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-09-03"
     },
     {
@@ -1255,7 +1271,7 @@
       "away": "LaMonK",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-09-04"
     },
     {
@@ -1311,7 +1327,7 @@
       "away": "LaMonK",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-09-02"
     },
     {
@@ -1359,7 +1375,7 @@
       "away": "LaMonK",
       "homeGoals": 0,
       "awayGoals": 0,
-      "result": "draw",
+      "result": "home",
       "date": "2026-08-31"
     },
     {
@@ -1407,7 +1423,7 @@
       "away": "RobotChicken",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-29"
     },
     {
@@ -1463,7 +1479,7 @@
       "away": "Mini",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-28"
     },
     {
@@ -1535,7 +1551,7 @@
       "away": "Rabbit",
       "homeGoals": 0,
       "awayGoals": 0,
-      "result": "draw",
+      "result": "home",
       "date": "2026-08-25"
     },
     {
@@ -1607,7 +1623,7 @@
       "away": "Kaboman",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-26"
     },
     {
@@ -1615,7 +1631,7 @@
       "away": "LaMonK",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-08-25"
     },
     {
@@ -1639,7 +1655,7 @@
       "away": "LaMonK",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-08-22"
     },
     {
@@ -1647,7 +1663,7 @@
       "away": "RobotChicken",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-24"
     },
     {
@@ -1687,7 +1703,7 @@
       "away": "LaMonK",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-08-21"
     },
     {
@@ -1703,7 +1719,7 @@
       "away": "Kaboman",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-08-21"
     },
     {
@@ -1727,7 +1743,7 @@
       "away": "Emmanuel",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-21"
     },
     {
@@ -1751,7 +1767,7 @@
       "away": "Kaboman",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-20"
     },
     {
@@ -1791,7 +1807,7 @@
       "away": "Emmanuel",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-08-19"
     },
     {
@@ -1815,7 +1831,7 @@
       "away": "LaMonK",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-08-19"
     },
     {
@@ -1831,7 +1847,7 @@
       "away": "Rabbit",
       "homeGoals": 0,
       "awayGoals": 0,
-      "result": "draw",
+      "result": "home",
       "date": "2026-08-17"
     },
     {
@@ -1863,7 +1879,7 @@
       "away": "Kaboman",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-08-17"
     },
     {
@@ -1871,7 +1887,7 @@
       "away": "Rabbit",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-08-18"
     },
     {
@@ -1879,7 +1895,7 @@
       "away": "LaMonK",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-08-18"
     },
     {
@@ -1903,7 +1919,7 @@
       "away": "YANITED",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-17"
     },
     {
@@ -1927,7 +1943,7 @@
       "away": "YANITED",
       "homeGoals": 0,
       "awayGoals": 0,
-      "result": "draw",
+      "result": "away",
       "date": "2026-08-15"
     },
     {
@@ -1951,14 +1967,6 @@
       "away": "Astral_Reign",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
-      "date": "2026-08-15"
-    },
-    {
-      "home": "Kaboman",
-      "away": "BunnyBearZA",
-      "homeGoals": 0,
-      "awayGoals": 1,
       "result": "away",
       "date": "2026-08-15"
     },
@@ -1975,7 +1983,7 @@
       "away": "Kaboman",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-08-14"
     },
     {
@@ -1983,7 +1991,7 @@
       "away": "Rabbit",
       "homeGoals": 0,
       "awayGoals": 0,
-      "result": "draw",
+      "result": "away",
       "date": "2026-08-14"
     },
     {
@@ -2039,7 +2047,7 @@
       "away": "LaMonK",
       "homeGoals": 0,
       "awayGoals": 0,
-      "result": "draw",
+      "result": "home",
       "date": "2026-08-13"
     },
     {
@@ -2047,7 +2055,7 @@
       "away": "Astral_Reign",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-13"
     },
     {
@@ -2095,7 +2103,7 @@
       "away": "Angel",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-12"
     },
     {
@@ -2103,7 +2111,7 @@
       "away": "Emmanuel",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-08-12"
     },
     {
@@ -2143,7 +2151,7 @@
       "away": "Incredible_Brad",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-11"
     },
     {
@@ -2151,7 +2159,7 @@
       "away": "RobotChicken",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-11"
     },
     {
@@ -2167,7 +2175,7 @@
       "away": "Incredible_Brad",
       "homeGoals": 0,
       "awayGoals": 0,
-      "result": "draw",
+      "result": "away",
       "date": "2026-08-08"
     },
     {
@@ -2175,7 +2183,7 @@
       "away": "DNE",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-08"
     },
     {
@@ -2191,7 +2199,7 @@
       "away": "Mini",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-08"
     },
     {
@@ -2247,7 +2255,7 @@
       "away": "Astral_Reign",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-07"
     },
     {
@@ -2263,7 +2271,7 @@
       "away": "Emmanuel",
       "homeGoals": 0,
       "awayGoals": 0,
-      "result": "draw",
+      "result": "home",
       "date": "2026-08-06"
     },
     {
@@ -2287,7 +2295,7 @@
       "away": "Kaboman",
       "homeGoals": 0,
       "awayGoals": 1,
-      "result": "away",
+      "result": "home",
       "date": "2026-08-06"
     },
     {
@@ -2343,7 +2351,7 @@
       "away": "Angel",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-05"
     },
     {
@@ -2391,7 +2399,7 @@
       "away": "YANITED",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-04"
     },
     {
@@ -2413,9 +2421,9 @@
     {
       "home": "Rabbit",
       "away": "DNE",
-      "homeGoals": 0,
+      "homeGoals": 1,
       "awayGoals": 0,
-      "result": "draw",
+      "result": "away",
       "date": "2026-08-03"
     },
     {
@@ -2423,7 +2431,7 @@
       "away": "YANITED",
       "homeGoals": 1,
       "awayGoals": 0,
-      "result": "home",
+      "result": "away",
       "date": "2026-08-03"
     },
     {
@@ -2451,6 +2459,6 @@
       "date": "2026-08-03"
     }
   ],
-  "updatedAt": "2026-10-07T20:38:39.103Z",
-  "matchesPlayed": 264
+  "updatedAt": "2026-10-07T20:46:56.376Z",
+  "matchesPlayed": 265
 }
