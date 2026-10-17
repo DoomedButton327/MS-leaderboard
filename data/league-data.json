@@ -56,18 +56,18 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 56,
-      "wins": 40,
+      "played": 57,
+      "wins": 41,
       "draws": 2,
       "losses": 14,
-      "points": 122,
-      "gf": 50,
+      "points": 125,
+      "gf": 51,
       "ga": 15,
       "form": [
-        "W",
         "L",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -108,24 +108,24 @@
       "name": "DarkHawk",
       "username": "DarkHawk",
       "phone": "+2348057545152",
-      "played": 54,
+      "played": 55,
       "wins": 31,
       "draws": 1,
-      "losses": 22,
+      "losses": 23,
       "points": 94,
       "gf": 32,
-      "ga": 29,
+      "ga": 30,
       "form": [
         "L",
         "L",
         "L",
         "L",
-        "L",
         "W",
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "DarkHawk",
+      "away": "BullDOZER",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-10-16"
+    },
     {
       "home": "Angel",
       "away": "Astral_Reign",
@@ -2683,6 +2691,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-17T20:01:56.732Z",
-  "matchesPlayed": 293
+  "updatedAt": "2026-10-17T20:02:52.376Z",
+  "matchesPlayed": 294
 }
