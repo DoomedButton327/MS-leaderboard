@@ -4,15 +4,14 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 56,
+      "played": 57,
       "wins": 43,
       "draws": 2,
-      "losses": 11,
+      "losses": 12,
       "points": 131,
       "gf": 40,
-      "ga": 19,
+      "ga": 20,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -21,7 +20,8 @@
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -30,15 +30,14 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 56,
-      "wins": 41,
+      "played": 57,
+      "wins": 42,
       "draws": 2,
       "losses": 13,
-      "points": 125,
-      "gf": 42,
+      "points": 128,
+      "gf": 43,
       "ga": 17,
       "form": [
-        "W",
         "L",
         "L",
         "W",
@@ -47,6 +46,7 @@
         "W",
         "L",
         "L",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Mini",
+      "away": "YANITED",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-10-16"
+    },
     {
       "home": "BullDOZER",
       "away": "BunnyBearZA",
@@ -2659,6 +2667,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-16T23:14:16.502Z",
-  "matchesPlayed": 290
+  "updatedAt": "2026-10-17T20:01:38.107Z",
+  "matchesPlayed": 291
 }
