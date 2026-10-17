@@ -1,6 +1,32 @@
 {
   "players": [
     {
+      "name": "Fahd",
+      "username": "Mini",
+      "phone": "+2348140087648",
+      "played": 58,
+      "wins": 43,
+      "draws": 2,
+      "losses": 13,
+      "points": 131,
+      "gf": 44,
+      "ga": 17,
+      "form": [
+        "L",
+        "W",
+        "W",
+        "W",
+        "W",
+        "L",
+        "L",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
@@ -27,44 +53,17 @@
       "suspended": false
     },
     {
-      "name": "Fahd",
-      "username": "Mini",
-      "phone": "+2348140087648",
-      "played": 57,
-      "wins": 42,
-      "draws": 2,
-      "losses": 13,
-      "points": 128,
-      "gf": 43,
-      "ga": 17,
-      "form": [
-        "L",
-        "L",
-        "W",
-        "W",
-        "W",
-        "W",
-        "L",
-        "L",
-        "W",
-        "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 57,
+      "played": 58,
       "wins": 41,
       "draws": 2,
-      "losses": 14,
+      "losses": 15,
       "points": 125,
       "gf": 51,
-      "ga": 15,
+      "ga": 16,
       "form": [
-        "L",
         "W",
         "D",
         "W",
@@ -73,7 +72,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "BullDOZER",
+      "away": "Mini",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-10-17"
+    },
     {
       "home": "DarkHawk",
       "away": "BullDOZER",
@@ -2691,6 +2699,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-17T20:02:52.376Z",
-  "matchesPlayed": 294
+  "updatedAt": "2026-10-17T20:03:01.326Z",
+  "matchesPlayed": 295
 }
