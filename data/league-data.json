@@ -82,21 +82,21 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 55,
+      "played": 56,
       "wins": 31,
       "draws": 3,
-      "losses": 21,
+      "losses": 22,
       "points": 96,
       "gf": 37,
-      "ga": 40,
+      "ga": 41,
       "form": [
         "L",
         "L",
-        "L",
         "W",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L"
@@ -160,12 +160,12 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 58,
-      "wins": 27,
+      "played": 59,
+      "wins": 28,
       "draws": 0,
       "losses": 31,
-      "points": 81,
-      "gf": 26,
+      "points": 84,
+      "gf": 27,
       "ga": 43,
       "form": [
         "L",
@@ -174,9 +174,9 @@
         "L",
         "L",
         "L",
-        "L",
         "W",
         "L",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "BunnyBearZA",
+      "away": "Angel",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-10-19"
+    },
     {
       "home": "Astral_Reign",
       "away": "Mini",
@@ -2731,6 +2739,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-19T23:15:42.719Z",
-  "matchesPlayed": 299
+  "updatedAt": "2026-10-20T04:59:26.251Z",
+  "matchesPlayed": 300
 }
