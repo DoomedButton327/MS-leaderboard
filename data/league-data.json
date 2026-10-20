@@ -1,6 +1,32 @@
 {
   "players": [
     {
+      "name": "Lethabo",
+      "username": "YANITED",
+      "phone": "+27714588239",
+      "played": 60,
+      "wins": 45,
+      "draws": 2,
+      "losses": 13,
+      "points": 137,
+      "gf": 42,
+      "ga": 21,
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
@@ -22,32 +48,6 @@
         "W",
         "W",
         "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Lethabo",
-      "username": "YANITED",
-      "phone": "+27714588239",
-      "played": 59,
-      "wins": 44,
-      "draws": 2,
-      "losses": 13,
-      "points": 134,
-      "gf": 41,
-      "ga": 21,
-      "form": [
-        "W",
-        "W",
-        "D",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "W",
-        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -108,23 +108,23 @@
       "name": "DarkHawk",
       "username": "DarkHawk",
       "phone": "+2348057545152",
-      "played": 55,
+      "played": 56,
       "wins": 31,
       "draws": 1,
-      "losses": 23,
+      "losses": 24,
       "points": 94,
       "gf": 32,
-      "ga": 30,
+      "ga": 31,
       "form": [
         "L",
         "L",
         "L",
-        "L",
         "W",
         "W",
         "L",
         "W",
         "W",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "DarkHawk",
+      "away": "YANITED",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-10-20"
+    },
     {
       "home": "Angel",
       "away": "BullDOZER",
@@ -2747,6 +2755,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-20T23:14:39.237Z",
-  "matchesPlayed": 301
+  "updatedAt": "2026-10-20T23:14:49.512Z",
+  "matchesPlayed": 302
 }
