@@ -79,6 +79,32 @@
       "suspended": false
     },
     {
+      "name": "DarkHawk",
+      "username": "DarkHawk",
+      "phone": "+2348057545152",
+      "played": 57,
+      "wins": 32,
+      "draws": 1,
+      "losses": 24,
+      "points": 97,
+      "gf": 33,
+      "ga": 31,
+      "form": [
+        "L",
+        "L",
+        "W",
+        "W",
+        "L",
+        "W",
+        "W",
+        "L",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
@@ -105,45 +131,18 @@
       "suspended": false
     },
     {
-      "name": "DarkHawk",
-      "username": "DarkHawk",
-      "phone": "+2348057545152",
-      "played": 56,
-      "wins": 31,
-      "draws": 1,
-      "losses": 24,
-      "points": 94,
-      "gf": 32,
-      "ga": 31,
-      "form": [
-        "L",
-        "L",
-        "L",
-        "W",
-        "W",
-        "L",
-        "W",
-        "W",
-        "L",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 60,
+      "played": 61,
       "wins": 29,
       "draws": 0,
-      "losses": 31,
+      "losses": 32,
       "points": 87,
       "gf": 25,
-      "ga": 38,
+      "ga": 39,
       "form": [
         "W",
-        "W",
         "L",
         "L",
         "L",
@@ -151,6 +150,7 @@
         "W",
         "L",
         "W",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Astral_Reign",
+      "away": "DarkHawk",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-10-21"
+    },
     {
       "home": "BullDOZER",
       "away": "Angel",
@@ -2763,6 +2771,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-21T23:14:37.921Z",
-  "matchesPlayed": 303
+  "updatedAt": "2026-10-21T23:14:51.191Z",
+  "matchesPlayed": 304
 }
