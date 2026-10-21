@@ -1,6 +1,32 @@
 {
   "players": [
     {
+      "name": "Fahd",
+      "username": "Mini",
+      "phone": "+2348140087648",
+      "played": 60,
+      "wins": 45,
+      "draws": 2,
+      "losses": 13,
+      "points": 137,
+      "gf": 46,
+      "ga": 17,
+      "form": [
+        "W",
+        "W",
+        "W",
+        "L",
+        "L",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
@@ -45,32 +71,6 @@
         "W",
         "W",
         "L",
-        "W",
-        "W",
-        "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Fahd",
-      "username": "Mini",
-      "phone": "+2348140087648",
-      "played": 59,
-      "wins": 44,
-      "draws": 2,
-      "losses": 13,
-      "points": 134,
-      "gf": 45,
-      "ga": 17,
-      "form": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "L",
-        "L",
-        "W",
         "W",
         "W",
         "W"
@@ -134,15 +134,14 @@
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 61,
+      "played": 62,
       "wins": 29,
       "draws": 0,
-      "losses": 32,
+      "losses": 33,
       "points": 87,
       "gf": 25,
-      "ga": 39,
+      "ga": 40,
       "form": [
-        "W",
         "L",
         "L",
         "L",
@@ -150,6 +149,7 @@
         "W",
         "L",
         "W",
+        "L",
         "L",
         "L"
       ],
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Astral_Reign",
+      "away": "Mini",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-10-20"
+    },
     {
       "home": "DarkHawk",
       "away": "Incredible_Brad",
@@ -2779,6 +2787,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-21T23:15:01.850Z",
-  "matchesPlayed": 305
+  "updatedAt": "2026-10-21T23:15:15.545Z",
+  "matchesPlayed": 306
 }
