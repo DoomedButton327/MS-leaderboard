@@ -30,15 +30,14 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 60,
-      "wins": 45,
+      "played": 61,
+      "wins": 46,
       "draws": 2,
       "losses": 13,
-      "points": 137,
-      "gf": 42,
+      "points": 140,
+      "gf": 43,
       "ga": 21,
       "form": [
-        "W",
         "D",
         "W",
         "L",
@@ -47,6 +46,7 @@
         "L",
         "W",
         "L",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -108,20 +108,20 @@
       "name": "Bjorn",
       "username": "BunnyBearZA",
       "phone": "+27815794703",
-      "played": 56,
+      "played": 57,
       "wins": 31,
       "draws": 3,
-      "losses": 22,
+      "losses": 23,
       "points": 96,
       "gf": 37,
-      "ga": 41,
+      "ga": 42,
       "form": [
         "L",
-        "L",
         "W",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "YANITED",
+      "away": "BunnyBearZA",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-10-21"
+    },
     {
       "home": "Mini",
       "away": "Incredible_Brad",
@@ -2795,6 +2803,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-22T22:22:19.538Z",
-  "matchesPlayed": 307
+  "updatedAt": "2026-10-22T22:25:03.031Z",
+  "matchesPlayed": 308
 }
