@@ -4,15 +4,14 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 63,
+      "played": 64,
       "wins": 48,
       "draws": 2,
-      "losses": 13,
+      "losses": 14,
       "points": 146,
       "gf": 45,
-      "ga": 21,
+      "ga": 22,
       "form": [
-        "L",
         "W",
         "W",
         "L",
@@ -21,7 +20,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -160,15 +160,14 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 64,
-      "wins": 30,
+      "played": 65,
+      "wins": 31,
       "draws": 0,
       "losses": 34,
-      "points": 90,
-      "gf": 29,
+      "points": 93,
+      "gf": 30,
       "ga": 46,
       "form": [
-        "L",
         "W",
         "L",
         "W",
@@ -176,6 +175,7 @@
         "L",
         "L",
         "L",
+        "W",
         "W",
         "W"
       ],
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "YANITED",
+      "away": "Angel",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-10-24"
+    },
     {
       "home": "DarkHawk",
       "away": "Angel",
@@ -2867,6 +2875,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-24T20:00:37.776Z",
-  "matchesPlayed": 316
+  "updatedAt": "2026-10-24T20:03:13.352Z",
+  "matchesPlayed": 317
 }
