@@ -134,15 +134,14 @@
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 64,
+      "played": 65,
       "wins": 31,
       "draws": 0,
-      "losses": 33,
+      "losses": 34,
       "points": 93,
       "gf": 27,
-      "ga": 40,
+      "ga": 41,
       "form": [
-        "L",
         "W",
         "W",
         "L",
@@ -151,7 +150,8 @@
         "L",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -186,15 +186,14 @@
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
-      "played": 61,
-      "wins": 26,
+      "played": 62,
+      "wins": 27,
       "draws": 2,
       "losses": 33,
-      "points": 80,
-      "gf": 22,
+      "points": 83,
+      "gf": 23,
       "ga": 38,
       "form": [
-        "D",
         "L",
         "W",
         "L",
@@ -203,7 +202,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Incredible_Brad",
+      "away": "Astral_Reign",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-10-24"
+    },
     {
       "home": "YANITED",
       "away": "Angel",
@@ -2875,6 +2883,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-24T20:03:13.352Z",
-  "matchesPlayed": 317
+  "updatedAt": "2026-10-24T20:07:28.887Z",
+  "matchesPlayed": 318
 }
