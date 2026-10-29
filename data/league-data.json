@@ -56,16 +56,15 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 65,
+      "played": 66,
       "wins": 46,
       "draws": 2,
-      "losses": 17,
+      "losses": 18,
       "points": 140,
       "gf": 56,
-      "ga": 18,
+      "ga": 19,
       "form": [
         "W",
-        "W",
         "L",
         "W",
         "W",
@@ -73,9 +72,36 @@
         "W",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 19,
+      "suspended": false
+    },
+    {
+      "name": "Tyron/Astral",
+      "username": "Astral_Reign",
+      "phone": "+27814301713",
+      "played": 68,
+      "wins": 35,
+      "draws": 0,
+      "losses": 33,
+      "points": 105,
+      "gf": 31,
+      "ga": 40,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "postponements": 20,
       "suspended": false
     },
     {
@@ -125,32 +151,6 @@
         "L",
         "L",
         "L",
-        "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Tyron/Astral",
-      "username": "Astral_Reign",
-      "phone": "+27814301713",
-      "played": 67,
-      "wins": 34,
-      "draws": 0,
-      "losses": 33,
-      "points": 102,
-      "gf": 30,
-      "ga": 40,
-      "form": [
-        "W",
-        "L",
-        "L",
-        "L",
-        "L",
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ],
       "postponements": 20,
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "BullDOZER",
+      "away": "Astral_Reign",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "result": "away",
+      "date": "2026-10-29"
+    },
     {
       "home": "YANITED",
       "away": "Angel",
@@ -2971,6 +2979,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-29T23:14:11.201Z",
-  "matchesPlayed": 329
+  "updatedAt": "2026-10-29T23:14:22.223Z",
+  "matchesPlayed": 330
 }
