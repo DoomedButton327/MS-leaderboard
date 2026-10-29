@@ -1,6 +1,32 @@
 {
   "players": [
     {
+      "name": "Lethabo",
+      "username": "YANITED",
+      "phone": "+27714588239",
+      "played": 67,
+      "wins": 50,
+      "draws": 2,
+      "losses": 15,
+      "points": 152,
+      "gf": 47,
+      "ga": 23,
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W",
+        "W",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
@@ -22,32 +48,6 @@
         "W",
         "W",
         "W"
-      ],
-      "postponements": 20,
-      "suspended": false
-    },
-    {
-      "name": "Lethabo",
-      "username": "YANITED",
-      "phone": "+27714588239",
-      "played": 66,
-      "wins": 49,
-      "draws": 2,
-      "losses": 15,
-      "points": 149,
-      "gf": 46,
-      "ga": 23,
-      "form": [
-        "L",
-        "W",
-        "L",
-        "W",
-        "W",
-        "W",
-        "W",
-        "L",
-        "W",
-        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -160,16 +160,15 @@
       "name": "Angel",
       "username": "Angel",
       "phone": "+27833006494",
-      "played": 67,
+      "played": 68,
       "wins": 32,
       "draws": 0,
-      "losses": 35,
+      "losses": 36,
       "points": 96,
       "gf": 31,
-      "ga": 47,
+      "ga": 48,
       "form": [
         "W",
-        "W",
         "L",
         "L",
         "L",
@@ -177,7 +176,8 @@
         "W",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "YANITED",
+      "away": "Angel",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-10-29"
+    },
     {
       "home": "DarkHawk",
       "away": "BunnyBearZA",
@@ -2963,6 +2971,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-29T23:14:00.627Z",
-  "matchesPlayed": 328
+  "updatedAt": "2026-10-29T23:14:11.201Z",
+  "matchesPlayed": 329
 }
