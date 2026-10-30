@@ -82,18 +82,18 @@
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 68,
-      "wins": 35,
+      "played": 69,
+      "wins": 36,
       "draws": 0,
       "losses": 33,
-      "points": 105,
-      "gf": 31,
+      "points": 108,
+      "gf": 32,
       "ga": 40,
       "form": [
         "L",
         "L",
         "L",
-        "L",
+        "W",
         "W",
         "W",
         "W",
@@ -186,13 +186,13 @@
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
-      "played": 64,
+      "played": 65,
       "wins": 26,
       "draws": 2,
-      "losses": 36,
+      "losses": 37,
       "points": 80,
       "gf": 22,
-      "ga": 41,
+      "ga": 42,
       "form": [
         "L",
         "L",
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Astral_Reign",
+      "away": "Incredible_Brad",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-10-30"
+    },
     {
       "home": "Mini",
       "away": "BunnyBearZA",
@@ -3011,6 +3019,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-30T21:25:39.550Z",
-  "matchesPlayed": 334
+  "updatedAt": "2026-10-30T21:25:54.698Z",
+  "matchesPlayed": 335
 }
