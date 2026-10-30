@@ -4,15 +4,14 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 67,
+      "played": 68,
       "wins": 50,
       "draws": 2,
-      "losses": 15,
+      "losses": 16,
       "points": 152,
       "gf": 47,
-      "ga": 23,
+      "ga": 24,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -21,7 +20,8 @@
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -56,15 +56,14 @@
       "name": "BullDOZER",
       "username": "BullDOZER",
       "phone": "+27784483912",
-      "played": 67,
-      "wins": 47,
+      "played": 68,
+      "wins": 48,
       "draws": 2,
       "losses": 18,
-      "points": 143,
-      "gf": 60,
+      "points": 146,
+      "gf": 61,
       "ga": 19,
       "form": [
-        "L",
         "W",
         "W",
         "W",
@@ -73,6 +72,7 @@
         "L",
         "W",
         "L",
+        "W",
         "W"
       ],
       "postponements": 19,
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "BullDOZER",
+      "away": "YANITED",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-10-30"
+    },
     {
       "home": "DarkHawk",
       "away": "BullDOZER",
@@ -2987,6 +2995,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-10-29T23:14:41.272Z",
-  "matchesPlayed": 331
+  "updatedAt": "2026-10-30T21:24:01.951Z",
+  "matchesPlayed": 332
 }
