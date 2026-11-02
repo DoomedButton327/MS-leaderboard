@@ -30,15 +30,14 @@
       "name": "Lethabo",
       "username": "YANITED",
       "phone": "+27714588239",
-      "played": 68,
+      "played": 69,
       "wins": 50,
-      "draws": 2,
+      "draws": 3,
       "losses": 16,
-      "points": 152,
+      "points": 153,
       "gf": 47,
       "ga": 24,
       "form": [
-        "L",
         "W",
         "W",
         "W",
@@ -47,7 +46,8 @@
         "W",
         "L",
         "W",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -105,6 +105,32 @@
       "suspended": false
     },
     {
+      "name": "Bjorn",
+      "username": "BunnyBearZA",
+      "phone": "+27815794703",
+      "played": 64,
+      "wins": 33,
+      "draws": 4,
+      "losses": 27,
+      "points": 103,
+      "gf": 42,
+      "ga": 46,
+      "form": [
+        "L",
+        "L",
+        "L",
+        "W",
+        "L",
+        "L",
+        "L",
+        "W",
+        "L",
+        "D"
+      ],
+      "postponements": 20,
+      "suspended": false
+    },
+    {
       "name": "DarkHawk",
       "username": "DarkHawk",
       "phone": "+2348057545152",
@@ -128,32 +154,6 @@
         "L"
       ],
       "postponements": 19,
-      "suspended": false
-    },
-    {
-      "name": "Bjorn",
-      "username": "BunnyBearZA",
-      "phone": "+27815794703",
-      "played": 63,
-      "wins": 33,
-      "draws": 3,
-      "losses": 27,
-      "points": 102,
-      "gf": 42,
-      "ga": 46,
-      "form": [
-        "L",
-        "L",
-        "L",
-        "L",
-        "W",
-        "L",
-        "L",
-        "L",
-        "W",
-        "L"
-      ],
-      "postponements": 20,
       "suspended": false
     },
     {
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "YANITED",
+      "away": "BunnyBearZA",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "result": "draw",
+      "date": "2026-10-31"
+    },
     {
       "home": "Incredible_Brad",
       "away": "DarkHawk",
@@ -3035,6 +3043,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-11-02T08:49:44.502Z",
-  "matchesPlayed": 337
+  "updatedAt": "2026-11-02T08:55:25.783Z",
+  "matchesPlayed": 338
 }
