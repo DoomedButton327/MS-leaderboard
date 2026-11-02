@@ -108,20 +108,20 @@
       "name": "DarkHawk",
       "username": "DarkHawk",
       "phone": "+2348057545152",
-      "played": 65,
+      "played": 66,
       "wins": 34,
       "draws": 1,
-      "losses": 30,
+      "losses": 31,
       "points": 103,
       "gf": 35,
-      "ga": 43,
+      "ga": 44,
       "form": [
-        "W",
         "L",
         "W",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -186,12 +186,12 @@
       "name": "Brad",
       "username": "Incredible_Brad",
       "phone": "+27827436317",
-      "played": 66,
-      "wins": 26,
+      "played": 67,
+      "wins": 27,
       "draws": 2,
       "losses": 38,
-      "points": 80,
-      "gf": 22,
+      "points": 83,
+      "gf": 23,
       "ga": 43,
       "form": [
         "L",
@@ -203,7 +203,7 @@
         "L",
         "L",
         "L",
-        "L"
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Incredible_Brad",
+      "away": "DarkHawk",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-10-31"
+    },
     {
       "home": "Mini",
       "away": "Incredible_Brad",
@@ -3027,6 +3035,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-11-01T23:13:58.127Z",
-  "matchesPlayed": 336
+  "updatedAt": "2026-11-02T08:49:44.502Z",
+  "matchesPlayed": 337
 }
