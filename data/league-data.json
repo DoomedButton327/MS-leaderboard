@@ -4,24 +4,24 @@
       "name": "Fahd",
       "username": "Mini",
       "phone": "+2348140087648",
-      "played": 68,
+      "played": 69,
       "wins": 51,
       "draws": 2,
-      "losses": 15,
+      "losses": 16,
       "points": 155,
       "gf": 52,
-      "ga": 19,
+      "ga": 20,
       "form": [
         "W",
         "W",
-        "W",
         "L",
         "L",
         "W",
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -82,17 +82,17 @@
       "name": "Tyron/Astral",
       "username": "Astral_Reign",
       "phone": "+27814301713",
-      "played": 69,
-      "wins": 36,
+      "played": 70,
+      "wins": 37,
       "draws": 0,
       "losses": 33,
-      "points": 108,
-      "gf": 32,
+      "points": 111,
+      "gf": 33,
       "ga": 40,
       "form": [
         "L",
         "L",
-        "L",
+        "W",
         "W",
         "W",
         "W",
@@ -338,6 +338,14 @@
     }
   ],
   "results": [
+    {
+      "home": "Astral_Reign",
+      "away": "Mini",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "result": "home",
+      "date": "2026-10-31"
+    },
     {
       "home": "BullDOZER",
       "away": "Angel",
@@ -3051,6 +3059,6 @@
       "date": "2026-10-06"
     }
   ],
-  "updatedAt": "2026-11-03T05:46:22.703Z",
-  "matchesPlayed": 339
+  "updatedAt": "2026-11-03T05:46:29.610Z",
+  "matchesPlayed": 340
 }
